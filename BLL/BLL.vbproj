@@ -97,8 +97,8 @@
     <DebugType>none</DebugType>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="C1.Win.C1Report, Version=1.1.20023.28, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9">
-      <HintPath>..\..\..\..\LibDLL\C1.Win.C1Report.dll</HintPath>
+    <Reference Include="C1.Win.C1Report">
+      <HintPath>..\Mark\bin\C1.Win.C1Report.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
