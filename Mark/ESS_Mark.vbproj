@@ -249,6 +249,7 @@
     <Reference Include="System.Data">
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Deployment">
       <Private>True</Private>
     </Reference>
@@ -1044,10 +1045,28 @@
     <Compile Include="Report\BangDiemTN\rpt_BaoCaoTongKet_KetQuaThiTN.vb">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Report\rptBangTongHopDiemKT.Designer.vb">
+    <Compile Include="Report\Minh_24102017\rptBangTongHopDiemKT.Designer.vb">
       <DependentUpon>rptBangTongHopDiemKT.vb</DependentUpon>
     </Compile>
-    <Compile Include="Report\rptBangTongHopDiemKT.vb">
+    <Compile Include="Report\Minh_24102017\rptBangTongHopDiemKT.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_DiemTongKetMonHoc_Mau05a.Designer.vb">
+      <DependentUpon>rpt_DiemTongKetMonHoc_Mau05a.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_DiemTongKetMonHoc_Mau05a.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04b.Designer.vb">
+      <DependentUpon>rpt_KetQuaThiKetThucMonHoc_Mau04b.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04b.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04a.Designer.vb">
+      <DependentUpon>rpt_KetQuaThiKetThucMonHoc_Mau04a.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04a.vb">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Report\rptTotNghiepLyThuyet.Designer.vb">
@@ -1168,6 +1187,12 @@
       <DependentUpon>rptDanhSachNoMon.vb</DependentUpon>
     </Compile>
     <Compile Include="Report\rptDanhSachNoMon.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc.Designer.vb">
+      <DependentUpon>rpt_KetQuaThiKetThucMonHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc.vb">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Report\rpt_TongHopTheoNam.Designer.vb">
@@ -2141,8 +2166,17 @@
       <DependentUpon>rpt_BaoCaoTongKet_KetQuaThiTN.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Report\rptBangTongHopDiemKT.resx">
+    <EmbeddedResource Include="Report\Minh_24102017\rptBangTongHopDiemKT.resx">
       <DependentUpon>rptBangTongHopDiemKT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Minh_24102017\rpt_DiemTongKetMonHoc_Mau05a.resx">
+      <DependentUpon>rpt_DiemTongKetMonHoc_Mau05a.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04b.resx">
+      <DependentUpon>rpt_KetQuaThiKetThucMonHoc_Mau04b.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04a.resx">
+      <DependentUpon>rpt_KetQuaThiKetThucMonHoc_Mau04a.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Report\rptTotNghiepLyThuyet.resx">
       <DependentUpon>rptTotNghiepLyThuyet.vb</DependentUpon>
@@ -2223,6 +2257,9 @@
     <EmbeddedResource Include="Report\rptDanhSachNoMon.resx">
       <DependentUpon>rptDanhSachNoMon.vb</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc.resx">
+      <DependentUpon>rpt_KetQuaThiKetThucMonHoc.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Report\rpt_TongHopTheoNam.resx">
       <DependentUpon>rpt_TongHopTheoNam.vb</DependentUpon>
@@ -2742,6 +2779,7 @@
       <Name>ESS_Library</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

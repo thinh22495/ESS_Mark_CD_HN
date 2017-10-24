@@ -5,6 +5,7 @@ Imports ESS.Library
 Imports ESS.Catalogue
 Imports ESS.Machine
 Imports ESS.Entity
+Imports DevExpress.XtraReports.UI
 
 Public Class frmESS_NhapDiemThiLop
     Private mID_he As Integer = 0
@@ -1181,5 +1182,16 @@ Public Class frmESS_NhapDiemThiLop
     Private Sub btnTP_Diem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnTP_Diem.Click
         Dim frm As New frmThanhPhanThi(dsID_lop, cmbID_mon.SelectedValue, clsDiem.GetDsThanhPhanThi)
         frm.ShowDialog()
+    End Sub
+
+    Private Sub BarButtonItem1_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem1.ItemClick
+        Try
+            Dim dv As DataView = grdViewDiem.DataSource
+            Dim report As New rpt_DiemTongKetMonHoc_Mau05a(dv, cmbID_mon.Text)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+        Catch ex As Exception
+
+        End Try
     End Sub
 End Class

@@ -5,6 +5,7 @@ Imports System.Drawing.Drawing2D
 Imports ESS.BLL.Business
 Imports ESS.Entity.Entity
 Imports ESS.Library
+Imports DevExpress.XtraReports.UI
 
 Public Class frmESS_ToChucThi_DanhSach
     Private mID_he As Integer = 0
@@ -1463,7 +1464,7 @@ Public Class frmESS_ToChucThi_DanhSach
                     dtDiemTH.Rows(i).Item("Khong_du_dk_thi") = dtDiemTH.Rows(i).Item("Ghi_chu_thi")
                     If dtDiemTH.Rows(i).Item("Khong_du_dk_thi") <> "" Then dtDiemTH.Rows(i).Item("Khong_du_dk_thi") = "X"
                 Next
-                
+
                 Dim dtTP As DataTable = clsDiem.MARK_LietKeCacDiemThanhPhan_Load(mHoc_ky, mNam_hoc)
                 'Dim dtDiemTH_Sort As DataTable = dtDiemTH.Copy
                 dtDiemTH.DefaultView.Sort = "So_bao_danh"
@@ -1778,7 +1779,7 @@ Public Class frmESS_ToChucThi_DanhSach
         Dim frm As New frmTongHopSinhVienThiTotNghiepChinhTri
         frm.ShowDialog()
     End Sub
-     
+
     Private Sub cmdPhieuTheoDoi_LyThuyet_ItemClick(ByVal sender As System.Object, ByVal e As DevExpress.XtraBars.ItemClickEventArgs) Handles cmdPhieuTheoDoi_LyThuyet.ItemClick
 
     End Sub
@@ -1816,7 +1817,7 @@ Public Class frmESS_ToChucThi_DanhSach
                 newRow("Thoi_gian_thi") = dtPhongThi.Rows(0)("Thoi_gian")
                 newRow("Ngay_thi") = DateTime.Parse(dtPhongThi.Rows(0)("Ngay_thi").ToString()).Date.ToShortDateString()
             End If
-            
+
             If dtMonHoc.Rows.Count > 0 Then
                 newRow("Ten_mon") = "Môn học/mô-đun: " & dtMonHoc.Rows(0)("Ten_mon")
             End If
@@ -2071,6 +2072,60 @@ Public Class frmESS_ToChucThi_DanhSach
             PrintXtraReport(rpt)
         Catch ex As Exception
             Thongbao(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem8_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem8.ItemClick
+        Try
+            Dim dv As DataView = grdViewDanhSachThi.DataSource
+            Dim dt As DataTable = ESS.Machine.UDB.SelectTable("SELECT * FROM MARK_TochucThi WHERE ID_thi = " & trvPhongThi.ID_thi)
+            Dim Ngay_thi As String
+            If dt.Rows.Count > 0 Then
+                Ngay_thi = Convert.ToDateTime(dt.Rows(0)("Ngay_thi").ToString).ToString("dd/MM/yyyy")
+            Else
+                Ngay_thi = ".................................."
+            End If
+            Dim report As New rpt_KetQuaThiKetThucMonHoc(dv, trvPhongThi.Ten_mon, Ngay_thi)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem9_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem9.ItemClick
+        Try
+            Dim dv As DataView = grdViewDanhSachThi.DataSource
+            Dim dt As DataTable = ESS.Machine.UDB.SelectTable("SELECT * FROM MARK_TochucThi WHERE ID_thi = " & trvPhongThi.ID_thi)
+            Dim Ngay_thi As String
+            If dt.Rows.Count > 0 Then
+                Ngay_thi = Convert.ToDateTime(dt.Rows(0)("Ngay_thi").ToString).ToString("dd/MM/yyyy")
+            Else
+                Ngay_thi = "...................................."
+            End If
+            Dim report As New rpt_KetQuaThiKetThucMonHoc_Mau04a(dv, trvPhongThi.Ten_mon, Ngay_thi)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem10_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem10.ItemClick
+        Try
+            Dim dv As DataView = grdViewDanhSachThi.DataSource
+            Dim dt As DataTable = ESS.Machine.UDB.SelectTable("SELECT * FROM MARK_TochucThi WHERE ID_thi = " & trvPhongThi.ID_thi)
+            Dim Ngay_thi As String
+            If dt.Rows.Count > 0 Then
+                Ngay_thi = Convert.ToDateTime(dt.Rows(0)("Ngay_thi").ToString).ToString("dd/MM/yyyy")
+            Else
+                Ngay_thi = "........................................."
+            End If
+            Dim report As New rpt_KetQuaThiKetThucMonHoc_Mau04b(dv, trvPhongThi.Ten_mon, Ngay_thi)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+        Catch ex As Exception
+
         End Try
     End Sub
 End Class

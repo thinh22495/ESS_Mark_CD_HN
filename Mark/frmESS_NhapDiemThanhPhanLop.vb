@@ -3,6 +3,8 @@ Imports ESS.BLL.Business
 Imports ESS.Entity.Entity
 Imports ESS.Library
 Imports ESS.Machine
+Imports DevExpress.XtraReports.UI
+
 Public Class frmESS_NhapDiemThanhPhanLop
     Private mID_he As Integer = 0
     Private dsID_lop As String = "0"
@@ -386,9 +388,9 @@ Public Class frmESS_NhapDiemThanhPhanLop
                         Else
                             grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc).DefaultView
                         End If
-                Else
+                    Else
                         grdViewDiem.DataSource = Nothing
-                End If
+                    End If
                     FormatDataView()
                     ReadOnly_Diem()
                     Dim Lock_diem As Boolean = False
@@ -986,6 +988,17 @@ Public Class frmESS_NhapDiemThanhPhanLop
                 Dim ID_Lop As Integer = TrvLop_ChuanHoa.ID_lop_list
                 Dim ID_Mon As Integer = cmbID_mon.SelectedValue
                 Dim Lan_hoc As Integer = CType(cmbLan_hoc.Text, Integer)
+                Dim Hoc_ky As Integer = 0
+                Dim Nam_hoc As String = ""
+                Hoc_ky = cmbHoc_ky.Text
+                Nam_hoc = cmbNam_hoc.Text
+                Dim para(2) As SqlClient.SqlParameter
+                para(0) = New SqlClient.SqlParameter("@ID_lop", ID_Lop)
+                para(1) = New SqlClient.SqlParameter("@Hoc_ky", Hoc_ky)
+                para(2) = New SqlClient.SqlParameter("@Nam_hoc", Nam_hoc)
+
+                Dim dt As DataTable = ESS.Machine.UDB.SelectTableSP("Load_ThanhPhanDiem_ID_lop", para)
+
                 If ID_Lop > 0 Then
                     Ten_hoc_phan = cmbID_mon.Text
                     Dim dtDiemTH As New DataTable
@@ -1081,5 +1094,36 @@ Public Class frmESS_NhapDiemThanhPhanLop
     '    End Try
     'End Sub
 
-   
+
+    Private Sub BarButtonItem6_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem6.ItemClick
+        Try
+            Dim dv As DataView = grdViewDiem.DataSource
+            Dim tieu_de As String = ""
+            Dim ID_Lop As Integer = TrvLop_ChuanHoa.ID_lop_list
+            Dim ID_Mon As Integer = cmbID_mon.SelectedValue
+            Dim Lan_hoc As Integer = CType(cmbLan_hoc.Text, Integer)
+            Dim Hoc_ky As Integer = 0
+            Dim Nam_hoc As String = ""
+            Hoc_ky = cmbHoc_ky.Text
+            Nam_hoc = cmbNam_hoc.Text
+            Dim para(2) As SqlClient.SqlParameter
+            para(0) = New SqlClient.SqlParameter("@ID_lop", ID_Lop)
+            para(1) = New SqlClient.SqlParameter("@Hoc_ky", Hoc_ky)
+            para(2) = New SqlClient.SqlParameter("@Nam_hoc", Nam_hoc)
+
+            Dim dt As DataTable = ESS.Machine.UDB.SelectTableSP("Load_ThanhPhanDiem_ID_lop", para)
+            Dim dvHeSo2 As DataView
+            Dim dtHeSo1 As DataTable = dt.Select("Ty_le = 1").CopyToDataTable()
+
+            dvHeSo2 = dt.DefaultView
+            dvHeSo2.RowFilter = "Ty_le = 2"
+
+            Dim report As New rptBangTongHopDiemKT(dtHeSo1.DefaultView, dvHeSo2, dv, cmbID_mon.Text)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+
+        Catch ex As Exception
+
+        End Try
+    End Sub
 End Class

@@ -19,56 +19,57 @@ Partial Class frmESS_NhapDiemThiLop
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmESS_NhapDiemThiLop))
-        Me.cmbID_mon = New System.Windows.Forms.ComboBox
-        Me.lblLoai_chungchi = New System.Windows.Forms.Label
-        Me.cmbHoc_ky = New System.Windows.Forms.ComboBox
-        Me.lblLan_cap = New System.Windows.Forms.Label
-        Me.cmbNam_hoc = New System.Windows.Forms.ComboBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.cmbLan_thi = New System.Windows.Forms.ComboBox
-        Me.cb_Diem_la0 = New System.Windows.Forms.CheckBox
-        Me.grdViewDiem = New System.Windows.Forms.DataGridView
-        Me.cmbLan_hoc = New System.Windows.Forms.ComboBox
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.cmbChonFile = New System.Windows.Forms.ComboBox
-        Me.lblBang_tinh = New System.Windows.Forms.Label
-        Me.cmbMa_sv = New System.Windows.Forms.ComboBox
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.cmbCot_diem = New System.Windows.Forms.ComboBox
-        Me.lblCot_diem = New System.Windows.Forms.Label
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.Button1 = New System.Windows.Forms.Button
-        Me.cmbThanh_phan = New System.Windows.Forms.ComboBox
-        Me.lblThanh_phan = New System.Windows.Forms.Label
-        Me.cmdDongBo = New System.Windows.Forms.Button
-        Me.cmdOpen = New System.Windows.Forms.Button
-        Me.dlgOpenFile = New System.Windows.Forms.OpenFileDialog
-        Me.cbDS_thi_lai = New System.Windows.Forms.CheckBox
-        Me.btnThoat = New DevExpress.XtraEditors.SimpleButton
-        Me.btnExcel = New DevExpress.XtraEditors.SimpleButton
-        Me.btnDel = New DevExpress.XtraEditors.SimpleButton
-        Me.btnKyHieu = New DevExpress.XtraEditors.SimpleButton
-        Me.btnSave = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdLock = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdUnLock = New DevExpress.XtraEditors.SimpleButton
-        Me.optAll_Lop = New System.Windows.Forms.CheckBox
-        Me.TrvLop_ChuanHoa = New ESS_Mark.TrvLop_ChuanHoa
-        Me.btnSave_VH = New DevExpress.XtraEditors.SimpleButton
+        Me.cmbID_mon = New System.Windows.Forms.ComboBox()
+        Me.lblLoai_chungchi = New System.Windows.Forms.Label()
+        Me.cmbHoc_ky = New System.Windows.Forms.ComboBox()
+        Me.lblLan_cap = New System.Windows.Forms.Label()
+        Me.cmbNam_hoc = New System.Windows.Forms.ComboBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.cmbLan_thi = New System.Windows.Forms.ComboBox()
+        Me.cb_Diem_la0 = New System.Windows.Forms.CheckBox()
+        Me.grdViewDiem = New System.Windows.Forms.DataGridView()
+        Me.cmbLan_hoc = New System.Windows.Forms.ComboBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.cmbChonFile = New System.Windows.Forms.ComboBox()
+        Me.lblBang_tinh = New System.Windows.Forms.Label()
+        Me.cmbMa_sv = New System.Windows.Forms.ComboBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.cmbCot_diem = New System.Windows.Forms.ComboBox()
+        Me.lblCot_diem = New System.Windows.Forms.Label()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.cmbThanh_phan = New System.Windows.Forms.ComboBox()
+        Me.lblThanh_phan = New System.Windows.Forms.Label()
+        Me.cmdDongBo = New System.Windows.Forms.Button()
+        Me.cmdOpen = New System.Windows.Forms.Button()
+        Me.dlgOpenFile = New System.Windows.Forms.OpenFileDialog()
+        Me.cbDS_thi_lai = New System.Windows.Forms.CheckBox()
+        Me.btnThoat = New DevExpress.XtraEditors.SimpleButton()
+        Me.btnExcel = New DevExpress.XtraEditors.SimpleButton()
+        Me.btnDel = New DevExpress.XtraEditors.SimpleButton()
+        Me.btnKyHieu = New DevExpress.XtraEditors.SimpleButton()
+        Me.btnSave = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdLock = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdUnLock = New DevExpress.XtraEditors.SimpleButton()
+        Me.optAll_Lop = New System.Windows.Forms.CheckBox()
+        Me.TrvLop_ChuanHoa = New ESS_Mark.TrvLop_ChuanHoa()
+        Me.btnSave_VH = New DevExpress.XtraEditors.SimpleButton()
         Me.imageCollection1 = New DevExpress.Utils.ImageCollection(Me.components)
-        Me.cmdPrint = New DevExpress.XtraEditors.DropDownButton
+        Me.cmdPrint = New DevExpress.XtraEditors.DropDownButton()
         Me.PopupMenu3 = New DevExpress.XtraBars.PopupMenu(Me.components)
-        Me.btnInBangDiem = New DevExpress.XtraBars.BarButtonItem
-        Me.btnDanhSachDuThi = New DevExpress.XtraBars.BarButtonItem
-        Me.btnDanhSachNoMon = New DevExpress.XtraBars.BarButtonItem
+        Me.btnInBangDiem = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnDanhSachDuThi = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnDanhSachNoMon = New DevExpress.XtraBars.BarButtonItem()
         Me.BarManager1 = New DevExpress.XtraBars.BarManager(Me.components)
-        Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl3 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl4 = New DevExpress.XtraBars.BarDockControl
-        Me.btnTP_Diem = New DevExpress.XtraEditors.SimpleButton
+        Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl3 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl4 = New DevExpress.XtraBars.BarDockControl()
+        Me.btnTP_Diem = New DevExpress.XtraEditors.SimpleButton()
+        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem()
         CType(Me.grdViewDiem, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
         CType(Me.imageCollection1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -79,7 +80,7 @@ Partial Class frmESS_NhapDiemThiLop
         'cmbID_mon
         '
         Me.cmbID_mon.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmbID_mon.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmbID_mon.Location = New System.Drawing.Point(341, 107)
         Me.cmbID_mon.Name = "cmbID_mon"
@@ -153,7 +154,7 @@ Partial Class frmESS_NhapDiemThiLop
         'cb_Diem_la0
         '
         Me.cb_Diem_la0.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cb_Diem_la0.BackColor = System.Drawing.Color.Transparent
         Me.cb_Diem_la0.Location = New System.Drawing.Point(349, 135)
         Me.cb_Diem_la0.Name = "cb_Diem_la0"
@@ -167,8 +168,8 @@ Partial Class frmESS_NhapDiemThiLop
         Me.grdViewDiem.AllowUserToAddRows = False
         Me.grdViewDiem.AllowUserToDeleteRows = False
         Me.grdViewDiem.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdViewDiem.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.grdViewDiem.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.grdViewDiem.Location = New System.Drawing.Point(266, 164)
@@ -260,7 +261,7 @@ Partial Class frmESS_NhapDiemThiLop
         'GroupBox1
         '
         Me.GroupBox1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox1.BackColor = System.Drawing.Color.Transparent
         Me.GroupBox1.Controls.Add(Me.Button1)
         Me.GroupBox1.Controls.Add(Me.cmbThanh_phan)
@@ -342,7 +343,7 @@ Partial Class frmESS_NhapDiemThiLop
         'cbDS_thi_lai
         '
         Me.cbDS_thi_lai.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cbDS_thi_lai.BackColor = System.Drawing.Color.Transparent
         Me.cbDS_thi_lai.Location = New System.Drawing.Point(522, 137)
         Me.cbDS_thi_lai.Name = "cbDS_thi_lai"
@@ -456,7 +457,7 @@ Partial Class frmESS_NhapDiemThiLop
         'TrvLop_ChuanHoa
         '
         Me.TrvLop_ChuanHoa.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.TrvLop_ChuanHoa.BackColor = System.Drawing.Color.Transparent
         Me.TrvLop_ChuanHoa.dtLop = Nothing
         Me.TrvLop_ChuanHoa.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -496,7 +497,7 @@ Partial Class frmESS_NhapDiemThiLop
         '
         'PopupMenu3
         '
-        Me.PopupMenu3.LinksPersistInfo.AddRange(New DevExpress.XtraBars.LinkPersistInfo() {New DevExpress.XtraBars.LinkPersistInfo(Me.btnInBangDiem), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDanhSachDuThi), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDanhSachNoMon)})
+        Me.PopupMenu3.LinksPersistInfo.AddRange(New DevExpress.XtraBars.LinkPersistInfo() {New DevExpress.XtraBars.LinkPersistInfo(Me.btnInBangDiem), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDanhSachDuThi), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDanhSachNoMon), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem1)})
         Me.PopupMenu3.Manager = Me.BarManager1
         Me.PopupMenu3.Name = "PopupMenu3"
         '
@@ -528,30 +529,34 @@ Partial Class frmESS_NhapDiemThiLop
         Me.BarManager1.DockWindowTabFont = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BarManager1.Form = Me
         Me.BarManager1.Images = Me.imageCollection1
-        Me.BarManager1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.btnInBangDiem, Me.btnDanhSachDuThi, Me.btnDanhSachNoMon})
+        Me.BarManager1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.btnInBangDiem, Me.btnDanhSachDuThi, Me.btnDanhSachNoMon, Me.BarButtonItem1})
         Me.BarManager1.LargeImages = Me.imageCollection1
-        Me.BarManager1.MaxItemId = 6
+        Me.BarManager1.MaxItemId = 7
         '
         'BarDockControl1
         '
+        Me.BarDockControl1.CausesValidation = False
         Me.BarDockControl1.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl1.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl1.Size = New System.Drawing.Size(1227, 0)
         '
         'BarDockControl2
         '
+        Me.BarDockControl2.CausesValidation = False
         Me.BarDockControl2.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl2.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl2.Size = New System.Drawing.Size(1227, 0)
         '
         'BarDockControl3
         '
+        Me.BarDockControl3.CausesValidation = False
         Me.BarDockControl3.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl3.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl3.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl4
         '
+        Me.BarDockControl4.CausesValidation = False
         Me.BarDockControl4.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl4.Location = New System.Drawing.Point(1227, 0)
         Me.BarDockControl4.Size = New System.Drawing.Size(0, 566)
@@ -568,6 +573,12 @@ Partial Class frmESS_NhapDiemThiLop
         Me.btnTP_Diem.Size = New System.Drawing.Size(138, 30)
         Me.btnTP_Diem.TabIndex = 234
         Me.btnTP_Diem.Text = "Thay đổi TP điểm thi"
+        '
+        'BarButtonItem1
+        '
+        Me.BarButtonItem1.Caption = "Điểm tổng kết môn học"
+        Me.BarButtonItem1.Id = 6
+        Me.BarButtonItem1.Name = "BarButtonItem1"
         '
         'frmESS_NhapDiemThiLop
         '
@@ -665,4 +676,5 @@ Partial Class frmESS_NhapDiemThiLop
     Friend WithEvents btnDanhSachDuThi As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents btnDanhSachNoMon As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents btnTP_Diem As DevExpress.XtraEditors.SimpleButton
+    Friend WithEvents BarButtonItem1 As DevExpress.XtraBars.BarButtonItem
 End Class
