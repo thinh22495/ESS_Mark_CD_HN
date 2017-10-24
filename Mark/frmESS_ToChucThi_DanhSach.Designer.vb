@@ -46,11 +46,25 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.colHo_dem = New DevExpress.XtraGrid.Columns.GridColumn()
         Me.colTen = New DevExpress.XtraGrid.Columns.GridColumn()
         Me.PopupMenu2 = New DevExpress.XtraBars.PopupMenu(Me.components)
+        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem
+        Me.BarButtonItem2 = New DevExpress.XtraBars.BarButtonItem
+        Me.BarButtonItem3 = New DevExpress.XtraBars.BarButtonItem
+        Me.BarButtonItem4 = New DevExpress.XtraBars.BarButtonItem
+        Me.BarButtonItem5 = New DevExpress.XtraBars.BarButtonItem
+        Me.btnAll_diem = New DevExpress.XtraBars.BarButtonItem
+        Me.cmdPhieuTheoDoi_LyThuyet = New DevExpress.XtraBars.BarButtonItem
+        Me.btnPhieuTheoDoiKetQua_DanPT = New DevExpress.XtraBars.BarButtonItem
+        Me.btnPhieuTheoDoiKetQua_BC = New DevExpress.XtraBars.BarButtonItem
+        Me.btnTotNghiepLT_DanPhong = New DevExpress.XtraBars.BarButtonItem
+        Me.btnTotNghiep_LT = New DevExpress.XtraBars.BarButtonItem
+        Me.BarButtonItem6 = New DevExpress.XtraBars.BarButtonItem
+        Me.BarButtonItem7 = New DevExpress.XtraBars.BarButtonItem
         Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarButtonItem2 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarButtonItem3 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarButtonItem4 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarButtonItem5 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem8 = New DevExpress.XtraBars.BarButtonItem()
         Me.btnAll_diem = New DevExpress.XtraBars.BarButtonItem()
         Me.cmdPhieuTheoDoi_LyThuyet = New DevExpress.XtraBars.BarButtonItem()
         Me.btnPhieuTheoDoiKetQua_DanPT = New DevExpress.XtraBars.BarButtonItem()
@@ -385,6 +399,13 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.BarButtonItem5.ImageIndex = 16
         Me.BarButtonItem5.Name = "BarButtonItem5"
         '
+        'BarButtonItem8
+        '
+        Me.BarButtonItem8.Caption = "Danh sách nộp bài thi tốt nghiệp ( mẫu 06 )"
+        Me.BarButtonItem8.Id = 24
+        Me.BarButtonItem8.ImageIndex = 16
+        Me.BarButtonItem8.Name = "BarButtonItem8"
+        '
         'btnAll_diem
         '
         Me.btnAll_diem.Caption = "Bảng điểm tổng hợp theo phòng"
@@ -449,8 +470,8 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.BarManager1.DockWindowTabFont = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BarManager1.Form = Me
         Me.BarManager1.Images = Me.ImgMain
-        Me.BarManager1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.BarButtonItem1, Me.BarButtonItem2, Me.BarButtonItem3, Me.BarButtonItem4, Me.BarButtonItem5, Me.btnAll_diem, Me.cmdPhieuTheoDoi_LyThuyet, Me.btnPhieuTheoDoiKetQua_DanPT, Me.btnPhieuTheoDoiKetQua_BC, Me.btnTotNghiepLT_DanPhong, Me.btnTotNghiep_LT, Me.btnTotNghiep_TH_DanPhong, Me.btnTotNghiep_TH, Me.BarButtonItem6, Me.BarButtonItem7, Me.BarButtonItem8, Me.BarButtonItem9, Me.BarButtonItem10})
-        Me.BarManager1.MaxItemId = 27
+        Me.BarManager1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.BarButtonItem1, Me.BarButtonItem2, Me.BarButtonItem3, Me.BarButtonItem4, Me.BarButtonItem5, Me.btnAll_diem, Me.cmdPhieuTheoDoi_LyThuyet, Me.btnPhieuTheoDoiKetQua_DanPT, Me.btnPhieuTheoDoiKetQua_BC, Me.btnTotNghiepLT_DanPhong, Me.btnTotNghiep_LT, Me.btnTotNghiep_TH_DanPhong, Me.btnTotNghiep_TH, Me.BarButtonItem6, Me.BarButtonItem7})
+        Me.BarManager1.MaxItemId = 24
         '
         'BarDockControl1
         '

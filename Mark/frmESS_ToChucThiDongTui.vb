@@ -440,4 +440,112 @@ Public Class frmESS_ToChucThiDongTui
     Private Sub btnThoat_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnThoat.Click
         Me.Close()
     End Sub
+
+    Private Sub BarButtonItem1_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem1.ItemClick
+        '24/10/2017 tht
+        Try
+            Dim dv As DataView = grvViewDanhSachThiChon.DataSource
+            Dim dt As DataTable = dv.ToTable()
+            If Not dt.Columns.Contains("Ghi_chu") Then dt.Columns.Add("Ghi_chu")
+            For Each row As DataRow In dt.Rows
+                row("Ghi_chu") = IIf(row("Ghi_chu_thi").ToString() <> "", "X", "")
+            Next
+            dv = dt.DefaultView
+            Dim ID_mon As Integer = trvPhongThi.ID_mon
+            Dim dtMonHoc As DataTable = ESS.Machine.UDB.SelectTable("Select * FROM MARK_MonHoc WHERE ID_mon=" & ID_mon)
+            Dim Ten_mon As String = ""
+            Dim Ten_lop As String = ","
+            Dim Ten_phong As String = ""
+            Dim dt_distintsc As New DataTable()
+            dt_distintsc = dt.DefaultView.ToTable(True, "Ten_lop")
+            For i As Integer = 0 To dt_distintsc.DefaultView.Count - 1
+                Ten_lop = Ten_lop & dt_distintsc.Rows(i)("Ten_lop").ToString & ","
+            Next
+            Ten_lop = Ten_lop.ToString.Substring(1, Ten_lop.Length - 2)
+            If dtMonHoc.Rows.Count > 0 Then
+                Ten_mon = dtMonHoc.Rows(0)("Ten_mon")
+            End If
+            Ten_phong = dv.Item(0)("Ten_phong").ToString
+            Dim rpt As New rpt_PhieuCham_DiemTN_7c(dt, Ten_mon, Ten_lop, Ten_phong)
+            PrintXtraReport(rpt)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem2_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem2.ItemClick
+        '24/10/2017 tht
+        Try
+            Dim dv As DataView = grvViewDanhSachThiChon.DataSource
+            Dim dt As DataTable = dv.ToTable()
+            If Not dt.Columns.Contains("Ghi_chu") Then dt.Columns.Add("Ghi_chu")
+            For Each row As DataRow In dt.Rows
+                row("Ghi_chu") = IIf(row("Ghi_chu_thi").ToString() <> "", "X", "")
+            Next
+            dv = dt.DefaultView
+            Dim ID_mon As Integer = trvPhongThi.ID_mon
+            Dim dtMonHoc As DataTable = ESS.Machine.UDB.SelectTable("Select * FROM MARK_MonHoc WHERE ID_mon=" & ID_mon)
+            Dim Ten_mon As String = ""
+            Dim Ten_phong As String = ""
+            If dtMonHoc.Rows.Count > 0 Then
+                Ten_mon = dtMonHoc.Rows(0)("Ten_mon")
+            End If
+            Ten_phong = dv.Item(0)("Ten_phong").ToString
+            Dim rpt As New rpt_PhieuCham_DiemTN_7b(dt, Ten_mon, Ten_phong)
+            PrintXtraReport(rpt)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem3_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem3.ItemClick
+        '24/10/2017 tht
+        Try
+            Dim dv As DataView = grvViewDanhSachThiChon.DataSource
+            Dim dt As DataTable = dv.ToTable()
+            If Not dt.Columns.Contains("Ghi_chu") Then dt.Columns.Add("Ghi_chu")
+            For Each row As DataRow In dt.Rows
+                row("Ghi_chu") = IIf(row("Ghi_chu_thi").ToString() <> "", "X", "")
+            Next
+            dv = dt.DefaultView
+            Dim ID_mon As Integer = trvPhongThi.ID_mon
+            Dim dtMonHoc As DataTable = ESS.Machine.UDB.SelectTable("Select * FROM MARK_MonHoc WHERE ID_mon=" & ID_mon)
+            Dim Ten_mon As String = ""
+            Dim Ten_phong As String = ""
+            If dtMonHoc.Rows.Count > 0 Then
+                Ten_mon = dtMonHoc.Rows(0)("Ten_mon")
+            End If
+            Ten_phong = dv.Item(0)("Ten_phong").ToString
+            Dim rpt As New rpt_PhieuCham_DiemTN_7a(dt, Ten_mon, Ten_phong)
+            PrintXtraReport(rpt)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem4_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem4.ItemClick
+        Try
+            Dim dv As DataView = grvViewDanhSachThiChon.DataSource
+            dv.RowFilter = "Chon = True"
+            If dv.Count = 0 Then
+                Thongbao("Bạn chưa chọn sinh viên nào !")
+            ElseIf dv.Count > 1 Then
+                Thongbao("Bạn chỉ được chọn từng sinh viên một !")
+            Else
+                Dim ID_sv As Integer = CInt(dv.Item(0)("ID_sv").ToString)
+                Dim dtPlus As DataTable = ESS.Machine.UDB.SelectTable("Select * FROM STU_HoSoSinhVien WHERE ID_sv=" & ID_sv)
+                Dim dt As DataTable
+                dt = dv.ToTable
+                dt.Columns.Add("Dia_chi", GetType(String))
+                Dim row As DataRow = dt.NewRow
+                row("Dia_chi") = dtPlus.Rows(0)("Dia_chi_tt").ToString
+                dt.Rows.Add(row)
+                Dim rpt As New rpt_PhieuCham_DiemTN_7d(dt)
+                PrintXtraReport(rpt)
+            End If
+
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
 End Class

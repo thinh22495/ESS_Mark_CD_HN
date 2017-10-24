@@ -19,51 +19,66 @@ Partial Class frmESS_ToChucThiDongTui
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.txtSophach_tu = New System.Windows.Forms.TextBox
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.cmbTui_thi = New System.Windows.Forms.ComboBox
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtSo_sv = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.btnAdd = New System.Windows.Forms.Button
-        Me.btnDel = New System.Windows.Forms.Button
-        Me.chkAll2 = New System.Windows.Forms.CheckBox
-        Me.chkAll1 = New System.Windows.Forms.CheckBox
-        Me.btnThoat = New System.Windows.Forms.Button
-        Me.btnPrint3 = New System.Windows.Forms.Button
-        Me.btnPrint2 = New System.Windows.Forms.Button
-        Me.btnPrint1 = New System.Windows.Forms.Button
-        Me.btnSave = New System.Windows.Forms.Button
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.txtTien_to = New System.Windows.Forms.TextBox
-        Me.trvPhongThi = New ESS_Mark.TreeViewPhongThi
-        Me.grvDanhSachThi = New DevExpress.XtraGrid.GridControl
-        Me.grdViewDanhSachThi = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.colChon = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colSBD = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colMa_sv = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colHo_ten = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colNgay_sinh = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colLop = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colChuyen_nganh = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colPhong_thi = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colGhi_chu = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.grvViewDanhSachThiChon = New DevExpress.XtraGrid.GridControl
-        Me.grdViewDanhSachThiChon = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.GridColumn1 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn2 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn3 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn4 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn5 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn6 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn7 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn8 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn9 = New DevExpress.XtraGrid.Columns.GridColumn
+        Me.components = New System.ComponentModel.Container()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmESS_ToChucThiDongTui))
+        Me.txtSophach_tu = New System.Windows.Forms.TextBox()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.cmbTui_thi = New System.Windows.Forms.ComboBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtSo_sv = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.btnAdd = New System.Windows.Forms.Button()
+        Me.btnDel = New System.Windows.Forms.Button()
+        Me.chkAll2 = New System.Windows.Forms.CheckBox()
+        Me.chkAll1 = New System.Windows.Forms.CheckBox()
+        Me.btnThoat = New System.Windows.Forms.Button()
+        Me.btnPrint3 = New System.Windows.Forms.Button()
+        Me.btnPrint2 = New System.Windows.Forms.Button()
+        Me.btnPrint1 = New System.Windows.Forms.Button()
+        Me.btnSave = New System.Windows.Forms.Button()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.txtTien_to = New System.Windows.Forms.TextBox()
+        Me.trvPhongThi = New ESS_Mark.TreeViewPhongThi()
+        Me.grvDanhSachThi = New DevExpress.XtraGrid.GridControl()
+        Me.grdViewDanhSachThi = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.colChon = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colSBD = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colMa_sv = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colHo_ten = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colNgay_sinh = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colLop = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colChuyen_nganh = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colPhong_thi = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colGhi_chu = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.grvViewDanhSachThiChon = New DevExpress.XtraGrid.GridControl()
+        Me.grdViewDanhSachThiChon = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.GridColumn1 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn2 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn3 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn4 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn5 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn6 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn7 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn8 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn9 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.DropDownButton1 = New DevExpress.XtraEditors.DropDownButton()
+        Me.PopupMenu1 = New DevExpress.XtraBars.PopupMenu(Me.components)
+        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem2 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarManager1 = New DevExpress.XtraBars.BarManager(Me.components)
+        Me.barDockControlTop = New DevExpress.XtraBars.BarDockControl()
+        Me.barDockControlBottom = New DevExpress.XtraBars.BarDockControl()
+        Me.barDockControlLeft = New DevExpress.XtraBars.BarDockControl()
+        Me.barDockControlRight = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem3 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem4 = New DevExpress.XtraBars.BarButtonItem()
         CType(Me.grvDanhSachThi, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.grdViewDanhSachThi, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.grvViewDanhSachThiChon, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.grdViewDanhSachThiChon, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PopupMenu1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.BarManager1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'txtSophach_tu
@@ -263,7 +278,7 @@ Partial Class frmESS_ToChucThiDongTui
         'Label4
         '
         Me.Label4.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label4.BackColor = System.Drawing.Color.Transparent
         Me.Label4.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(266, 9)
@@ -299,7 +314,7 @@ Partial Class frmESS_ToChucThiDongTui
         'trvPhongThi
         '
         Me.trvPhongThi.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.trvPhongThi.BackColor = System.Drawing.Color.Transparent
         Me.trvPhongThi.Font = New System.Drawing.Font("Arial", 10.0!)
         Me.trvPhongThi.Location = New System.Drawing.Point(0, 1)
@@ -310,7 +325,7 @@ Partial Class frmESS_ToChucThiDongTui
         'grvDanhSachThi
         '
         Me.grvDanhSachThi.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grvDanhSachThi.Location = New System.Drawing.Point(266, 67)
         Me.grvDanhSachThi.MainView = Me.grdViewDanhSachThi
         Me.grvDanhSachThi.Name = "grvDanhSachThi"
@@ -412,8 +427,8 @@ Partial Class frmESS_ToChucThiDongTui
         'grvViewDanhSachThiChon
         '
         Me.grvViewDanhSachThiChon.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grvViewDanhSachThiChon.Location = New System.Drawing.Point(266, 318)
         Me.grvViewDanhSachThiChon.MainView = Me.grdViewDanhSachThiChon
         Me.grvViewDanhSachThiChon.Name = "grvViewDanhSachThiChon"
@@ -512,10 +527,90 @@ Partial Class frmESS_ToChucThiDongTui
         Me.GridColumn9.Visible = True
         Me.GridColumn9.VisibleIndex = 8
         '
+        'DropDownButton1
+        '
+        Me.DropDownButton1.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.DropDownButton1.DropDownControl = Me.PopupMenu1
+        Me.DropDownButton1.Image = CType(resources.GetObject("DropDownButton1.Image"), System.Drawing.Image)
+        Me.DropDownButton1.Location = New System.Drawing.Point(414, 537)
+        Me.DropDownButton1.Name = "DropDownButton1"
+        Me.DropDownButton1.Size = New System.Drawing.Size(135, 28)
+        Me.DropDownButton1.TabIndex = 134
+        Me.DropDownButton1.Text = "In danh sách"
+        '
+        'PopupMenu1
+        '
+        Me.PopupMenu1.LinksPersistInfo.AddRange(New DevExpress.XtraBars.LinkPersistInfo() {New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem3), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem2), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem1), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem4)})
+        Me.PopupMenu1.Manager = Me.BarManager1
+        Me.PopupMenu1.Name = "PopupMenu1"
+        '
+        'BarButtonItem1
+        '
+        Me.BarButtonItem1.Caption = "Phiếu tổng hợp điêm thi tốt nghiệp ( mẫu 7c )"
+        Me.BarButtonItem1.Id = 0
+        Me.BarButtonItem1.Name = "BarButtonItem1"
+        '
+        'BarButtonItem2
+        '
+        Me.BarButtonItem2.Caption = "Phiếu chấm điểm thi tốt nghiệp ( mẫu 7b )"
+        Me.BarButtonItem2.Id = 1
+        Me.BarButtonItem2.Name = "BarButtonItem2"
+        '
+        'BarManager1
+        '
+        Me.BarManager1.DockControls.Add(Me.barDockControlTop)
+        Me.BarManager1.DockControls.Add(Me.barDockControlBottom)
+        Me.BarManager1.DockControls.Add(Me.barDockControlLeft)
+        Me.BarManager1.DockControls.Add(Me.barDockControlRight)
+        Me.BarManager1.Form = Me
+        Me.BarManager1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.BarButtonItem1, Me.BarButtonItem2, Me.BarButtonItem3, Me.BarButtonItem4})
+        Me.BarManager1.MaxItemId = 4
+        '
+        'barDockControlTop
+        '
+        Me.barDockControlTop.CausesValidation = False
+        Me.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top
+        Me.barDockControlTop.Location = New System.Drawing.Point(0, 0)
+        Me.barDockControlTop.Size = New System.Drawing.Size(1100, 0)
+        '
+        'barDockControlBottom
+        '
+        Me.barDockControlBottom.CausesValidation = False
+        Me.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.barDockControlBottom.Location = New System.Drawing.Point(0, 566)
+        Me.barDockControlBottom.Size = New System.Drawing.Size(1100, 0)
+        '
+        'barDockControlLeft
+        '
+        Me.barDockControlLeft.CausesValidation = False
+        Me.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left
+        Me.barDockControlLeft.Location = New System.Drawing.Point(0, 0)
+        Me.barDockControlLeft.Size = New System.Drawing.Size(0, 566)
+        '
+        'barDockControlRight
+        '
+        Me.barDockControlRight.CausesValidation = False
+        Me.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right
+        Me.barDockControlRight.Location = New System.Drawing.Point(1100, 0)
+        Me.barDockControlRight.Size = New System.Drawing.Size(0, 566)
+        '
+        'BarButtonItem3
+        '
+        Me.BarButtonItem3.Caption = "Phiếu chấm điểm thi tốt nghiệp ( mẫu 7a )"
+        Me.BarButtonItem3.Id = 2
+        Me.BarButtonItem3.Name = "BarButtonItem3"
+        '
+        'BarButtonItem4
+        '
+        Me.BarButtonItem4.Caption = "Phiếu chấm điểm thi tốt nghiệp ( mẫu 7d )"
+        Me.BarButtonItem4.Id = 3
+        Me.BarButtonItem4.Name = "BarButtonItem4"
+        '
         'frmESS_ToChucThiDongTui
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit
         Me.ClientSize = New System.Drawing.Size(1100, 566)
+        Me.Controls.Add(Me.DropDownButton1)
         Me.Controls.Add(Me.grvViewDanhSachThiChon)
         Me.Controls.Add(Me.grvDanhSachThi)
         Me.Controls.Add(Me.Label4)
@@ -537,6 +632,10 @@ Partial Class frmESS_ToChucThiDongTui
         Me.Controls.Add(Me.cmbTui_thi)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.trvPhongThi)
+        Me.Controls.Add(Me.barDockControlLeft)
+        Me.Controls.Add(Me.barDockControlRight)
+        Me.Controls.Add(Me.barDockControlBottom)
+        Me.Controls.Add(Me.barDockControlTop)
         Me.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Name = "frmESS_ToChucThiDongTui"
         Me.Text = "DONG TUI THI THU CONG"
@@ -545,6 +644,8 @@ Partial Class frmESS_ToChucThiDongTui
         CType(Me.grdViewDanhSachThi, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.grvViewDanhSachThiChon, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.grdViewDanhSachThiChon, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PopupMenu1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.BarManager1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -590,4 +691,15 @@ Partial Class frmESS_ToChucThiDongTui
     Friend WithEvents GridColumn7 As DevExpress.XtraGrid.Columns.GridColumn
     Friend WithEvents GridColumn8 As DevExpress.XtraGrid.Columns.GridColumn
     Friend WithEvents GridColumn9 As DevExpress.XtraGrid.Columns.GridColumn
+    Friend WithEvents DropDownButton1 As DevExpress.XtraEditors.DropDownButton
+    Friend WithEvents PopupMenu1 As DevExpress.XtraBars.PopupMenu
+    Friend WithEvents BarButtonItem1 As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents BarManager1 As DevExpress.XtraBars.BarManager
+    Friend WithEvents barDockControlTop As DevExpress.XtraBars.BarDockControl
+    Friend WithEvents barDockControlBottom As DevExpress.XtraBars.BarDockControl
+    Friend WithEvents barDockControlLeft As DevExpress.XtraBars.BarDockControl
+    Friend WithEvents barDockControlRight As DevExpress.XtraBars.BarDockControl
+    Friend WithEvents BarButtonItem2 As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents BarButtonItem3 As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents BarButtonItem4 As DevExpress.XtraBars.BarButtonItem
 End Class
