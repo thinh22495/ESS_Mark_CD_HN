@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="DevExpress.Utils.v10.1" name="DevExpress.Utils.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="XrTable3.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>9.999998, 0</value>
+  </data>
+  <assembly alias="DevExpress.Data.v10.1" name="DevExpress.Data.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="Ten_lop.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleLeft</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="XrTable3.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>734.716736, 25</value>
+  </data>
+  <data name="XrTable3.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Detail.HeightF" type="System.Single, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="Detail.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>TopLeft</value>
+  </data>
+  <data name="TopMargin.HeightF" type="System.Single, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="TopMargin.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>TopLeft</value>
+  </data>
+  <data name="BottomMargin.HeightF" type="System.Single, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="BottomMargin.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>TopLeft</value>
+  </data>
+  <data name="Tieu_de_bao_cao_2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold</value>
+  </data>
+  <data name="Tieu_de_bao_cao_2.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>8.99996, 94.8750153</value>
+  </data>
+  <data name="Tieu_de_bao_cao_2.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>735.7168, 22.9999924</value>
+  </data>
+  <data name="Tieu_de_bao_cao_2.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="Tieu_de_bao_cao1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 14pt, style=Bold</value>
+  </data>
+  <data name="Tieu_de_bao_cao1.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>8.99996, 71.875</value>
+  </data>
+  <data name="Tieu_de_bao_cao1.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>735.7168, 23</value>
+  </data>
+  <data name="Tieu_de_bao_cao1.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="XrLabel4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold, Underline</value>
+  </data>
+  <data name="XrLabel4.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>406.17514, 22.99999</value>
+  </data>
+  <data name="XrLabel4.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>338.5416, 23</value>
+  </data>
+  <data name="XrLabel4.Text" xml:space="preserve">
+    <value>Độc lập - Tự do - Hạnh phúc</value>
+  </data>
+  <data name="XrLabel4.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="XrLabel3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold</value>
+  </data>
+  <data name="XrLabel3.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>406.17514, 0</value>
+  </data>
+  <data name="XrLabel3.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>338.5416, 23</value>
+  </data>
+  <data name="XrLabel3.Text" xml:space="preserve">
+    <value>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</value>
+  </data>
+  <data name="XrLabel3.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="Tieu_de_ten_truong.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold, Underline</value>
+  </data>
+  <data name="Tieu_de_ten_truong.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>9.999998, 22.9999866</value>
+  </data>
+  <data name="Tieu_de_ten_truong.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>325.008179, 23.0000019</value>
+  </data>
+  <data name="Tieu_de_ten_truong.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="Tieu_de_ten_bo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold</value>
+  </data>
+  <data name="Tieu_de_ten_bo.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>9.999998, 0</value>
+  </data>
+  <data name="Tieu_de_ten_bo.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>325.008179, 23.0000019</value>
+  </data>
+  <data name="Tieu_de_ten_bo.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="ReportHeader.HeightF" type="System.Single, mscorlib">
+    <value>128</value>
+  </data>
+  <data name="XrTable2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="XrTable2.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>10.00022, 0</value>
+  </data>
+  <data name="XrTableCell25.Text" xml:space="preserve">
+    <value>Khoa:</value>
+  </data>
+  <data name="Ten_khoa.Text" xml:space="preserve">
+    <value>Ten_khoa</value>
+  </data>
+  <data name="Ten_khoa.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="XrTable2.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>734.716431, 25</value>
+  </data>
+  <data name="XrTable2.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="GroupHeader1.HeightF" type="System.Single, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="XrTable1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 9.75pt, style=Bold</value>
+  </data>
+  <data name="XrTable1.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>9.999998, 0</value>
+  </data>
+  <data name="XrTableCell1.Text" xml:space="preserve">
+    <value>STT</value>
+  </data>
+  <data name="XrTableCell1.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>BottomCenter</value>
+  </data>
+  <data name="XrTableCell2.Text" xml:space="preserve">
+    <value>Ngành nghề (lớp)</value>
+  </data>
+  <data name="XrTableCell2.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>BottomCenter</value>
+  </data>
+  <data name="XrTableCell7.Text" xml:space="preserve">
+    <value>Sĩ số</value>
+  </data>
+  <data name="XrTableCell4.Text" xml:space="preserve">
+    <value>Học tập</value>
+  </data>
+  <data name="XrTableCell17.Text" xml:space="preserve">
+    <value>XS</value>
+  </data>
+  <data name="XrTableCell15.Text" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="XrTableCell6.Text" xml:space="preserve">
+    <value>K</value>
+  </data>
+  <data name="XrTableCell16.Text" xml:space="preserve">
+    <value>TBK</value>
+  </data>
+  <data name="XrTableCell11.Text" xml:space="preserve">
+    <value>TB</value>
+  </data>
+  <data name="XrTableCell18.Text" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="XrTableCell12.Text" xml:space="preserve">
+    <value>K</value>
+  </data>
+  <data name="XrTable1.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>734.716736, 52</value>
+  </data>
+  <data name="XrTable1.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="PageHeader.HeightF" type="System.Single, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="Tieu_de_noi_ky.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold, Italic</value>
+  </data>
+  <data name="Tieu_de_noi_ky.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>464.525238, 70.91669</value>
+  </data>
+  <data name="Tieu_de_noi_ky.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>263.058075, 23.0000153</value>
+  </data>
+  <data name="Tieu_de_noi_ky.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky2.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>511.383362, 218.208344</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky2.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>233.3333, 23</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky2.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="Tieu_de_chuc_danh2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold</value>
+  </data>
+  <data name="Tieu_de_chuc_danh2.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>511.383362, 102.791718</value>
+  </data>
+  <data name="Tieu_de_chuc_danh2.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>233.3333, 23</value>
+  </data>
+  <data name="Tieu_de_chuc_danh2.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky1.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>8.99996, 218.2083</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky1.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>233.3333, 23</value>
+  </data>
+  <data name="Tieu_de_nguoi_ky1.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="Tieu_de_chuc_danh1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11pt, style=Bold</value>
+  </data>
+  <data name="Tieu_de_chuc_danh1.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>10.00022, 102.7917</value>
+  </data>
+  <data name="Tieu_de_chuc_danh1.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>233.3333, 23</value>
+  </data>
+  <data name="Tieu_de_chuc_danh1.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="XrTable5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 9.75pt, style=Bold, Italic</value>
+  </data>
+  <data name="XrTable5.LocationFloat" type="DevExpress.Utils.PointFloat, DevExpress.Utils.v10.1">
+    <value>10.00021, 0</value>
+  </data>
+  <data name="XrTableCell61.Text" xml:space="preserve">
+    <value>Tổng</value>
+  </data>
+  <data name="XrTableCell61.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>BottomCenter</value>
+  </data>
+  <data name="Tong_si_so.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>BottomCenter</value>
+  </data>
+  <data name="XrTableCell23.Text" xml:space="preserve">
+    <value>tất cả :</value>
+  </data>
+  <data name="XrTableCell23.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>TopCenter</value>
+  </data>
+  <data name="XrTable5.SizeF" type="System.Drawing.SizeF, System.Drawing">
+    <value>734.7166, 50</value>
+  </data>
+  <data name="XrTable5.TextAlignment" type="DevExpress.XtraPrinting.TextAlignment, DevExpress.Data.v10.1">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="ReportFooter.HeightF" type="System.Single, mscorlib">
+    <value>266</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.Margins" type="System.Drawing.Printing.Margins, System.Drawing">
+    <value>46, 25, 29, 32</value>
+  </data>
+</root>

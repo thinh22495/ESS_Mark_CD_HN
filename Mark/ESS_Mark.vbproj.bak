@@ -1,0 +1,2710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9F42A8EC-E127-4FA3-A0FD-049D82D70EAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ESS_Mark.My.MyApplication</StartupObject>
+    <RootNamespace>ESS_Mark</RootNamespace>
+    <AssemblyName>ESS_Mark</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ManifestCertificateThumbprint>4F074BC423D72131B2CFD23C3D773217D9A3EB1C</ManifestCertificateThumbprint>
+    <ManifestKeyFile>UniMark_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SignAssembly>false</SignAssembly>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <ApplicationIcon>1332560677_applications-office.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>E:\Cong ty\UNISOFT_Project\UniSoftNew\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42032,42036,42353,42354,42355</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42032,42036,42353,42354,42355</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ADODB, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ADODB.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="C1.C1PrintDocument, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=1a6f4158ebe6d3b8">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Unisoft_TinChi\UniMark\bin\C1.C1PrintDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Common, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Unisoft_TinChi\UniMark\bin\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.PrintUtil, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=b16543415225f099">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Unisoft_TinChi\UniMark\bin\C1.PrintUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=1.1.20023.44, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Unisoft_TinChi\UniMark\bin\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1PrintPreview, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=3af768410ba0a64f">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Unisoft_TinChi\UniMark\bin\C1.Win.C1PrintPreview.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Report, Version=1.1.20023.28, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Unisoft_TinChi\UniMark\bin\C1.Win.C1Report.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v10.1.Core, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Charts.v10.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Data.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v10.1.Core, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.RichEdit.v10.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.Utils.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraBars.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraCharts.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraEditors.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraGrid.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraLayout.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraNavBar.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraPivotGrid.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v10.1.Core, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraPivotGrid.v10.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraPrinting.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v10.1.Design, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraPrinting.v10.1.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraReports.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.1.Design, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraReports.v10.1.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.1.Extensions, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraReports.v10.1.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v10.1.Service, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraReports.v10.1.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraRichEdit.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraTreeList.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraWizard.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraWizard.v10.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraWizard.v10.1.Design, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DevExpress.XtraWizard.v10.1.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="HttpDownload, Version=1.0.3752.28863, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Mark\bin\HttpDownload.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Excel, Version=1.3.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\UNISOFT_DHNT\UniMark\bin\Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Scripting, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\UNISOFT_DHNT\UniMark\bin\Interop.Scripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Janus.Windows.Common.v2, Version=2.0.1109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\UNISOFT_DHNT\UniMark\bin\Janus.Windows.Common.v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Janus.Windows.UI.v2, Version=2.0.1109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\UNISOFT_DHNT\UniMark\bin\Janus.Windows.UI.v2.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connect_data.vb" />
+    <Compile Include="frmESS_DiemRenLuyen.Designer.vb">
+      <DependentUpon>frmESS_DiemRenLuyen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_DiemRenLuyen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_InChungChi_List.Designer.vb">
+      <DependentUpon>frmESS_InChungChi_List.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_InChungChi_List.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_InChungChi.Designer.vb">
+      <DependentUpon>frmESS_InChungChi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_InChungChi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_XetDieuKienThiChinhTri.Designer.vb">
+      <DependentUpon>frmESS_XetDieuKienThiChinhTri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_XetDieuKienThiChinhTri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThanhPhanThi.Designer.vb">
+      <DependentUpon>frmThanhPhanThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThanhPhanThi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienHocLai_NopTien.Designer.vb">
+      <DependentUpon>frmTongHopSinhVienHocLai_NopTien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienHocLai_NopTien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienThiTotNghiepChinhTri.Designer.vb">
+      <DependentUpon>frmTongHopSinhVienThiTotNghiepChinhTri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienThiTotNghiepChinhTri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopTienThiLai.Designer.vb">
+      <DependentUpon>frmTongHopTienThiLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopTienThiLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ThuTienHocLai.Designer.vb">
+      <DependentUpon>frmESS_ThuTienHocLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ThuTienHocLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChonHocPhanChungChi.Designer.vb">
+      <DependentUpon>frmESS_ChonHocPhanChungChi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChonHocPhanChungChi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTao_ThietLapMonChungChi.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTao_ThietLapMonChungChi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTao_ThietLapMonChungChi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienHocLai1.Designer.vb">
+      <DependentUpon>frmTongHopSinhVienHocLai1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienHocLai1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_MoKhoaDiemTPNhanh.Designer.vb">
+      <DependentUpon>frmESS_MoKhoaDiemTPNhanh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_MoKhoaDiemTPNhanh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_KhoaDiemThiNhanh.Designer.vb">
+      <DependentUpon>frmESS_KhoaDiemThiNhanh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_KhoaDiemThiNhanh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocLai_ChiTiet_TheoSinhVien.Designer.vb">
+      <DependentUpon>frmESS_TongHopHocLai_ChiTiet_TheoSinhVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocLai_ChiTiet_TheoSinhVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhanLoai_KQHT_Nam.Designer.vb">
+      <DependentUpon>frmPhanLoai_KQHT_Nam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhanLoai_KQHT_Nam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopTienHocLai.Designer.vb">
+      <DependentUpon>frmTongHopTienHocLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopTienHocLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportCommon.vb" />
+    <Compile Include="frmESS_BoMon.Designer.vb">
+      <DependentUpon>frmESS_BoMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_BoMon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_BoMonChonGiaoVien.Designer.vb">
+      <DependentUpon>frmESS_BoMonChonGiaoVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_BoMonChonGiaoVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_BoMonChonHocPhan.Designer.vb">
+      <DependentUpon>frmESS_BoMonChonHocPhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_BoMonChonHocPhan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_BoMon_DanhSach.designer.vb">
+      <DependentUpon>frmESS_BoMon_DanhSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_BoMon_DanhSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_PhongHoc.Designer.vb">
+      <DependentUpon>frmESS_PhongHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_PhongHoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_PhongHoc_DanhSach.Designer.vb">
+      <DependentUpon>frmESS_PhongHoc_DanhSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_PhongHoc_DanhSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThi_DanhSach.Designer.vb">
+      <DependentUpon>frmESS_ToChucThi_DanhSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThi_DanhSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_Main.Designer.vb">
+      <DependentUpon>frmESS_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThi_SuaCTThi.Designer.vb">
+      <DependentUpon>frmESS_ToChucThi_SuaCTThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThi_SuaCTThi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopChung.Designer.vb">
+      <DependentUpon>frmESS_TongHopChung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopChung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopXepLoaiHocTap.Designer.vb">
+      <DependentUpon>frmESS_TongHopXepLoaiHocTap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopXepLoaiHocTap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHocBu.Designer.vb">
+      <DependentUpon>frmHocBu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHocBu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKiemTraBu.Designer.vb">
+      <DependentUpon>frmKiemTraBu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKiemTraBu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhanLoai_KQHT.Designer.vb">
+      <DependentUpon>frmPhanLoai_KQHT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhanLoai_KQHT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_XetLenLop.Designer.vb">
+      <DependentUpon>frmESS_XetLenLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_XetLenLop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienThiLai.Designer.vb">
+      <DependentUpon>frmTongHopSinhVienThiLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienThiLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChayQuery.Designer.vb">
+      <DependentUpon>frmESS_ChayQuery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChayQuery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoImport.designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoList.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoMonSub.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoMonSub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoMonSub.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoRangBuocMonHoc.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoRangBuocMonHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoRangBuocMonHoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_DanhSachThoiHocNgungHoc.designer.vb">
+      <DependentUpon>frmESS_DanhSachThoiHocNgungHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_DanhSachThoiHocNgungHoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ThamSoQuyChe.designer.vb">
+      <DependentUpon>frmESS_ThamSoQuyChe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ThamSoQuyChe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiPhanPhong.designer.vb">
+      <DependentUpon>frmESS_ToChucThiPhanPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiPhanPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopDiemMonMain.Designer.vb">
+      <DependentUpon>frmESS_TongHopDiemMonMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopDiemMonMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHop_ThiLaiHocLai.Designer.vb">
+      <DependentUpon>frmESS_TongHop_ThiLaiHocLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHop_ThiLaiHocLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHop_ThiLaiHocLai_DanhSach.Designer.vb">
+      <DependentUpon>frmESS_TongHop_ThiLaiHocLai_DanhSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHop_ThiLaiHocLai_DanhSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_DanhSachKhongDuDieuKienDuThiHocPhan.Designer.vb">
+      <DependentUpon>frmESS_DanhSachKhongDuDieuKienDuThiHocPhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_DanhSachKhongDuDieuKienDuThiHocPhan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChangePassword.designer.vb">
+      <DependentUpon>frmESS_ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChonMonHocChungChi.Designer.vb">
+      <DependentUpon>frmESS_ChonMonHocChungChi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChonMonHocChungChi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_DanhSachKhongDuDieuKienDuThiHocPhi.Designer.vb">
+      <DependentUpon>frmESS_DanhSachKhongDuDieuKienDuThiHocPhi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_DanhSachKhongDuDieuKienDuThiHocPhi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_DongTuiThi.Designer.vb">
+      <DependentUpon>frmESS_DongTuiThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_DongTuiThi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_KhoaDiemHocPhanDotThi.Designer.vb">
+      <DependentUpon>frmESS_KhoaDiemHocPhanDotThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_KhoaDiemHocPhanDotThi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_KhoaDulieuDiemThiTheoPhong.Designer.vb">
+      <DependentUpon>frmESS_KhoaDulieuDiemThiTheoPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_KhoaDulieuDiemThiTheoPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_KhoaDulieuDiemThiLopHC.Designer.vb">
+      <DependentUpon>frmESS_KhoaDulieuDiemThiLopHC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_KhoaDulieuDiemThiLopHC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_KiemTraDuLieuSai_CSDL.Designer.vb">
+      <DependentUpon>frmESS_KiemTraDuLieuSai_CSDL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_KiemTraDuLieuSai_CSDL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_MonHoc.Designer.vb">
+      <DependentUpon>frmESS_MonHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_MonHoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_MonHocList.designer.vb">
+      <DependentUpon>frmESS_MonHocList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_MonHocList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemSoPhach.Designer.vb">
+      <DependentUpon>frmESS_NhapDiemSoPhach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemSoPhach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoGanLop.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoGanLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoGanLop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaotaoAdd.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaotaoAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaotaoAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fonction.vb" />
+    <Compile Include="frmESS_ChuongTrinhDaoTaoMonChon.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoMonChon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoMonChon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThiPhong.Designer.vb">
+      <DependentUpon>frmESS_NhapDiemThiPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThiPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_KhoaDuLieuDiemThanhPhanLop.Designer.vb">
+      <DependentUpon>frmESS_KhoaDuLieuDiemThanhPhanLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_KhoaDuLieuDiemThanhPhanLop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_LayDuLieuDiem.Designer.vb">
+      <DependentUpon>frmESS_LayDuLieuDiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_LayDuLieuDiem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_Login.designer.vb">
+      <DependentUpon>frmESS_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThiSBD.designer.vb">
+      <DependentUpon>frmESS_NhapDiemThiSBD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThiSBD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemTuiThi.Designer.vb">
+      <DependentUpon>frmESS_NhapDiemTuiThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemTuiThi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NoiDungQDTotNghiep.designer.vb">
+      <DependentUpon>frmESS_NoiDungQDTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NoiDungQDTotNghiep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NoKhacKhiXetTotNghiep.Designer.vb">
+      <DependentUpon>frmESS_NoKhacKhiXetTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NoKhacKhiXetTotNghiep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_PhanLoaiHocTap_Lop.Designer.vb">
+      <DependentUpon>frmESS_PhanLoaiHocTap_Lop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_PhanLoaiHocTap_Lop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_PhanLoaiHocTap_Mon.Designer.vb">
+      <DependentUpon>frmESS_PhanLoaiHocTap_Mon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_PhanLoaiHocTap_Mon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_QuyetDinhThoiHoc.Designer.vb">
+      <DependentUpon>frmESS_QuyetDinhThoiHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_QuyetDinhThoiHoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ReportView.Designer.vb">
+      <DependentUpon>frmESS_ReportView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ReportView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_SearchSinhVien.designer.vb">
+      <DependentUpon>frmESS_SearchSinhVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_SearchSinhVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ServerChange.designer.vb">
+      <DependentUpon>frmESS_ServerChange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ServerChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ThamSoHeThong.designer.vb">
+      <DependentUpon>frmESS_ThamSoHeThong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ThamSoHeThong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ThayDoiThanhPhan.Designer.vb">
+      <DependentUpon>frmESS_ThayDoiThanhPhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ThayDoiThanhPhan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ThietLapMonChungChi.Designer.vb">
+      <DependentUpon>frmESS_ThietLapMonChungChi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ThietLapMonChungChi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TimKiemSinhVien.Designer.vb">
+      <DependentUpon>frmESS_TimKiemSinhVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TimKiemSinhVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiPhong.Designer.vb">
+      <DependentUpon>frmESS_ToChucThiPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiPhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_DanhSachNoTotNghiepKhac.Designer.vb">
+      <DependentUpon>frmESS_DanhSachNoTotNghiepKhac.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_DanhSachNoTotNghiepKhac.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_PhanCongThucTap.Designer.vb">
+      <DependentUpon>frmESS_PhanCongThucTap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_PhanCongThucTap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiThemSinhVien.designer.vb">
+      <DependentUpon>frmESS_ToChucThiThemSinhVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiThemSinhVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocTapNam.Designer.vb">
+      <DependentUpon>frmESS_TongHopHocTapNam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocTapNam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopNoChungChi_.Designer.vb">
+      <DependentUpon>frmESS_TongHopNoChungChi_.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopNoChungChi_.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopSinhVienThiLai.Designer.vb">
+      <DependentUpon>frmESS_TongHopSinhVienThiLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopSinhVienThiLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopThiLai.Designer.vb">
+      <DependentUpon>frmESS_TongHopThiLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopThiLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_XetHocTiepThoiHocNgungHoc.Designer.vb">
+      <DependentUpon>frmESS_XetHocTiepThoiHocNgungHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_XetHocTiepThoiHocNgungHoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_XetLuanVanThiTotNghiep.Designer.vb">
+      <DependentUpon>frmESS_XetLuanVanThiTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_XetLuanVanThiTotNghiep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_BangDiemChiTietSinhVien.Designer.vb">
+      <DependentUpon>frmESS_BangDiemChiTietSinhVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_BangDiemChiTietSinhVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_QuyetDinhThoiHocList.Designer.vb">
+      <DependentUpon>frmESS_QuyetDinhThoiHocList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_QuyetDinhThoiHocList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocToanKhoa.Designer.vb">
+      <DependentUpon>frmESS_TongHopHocToanKhoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocToanKhoa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChungChi.Designer.vb">
+      <DependentUpon>frmESS_ChungChi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChungChi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoChonMon.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoChonMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaoTaoChonMon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaotaoSaoChep.Designer.vb">
+      <DependentUpon>frmESS_ChuongTrinhDaotaoSaoChep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ChuongTrinhDaotaoSaoChep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_MsgBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThanhPhanLop.Designer.vb">
+      <DependentUpon>frmESS_NhapDiemThanhPhanLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThanhPhanLop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThiLop.Designer.vb">
+      <DependentUpon>frmESS_NhapDiemThiLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_NhapDiemThiLop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiAdd.Designer.vb">
+      <DependentUpon>frmESS_ToChucThiAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiDongTui.Designer.vb">
+      <DependentUpon>frmESS_ToChucThiDongTui.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiDongTui.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiList.Designer.vb">
+      <DependentUpon>frmESS_ToChucThiList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_ToChucThiList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocKy.Designer.vb">
+      <DependentUpon>frmESS_TongHopHocKy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_TongHopHocKy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmESS_XetTotNghiep.designer.vb">
+      <DependentUpon>frmESS_XetTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_XetTotNghiep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain1.Designer.vb">
+      <DependentUpon>frmMain1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienHocLai.Designer.vb">
+      <DependentUpon>frmTongHopSinhVienHocLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopSinhVienHocLai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IniFile.vb" />
+    <Compile Include="mdlBaoCaoTongHop.vb" />
+    <Compile Include="mdlCheckVersion.vb" />
+    <Compile Include="mdlCommon.vb" />
+    <Compile Include="mdlEnumNConst.vb" />
+    <Compile Include="mdlMsg.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmESS_PhanLoaiHocTap.Designer.vb">
+      <DependentUpon>frmESS_PhanLoaiHocTap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmESS_PhanLoaiHocTap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintRibbonControllerResources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_VanHoa.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Right_VanHoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_VanHoa.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left_VanHoa.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Left_VanHoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left_VanHoa.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_VanHoa.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_VanHoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_VanHoa.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_Mau2.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Right_Mau2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_Mau2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left_Mau2.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Left_Mau2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left_Mau2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Mau2.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_Mau2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Mau2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Mau2.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_NNT_Mau2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Mau2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Sub_Right.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_NNT_Sub_Right.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Sub_Right.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Sub_Left.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_NNT_Sub_Left.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Sub_Left.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_NNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangTotNghiep_CNC.Designer.vb">
+      <DependentUpon>rptBangTotNghiep_CNC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangTotNghiep_CNC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptChungNhanTN_VietHan.Designer.vb">
+      <DependentUpon>rptChungNhanTN_VietHan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptChungNhanTN_VietHan.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_Dat_TotNghiep_BangDIem.Designer.vb">
+      <DependentUpon>rptDanhSach_Dat_TotNghiep_BangDIem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_Dat_TotNghiep_BangDIem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_ChuaDat_TotNghiep_BangDiem.Designer.vb">
+      <DependentUpon>rptDanhSach_ChuaDat_TotNghiep_BangDiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_ChuaDat_TotNghiep_BangDiem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_ChuaDat_TotNghiep.Designer.vb">
+      <DependentUpon>rptDanhSach_ChuaDat_TotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_ChuaDat_TotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptInChungChi.Designer.vb">
+      <DependentUpon>rptInChungChi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptInChungChi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rpt_BaoCaoTongKet_KetQuaThiTN.Designer.vb">
+      <DependentUpon>rpt_BaoCaoTongKet_KetQuaThiTN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rpt_BaoCaoTongKet_KetQuaThiTN.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTotNghiepLyThuyet.Designer.vb">
+      <DependentUpon>rptTotNghiepLyThuyet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptTotNghiepLyThuyet.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTotNghiepLyThuyet_DanPhong.Designer.vb">
+      <DependentUpon>rptTotNghiepLyThuyet_DanPhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptTotNghiepLyThuyet_DanPhong.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet_BC.Designer.vb">
+      <DependentUpon>rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet_BC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet_BC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet.Designer.vb">
+      <DependentUpon>rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiem_TotNghiep_KhoaLuan.Designer.vb">
+      <DependentUpon>BangDiem_TotNghiep_KhoaLuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiem_TotNghiep_KhoaLuan.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiem_TotNghiep_KhoaLuan_Sub_Left.Designer.vb">
+      <DependentUpon>BangDiem_TotNghiep_KhoaLuan_Sub_Left.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiem_TotNghiep_KhoaLuan_Sub_Left.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiem_TotNghiep_KhoaLuan_Sub_Right.Designer.vb">
+      <DependentUpon>BangDiem_TotNghiep_KhoaLuan_Sub_Right.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiem_TotNghiep_KhoaLuan_Sub_Right.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep.Designer.vb">
+      <DependentUpon>BangDiem_Tot_Nghiep_ThiTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Left.Designer.vb">
+      <DependentUpon>BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Left.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Left.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Right.Designer.vb">
+      <DependentUpon>BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Right.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Right.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\CDN_AnGiang\rpt_DSTheoDoiNgayHocTap.Designer.vb">
+      <DependentUpon>rpt_DSTheoDoiNgayHocTap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\CDN_AnGiang\rpt_DSTheoDoiNgayHocTap.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\CDN_AnGiang\rpt_ThongKeKetQuaHocTap_RenLuyen_Nam.Designer.vb">
+      <DependentUpon>rpt_ThongKeKetQuaHocTap_RenLuyen_Nam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\CDN_AnGiang\rpt_ThongKeKetQuaHocTap_RenLuyen_Nam.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Left.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Right.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_Dat_TotNghiep.Designer.vb">
+      <DependentUpon>rptDanhSach_Dat_TotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BangDiemTN\rptDanhSach_Dat_TotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemTongHopChiTiet_SinhVien.Designer.vb">
+      <DependentUpon>rptBangDiemTongHopChiTiet_SinhVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemTongHopChiTiet_SinhVien.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachSinhVienNoTheoHocPhan.Designer.vb">
+      <DependentUpon>rptDanhSachSinhVienNoTheoHocPhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachSinhVienNoTheoHocPhan.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachDuThi.Designer.vb">
+      <DependentUpon>rptDanhSachDuThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachDuThi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemSinhVien_NhomHocKy.Designer.vb">
+      <DependentUpon>rptBangDiemSinhVien_NhomHocKy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemSinhVien_NhomHocKy.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachNoMon.Designer.vb">
+      <DependentUpon>rptDanhSachNoMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachNoMon.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopTheoNam.Designer.vb">
+      <DependentUpon>rpt_TongHopTheoNam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopTheoNam.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptMark_DanhSachSinhVien_NoThiTotNghiep.Designer.vb">
+      <DependentUpon>rptMark_DanhSachSinhVien_NoThiTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptMark_DanhSachSinhVien_NoThiTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi_Mau2.Designer.vb">
+      <DependentUpon>rpt_DS_ToChucThi_Mau2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi_Mau2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopTheoKy_KhongDRL.Designer.vb">
+      <DependentUpon>rpt_TongHopTheoKy_KhongDRL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopTheoKy_KhongDRL.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopToanKhoa.Designer.vb">
+      <DependentUpon>rpt_TongHopToanKhoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopToanKhoa.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBaoCaoKetQuaDiemThi_KiemTra_DiemTB_DiemTK.Designer.vb">
+      <DependentUpon>rptBaoCaoKetQuaDiemThi_KiemTra_DiemTB_DiemTK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBaoCaoKetQuaDiemThi_KiemTra_DiemTB_DiemTK.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachDuDieuKienThiChinhTri.Designer.vb">
+      <DependentUpon>rptDanhSachDuDieuKienThiChinhTri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachDuDieuKienThiChinhTri.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachNgungHoc.Designer.vb">
+      <DependentUpon>rptDanhSachNgungHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachNgungHoc.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachThoiHoc.Designer.vb">
+      <DependentUpon>rptDanhSachThoiHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachThoiHoc.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\HangHai\rptTongHopKetQuaCanhBao.Designer.vb">
+      <DependentUpon>rptTongHopKetQuaCanhBao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\HangHai\rptTongHopKetQuaCanhBao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\HangHai\rptCanhCaoKetQuaHocTap.Designer.vb">
+      <DependentUpon>rptCanhCaoKetQuaHocTap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\HangHai\rptCanhCaoKetQuaHocTap.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachHocTiep.Designer.vb">
+      <DependentUpon>rptDanhSachHocTiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachHocTiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopTheoKy.Designer.vb">
+      <DependentUpon>rpt_TongHopTheoKy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_TongHopTheoKy.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachCapBangTotNghiep.Designer.vb">
+      <DependentUpon>rptDanhSachCapBangTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachCapBangTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemTotNghiep_CNC.Designer.vb">
+      <DependentUpon>rptBangDiemTotNghiep_CNC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemTotNghiep_CNC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptGiayChungNhanHoanThanhKhoaHoc.Designer.vb">
+      <DependentUpon>rptGiayChungNhanHoanThanhKhoaHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptGiayChungNhanHoanThanhKhoaHoc.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptGiayChungNhanTotNghiepTamThoi.Designer.vb">
+      <DependentUpon>rptGiayChungNhanTotNghiepTamThoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptGiayChungNhanTotNghiepTamThoi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThiPhach_CoDiem.Designer.vb">
+      <DependentUpon>rpt_DS_ToChucThiPhach_CoDiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThiPhach_CoDiem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThiPhach_THNghe.Designer.vb">
+      <DependentUpon>rpt_DS_ToChucThiPhach_THNghe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThiPhach_THNghe.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThiPhach.Designer.vb">
+      <DependentUpon>rpt_DS_ToChucThiPhach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThiPhach.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptInPhachThi.Designer.vb">
+      <DependentUpon>rptInPhachThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptInPhachThi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_GoiPhongThi.Designer.vb">
+      <DependentUpon>rpt_DS_GoiPhongThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_GoiPhongThi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_Moi.Designer.vb">
+      <DependentUpon>rptBangDiemToanKhoa_Moi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_Moi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_NamHoc_Sub.Designer.vb">
+      <DependentUpon>rptBangDiem_NamHoc_Sub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_NamHoc_Sub.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_NamHoc.Designer.vb">
+      <DependentUpon>rptBangDiem_NamHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_NamHoc.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptMark_DanhSachSinhVien_ThiTotNghiep.Designer.vb">
+      <DependentUpon>rptMark_DanhSachSinhVien_ThiTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptMark_DanhSachSinhVien_ThiTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_Khung_CTDT_KhoiKienThuc.Designer.vb">
+      <DependentUpon>rpt_Khung_CTDT_KhoiKienThuc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_Khung_CTDT_KhoiKienThuc.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_Khung_CTDT_TheoKy.Designer.vb">
+      <DependentUpon>rpt_Khung_CTDT_TheoKy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_Khung_CTDT_TheoKy.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_ThongKeXepLoaiHocTap_Nam.Designer.vb">
+      <DependentUpon>rpt_ThongKeXepLoaiHocTap_Nam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_ThongKeXepLoaiHocTap_Nam.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSach_XetLenLop.Designer.vb">
+      <DependentUpon>rptDanhSach_XetLenLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSach_XetLenLop.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap_2_Dau_Diem.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap_2_Dau_Diem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap_2_Dau_Diem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap_2_Dau_Diem.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap_2_Dau_Diem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap_2_Dau_Diem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap_2_Dau_Diem.Designer.vb">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap_2_Dau_Diem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap_2_Dau_Diem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_2_Dau_Diem.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right_2_Dau_Diem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_2_Dau_Diem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_2_Dau_Diem.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left_2_Dau_Diem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_2_Dau_Diem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap.Designer.vb">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll.Designer.vb">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main_PrintAll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main.Designer.vb">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_Tot_Nghiep_Main.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_Right.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_Right.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_Right.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_Left.Designer.vb">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_Left.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiem_TotNghiep_Sub_Left.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangTotNghiep.Designer.vb">
+      <DependentUpon>rptBangTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachChuaTotNghiep.Designer.vb">
+      <DependentUpon>rptDanhSachChuaTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachChuaTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemTBCHP_Dynamic.Designer.vb">
+      <DependentUpon>rptBangDiemTBCHP_Dynamic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemTBCHP_Dynamic.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachHociLai.designer.vb">
+      <DependentUpon>rptDanhSachHociLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachHociLai.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachThiLai.Designer.vb">
+      <DependentUpon>rptDanhSachThiLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachThiLai.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachTotNghiep.Designer.vb">
+      <DependentUpon>rptDanhSachTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTongHopKQHT.Designer.vb">
+      <DependentUpon>rptTongHopKQHT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptTongHopKQHT.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTongHopNhapDiem.Designer.vb">
+      <DependentUpon>rptTongHopNhapDiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptTongHopNhapDiem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTongHopNhapDiemSub.Designer.vb">
+      <DependentUpon>rptTongHopNhapDiemSub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptTongHopNhapDiemSub.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTongHopToanTruong.Designer.vb">
+      <DependentUpon>rptTongHopToanTruong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptTongHopToanTruong.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptTongHopXepLoaiToanTruong.Designer.vb">
+      <DependentUpon>rptTongHopXepLoaiToanTruong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptTongHopXepLoaiToanTruong.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TongHop_DSSV_HocLai.Designer.vb">
+      <DependentUpon>rpt_TongHop_DSSV_HocLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_TongHop_DSSV_HocLai.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa.Designer.vb">
+      <DependentUpon>rptBangDiemToanKhoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_BaoLuu.Designer.vb">
+      <DependentUpon>rptBangDiemToanKhoa_BaoLuu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_BaoLuu.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDS_DiemTBCHP_Dynamic.Designer.vb">
+      <DependentUpon>rptDS_DiemTBCHP_Dynamic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDS_DiemTBCHP_Dynamic.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\frmBangDiemKy_SV.Designer.vb">
+      <DependentUpon>frmBangDiemKy_SV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmBangDiemKy_SV.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangBangDiemTongHopMon.Designer.vb">
+      <DependentUpon>rptBangBangDiemTongHopMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangBangDiemTongHopMon.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemThanhPhan_Dynamic.Designer.vb">
+      <DependentUpon>rptBangDiemThanhPhan_Dynamic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemThanhPhan_Dynamic.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemThanhPhan.Designer.vb">
+      <DependentUpon>rptBangDiemThanhPhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemThanhPhan.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_Sub1.Designer.vb">
+      <DependentUpon>rptBangDiemToanKhoa_Sub1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_Sub1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_Sub.Designer.vb">
+      <DependentUpon>rptBangDiemToanKhoa_Sub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemToanKhoa_Sub.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDSMonHoc.Designer.vb">
+      <DependentUpon>rptDSMonHoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDSMonHoc.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDSMonHoc_Sub.Designer.vb">
+      <DependentUpon>rptDSMonHoc_Sub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDSMonHoc_Sub.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptMARK_TongHopKetQuaHocTap.Designer.vb">
+      <DependentUpon>rptMARK_TongHopKetQuaHocTap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptMARK_TongHopKetQuaHocTap.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi.Designer.vb">
+      <DependentUpon>rpt_DS_ToChucThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_DS_ToChucThi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_Phach_ToChucThi.Designer.vb">
+      <DependentUpon>rpt_Phach_ToChucThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_Phach_ToChucThi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rpt_TongHop_DSHocLai.Designer.vb">
+      <DependentUpon>rpt_TongHop_DSHocLai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rpt_TongHop_DSHocLai.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptBangDiemSinhVien_NhomHocKySUB.Designer.vb">
+      <DependentUpon>rptBangDiemSinhVien_NhomHocKySUB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptBangDiemSinhVien_NhomHocKySUB.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControl\TreeViewLop_NEW.Designer.vb">
+      <DependentUpon>TreeViewLop_NEW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TreeViewLop_NEW.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\TreeViewPhongThi.Designer.vb">
+      <DependentUpon>TreeViewPhongThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TreeViewPhongThi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\TreeViewChuyenNganh.Designer.vb">
+      <DependentUpon>TreeViewChuyenNganh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TreeViewChuyenNganh.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\TreeViewLop.Designer.vb">
+      <DependentUpon>TreeViewLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TreeViewLop.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\TreeViewTuiThi.designer.vb">
+      <DependentUpon>TreeViewTuiThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TreeViewTuiThi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\TrvLop_ChuanHoa.Designer.vb">
+      <DependentUpon>TrvLop_ChuanHoa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\TrvLop_ChuanHoa.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VietnameseReportPreview.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmESS_DiemRenLuyen.resx">
+      <DependentUpon>frmESS_DiemRenLuyen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_InChungChi.resx">
+      <DependentUpon>frmESS_InChungChi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_InChungChi_List.resx">
+      <DependentUpon>frmESS_InChungChi_List.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_XetDieuKienThiChinhTri.resx">
+      <DependentUpon>frmESS_XetDieuKienThiChinhTri.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThanhPhanThi.resx">
+      <DependentUpon>frmThanhPhanThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopSinhVienHocLai_NopTien.resx">
+      <DependentUpon>frmTongHopSinhVienHocLai_NopTien.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopSinhVienThiTotNghiepChinhTri.resx">
+      <DependentUpon>frmTongHopSinhVienThiTotNghiepChinhTri.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopTienThiLai.resx">
+      <DependentUpon>frmTongHopTienThiLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ThuTienHocLai.resx">
+      <DependentUpon>frmESS_ThuTienHocLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChonHocPhanChungChi.resx">
+      <DependentUpon>frmESS_ChonHocPhanChungChi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTao_ThietLapMonChungChi.resx">
+      <DependentUpon>frmESS_ChuongTrinhDaoTao_ThietLapMonChungChi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopSinhVienHocLai1.resx">
+      <DependentUpon>frmTongHopSinhVienHocLai1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_MoKhoaDiemTPNhanh.resx">
+      <DependentUpon>frmESS_MoKhoaDiemTPNhanh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_KhoaDiemThiNhanh.resx">
+      <DependentUpon>frmESS_KhoaDiemThiNhanh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopHocLai_ChiTiet_TheoSinhVien.resx">
+      <DependentUpon>frmESS_TongHopHocLai_ChiTiet_TheoSinhVien.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhanLoai_KQHT_Nam.resx">
+      <DependentUpon>frmPhanLoai_KQHT_Nam.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopTienHocLai.resx">
+      <DependentUpon>frmTongHopTienHocLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_BoMon.resx">
+      <DependentUpon>frmESS_BoMon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_BoMonChonGiaoVien.resx">
+      <DependentUpon>frmESS_BoMonChonGiaoVien.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_BoMonChonHocPhan.resx">
+      <DependentUpon>frmESS_BoMonChonHocPhan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_BoMon_DanhSach.resx">
+      <DependentUpon>frmESS_BoMon_DanhSach.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_PhongHoc.resx">
+      <DependentUpon>frmESS_PhongHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_PhongHoc_DanhSach.resx">
+      <DependentUpon>frmESS_PhongHoc_DanhSach.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThi_DanhSach.resx">
+      <DependentUpon>frmESS_ToChucThi_DanhSach.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_Main.resx">
+      <DependentUpon>frmESS_Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThi_SuaCTThi.resx">
+      <DependentUpon>frmESS_ToChucThi_SuaCTThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopChung.resx">
+      <DependentUpon>frmESS_TongHopChung.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopXepLoaiHocTap.resx">
+      <DependentUpon>frmESS_TongHopXepLoaiHocTap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHocBu.resx">
+      <DependentUpon>frmHocBu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKiemTraBu.resx">
+      <DependentUpon>frmKiemTraBu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhanLoai_KQHT.resx">
+      <DependentUpon>frmPhanLoai_KQHT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_XetLenLop.resx">
+      <DependentUpon>frmESS_XetLenLop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopSinhVienThiLai.resx">
+      <DependentUpon>frmTongHopSinhVienThiLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChayQuery.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ChayQuery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTaoImport.resx">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTaoList.resx">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTaoMonSub.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoMonSub.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTaoRangBuocMonHoc.resx">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoRangBuocMonHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_DanhSachThoiHocNgungHoc.resx">
+      <DependentUpon>frmESS_DanhSachThoiHocNgungHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ThamSoQuyChe.resx">
+      <DependentUpon>frmESS_ThamSoQuyChe.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThiPhanPhong.resx">
+      <DependentUpon>frmESS_ToChucThiPhanPhong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopDiemMonMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_TongHopDiemMonMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHop_ThiLaiHocLai.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_TongHop_ThiLaiHocLai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHop_ThiLaiHocLai_DanhSach.resx">
+      <DependentUpon>frmESS_TongHop_ThiLaiHocLai_DanhSach.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_DanhSachKhongDuDieuKienDuThiHocPhan.resx">
+      <DependentUpon>frmESS_DanhSachKhongDuDieuKienDuThiHocPhan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChangePassword.resx">
+      <DependentUpon>frmESS_ChangePassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChonMonHocChungChi.resx">
+      <DependentUpon>frmESS_ChonMonHocChungChi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_DanhSachKhongDuDieuKienDuThiHocPhi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_DanhSachKhongDuDieuKienDuThiHocPhi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_DongTuiThi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_DongTuiThi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_KhoaDiemHocPhanDotThi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_KhoaDiemHocPhanDotThi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_KhoaDulieuDiemThiTheoPhong.resx">
+      <DependentUpon>frmESS_KhoaDulieuDiemThiTheoPhong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_KhoaDulieuDiemThiLopHC.resx">
+      <DependentUpon>frmESS_KhoaDulieuDiemThiLopHC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_KiemTraDuLieuSai_CSDL.resx">
+      <DependentUpon>frmESS_KiemTraDuLieuSai_CSDL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_MonHoc.resx">
+      <DependentUpon>frmESS_MonHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_MonHocList.resx">
+      <DependentUpon>frmESS_MonHocList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NhapDiemSoPhach.resx">
+      <DependentUpon>frmESS_NhapDiemSoPhach.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTaoGanLop.resx">
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoGanLop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaotaoAdd.resx">
+      <DependentUpon>frmESS_ChuongTrinhDaotaoAdd.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTaoMonChon.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoMonChon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NhapDiemThiPhong.resx">
+      <DependentUpon>frmESS_NhapDiemThiPhong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_KhoaDuLieuDiemThanhPhanLop.resx">
+      <DependentUpon>frmESS_KhoaDuLieuDiemThanhPhanLop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_LayDuLieuDiem.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_LayDuLieuDiem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_Login.resx">
+      <DependentUpon>frmESS_Login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NhapDiemThiSBD.resx">
+      <DependentUpon>frmESS_NhapDiemThiSBD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NhapDiemTuiThi.resx">
+      <DependentUpon>frmESS_NhapDiemTuiThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NoiDungQDTotNghiep.resx">
+      <DependentUpon>frmESS_NoiDungQDTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NoKhacKhiXetTotNghiep.resx">
+      <DependentUpon>frmESS_NoKhacKhiXetTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_PhanLoaiHocTap_Lop.resx">
+      <DependentUpon>frmESS_PhanLoaiHocTap_Lop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_PhanLoaiHocTap_Mon.resx">
+      <DependentUpon>frmESS_PhanLoaiHocTap_Mon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_QuyetDinhThoiHoc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_QuyetDinhThoiHoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ReportView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ReportView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_SearchSinhVien.resx">
+      <DependentUpon>frmESS_SearchSinhVien.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ServerChange.resx">
+      <DependentUpon>frmESS_ServerChange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ThamSoHeThong.resx">
+      <DependentUpon>frmESS_ThamSoHeThong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ThayDoiThanhPhan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ThayDoiThanhPhan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ThietLapMonChungChi.resx">
+      <DependentUpon>frmESS_ThietLapMonChungChi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TimKiemSinhVien.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_TimKiemSinhVien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThiPhong.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ToChucThiPhong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_DanhSachNoTotNghiepKhac.resx">
+      <DependentUpon>frmESS_DanhSachNoTotNghiepKhac.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_PhanCongThucTap.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_PhanCongThucTap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThiThemSinhVien.resx">
+      <DependentUpon>frmESS_ToChucThiThemSinhVien.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopHocTapNam.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_TongHopHocTapNam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopNoChungChi_.resx">
+      <DependentUpon>frmESS_TongHopNoChungChi_.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopSinhVienThiLai.resx">
+      <DependentUpon>frmESS_TongHopSinhVienThiLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopThiLai.resx">
+      <DependentUpon>frmESS_TongHopThiLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_XetHocTiepThoiHocNgungHoc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_XetHocTiepThoiHocNgungHoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_XetLuanVanThiTotNghiep.resx">
+      <DependentUpon>frmESS_XetLuanVanThiTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_BangDiemChiTietSinhVien.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_BangDiemChiTietSinhVien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_PhanLoaiHocTap.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_PhanLoaiHocTap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_QuyetDinhThoiHocList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_QuyetDinhThoiHocList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopHocToanKhoa.resx">
+      <DependentUpon>frmESS_TongHopHocToanKhoa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChungChi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ChungChi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaoTaoChonMon.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ChuongTrinhDaoTaoChonMon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ChuongTrinhDaotaoSaoChep.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ChuongTrinhDaotaoSaoChep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_MsgBox.resx">
+      <DependentUpon>frmESS_MsgBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NhapDiemThanhPhanLop.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_NhapDiemThanhPhanLop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_NhapDiemThiLop.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_NhapDiemThiLop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThiAdd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ToChucThiAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThiDongTui.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ToChucThiDongTui.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_ToChucThiList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_ToChucThiList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_TongHopHocKy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmESS_TongHopHocKy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_XetTotNghiep.resx">
+      <DependentUpon>frmESS_XetTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain1.resx">
+      <DependentUpon>frmMain1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopSinhVienHocLai.resx">
+      <DependentUpon>frmTongHopSinhVienHocLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PrintRibbonControllerResources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_VanHoa.resx">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Right_VanHoa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left_VanHoa.resx">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Left_VanHoa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_VanHoa.resx">
+      <DependentUpon>rptBangDiemTotNghiep_VanHoa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_Mau2.resx">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Right_Mau2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left_Mau2.resx">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Left_Mau2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Mau2.resx">
+      <DependentUpon>rptBangDiemTotNghiep_Mau2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Mau2.resx">
+      <DependentUpon>rptBangDiemTotNghiep_NNT_Mau2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Sub_Right.resx">
+      <DependentUpon>rptBangDiemTotNghiep_NNT_Sub_Right.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT_Sub_Left.resx">
+      <DependentUpon>rptBangDiemTotNghiep_NNT_Sub_Left.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_NNT.resx">
+      <DependentUpon>rptBangDiemTotNghiep_NNT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangTotNghiep_CNC.resx">
+      <DependentUpon>rptBangTotNghiep_CNC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptChungNhanTN_VietHan.resx">
+      <DependentUpon>rptChungNhanTN_VietHan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptDanhSach_Dat_TotNghiep_BangDIem.resx">
+      <DependentUpon>rptDanhSach_Dat_TotNghiep_BangDIem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptDanhSach_ChuaDat_TotNghiep_BangDiem.resx">
+      <DependentUpon>rptDanhSach_ChuaDat_TotNghiep_BangDiem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptDanhSach_ChuaDat_TotNghiep.resx">
+      <DependentUpon>rptDanhSach_ChuaDat_TotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptInChungChi.resx">
+      <DependentUpon>rptInChungChi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rpt_BaoCaoTongKet_KetQuaThiTN.resx">
+      <DependentUpon>rpt_BaoCaoTongKet_KetQuaThiTN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTotNghiepLyThuyet.resx">
+      <DependentUpon>rptTotNghiepLyThuyet.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTotNghiepLyThuyet_DanPhong.resx">
+      <DependentUpon>rptTotNghiepLyThuyet_DanPhong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet_BC.resx">
+      <DependentUpon>rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet_BC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet.resx">
+      <DependentUpon>rpt_DS_ToChucThi_PhieuTheoDoi_LyThuyet.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiem_TotNghiep_KhoaLuan.resx">
+      <DependentUpon>BangDiem_TotNghiep_KhoaLuan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiem_TotNghiep_KhoaLuan_Sub_Left.resx">
+      <DependentUpon>BangDiem_TotNghiep_KhoaLuan_Sub_Left.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiem_TotNghiep_KhoaLuan_Sub_Right.resx">
+      <DependentUpon>BangDiem_TotNghiep_KhoaLuan_Sub_Right.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep.resx">
+      <DependentUpon>BangDiem_Tot_Nghiep_ThiTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Left.resx">
+      <DependentUpon>BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Left.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Right.resx">
+      <DependentUpon>BangDiem_Tot_Nghiep_ThiTotNghiep_Sub_Right.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CDN_AnGiang\rpt_DSTheoDoiNgayHocTap.resx">
+      <DependentUpon>rpt_DSTheoDoiNgayHocTap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CDN_AnGiang\rpt_ThongKeKetQuaHocTap_RenLuyen_Nam.resx">
+      <DependentUpon>rpt_ThongKeKetQuaHocTap_RenLuyen_Nam.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Left.resx">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Left.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right.resx">
+      <DependentUpon>rptBangDiemTotNghiep_Sub_Right.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BangDiemTN\rptDanhSach_Dat_TotNghiep.resx">
+      <DependentUpon>rptDanhSach_Dat_TotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemTongHopChiTiet_SinhVien.resx">
+      <DependentUpon>rptBangDiemTongHopChiTiet_SinhVien.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachSinhVienNoTheoHocPhan.resx">
+      <DependentUpon>rptDanhSachSinhVienNoTheoHocPhan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachDuThi.resx">
+      <DependentUpon>rptDanhSachDuThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemSinhVien_NhomHocKy.resx">
+      <DependentUpon>rptBangDiemSinhVien_NhomHocKy.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachNoMon.resx">
+      <DependentUpon>rptDanhSachNoMon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TongHopTheoNam.resx">
+      <DependentUpon>rpt_TongHopTheoNam.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptMark_DanhSachSinhVien_NoThiTotNghiep.resx">
+      <DependentUpon>rptMark_DanhSachSinhVien_NoThiTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_ToChucThi_Mau2.resx">
+      <DependentUpon>rpt_DS_ToChucThi_Mau2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TongHopTheoKy_KhongDRL.resx">
+      <DependentUpon>rpt_TongHopTheoKy_KhongDRL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TongHopToanKhoa.resx">
+      <DependentUpon>rpt_TongHopToanKhoa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBaoCaoKetQuaDiemThi_KiemTra_DiemTB_DiemTK.resx">
+      <DependentUpon>rptBaoCaoKetQuaDiemThi_KiemTra_DiemTB_DiemTK.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachDuDieuKienThiChinhTri.resx">
+      <DependentUpon>rptDanhSachDuDieuKienThiChinhTri.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachNgungHoc.resx">
+      <DependentUpon>rptDanhSachNgungHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachThoiHoc.resx">
+      <DependentUpon>rptDanhSachThoiHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\HangHai\rptTongHopKetQuaCanhBao.resx">
+      <DependentUpon>rptTongHopKetQuaCanhBao.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\HangHai\rptCanhCaoKetQuaHocTap.resx">
+      <DependentUpon>rptCanhCaoKetQuaHocTap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachHocTiep.resx">
+      <DependentUpon>rptDanhSachHocTiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TongHopTheoKy.resx">
+      <DependentUpon>rpt_TongHopTheoKy.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachCapBangTotNghiep.resx">
+      <DependentUpon>rptDanhSachCapBangTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemTotNghiep_CNC.resx">
+      <DependentUpon>rptBangDiemTotNghiep_CNC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptGiayChungNhanHoanThanhKhoaHoc.resx">
+      <DependentUpon>rptGiayChungNhanHoanThanhKhoaHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptGiayChungNhanTotNghiepTamThoi.resx">
+      <DependentUpon>rptGiayChungNhanTotNghiepTamThoi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_ToChucThiPhach_CoDiem.resx">
+      <DependentUpon>rpt_DS_ToChucThiPhach_CoDiem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_ToChucThiPhach_THNghe.resx">
+      <DependentUpon>rpt_DS_ToChucThiPhach_THNghe.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_ToChucThiPhach.resx">
+      <DependentUpon>rpt_DS_ToChucThiPhach.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptInPhachThi.resx">
+      <DependentUpon>rptInPhachThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_GoiPhongThi.resx">
+      <DependentUpon>rpt_DS_GoiPhongThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemToanKhoa_Moi.resx">
+      <DependentUpon>rptBangDiemToanKhoa_Moi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_NamHoc_Sub.resx">
+      <DependentUpon>rptBangDiem_NamHoc_Sub.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_NamHoc.resx">
+      <DependentUpon>rptBangDiem_NamHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptMark_DanhSachSinhVien_ThiTotNghiep.resx">
+      <DependentUpon>rptMark_DanhSachSinhVien_ThiTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_Khung_CTDT_KhoiKienThuc.resx">
+      <DependentUpon>rpt_Khung_CTDT_KhoiKienThuc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_Khung_CTDT_TheoKy.resx">
+      <DependentUpon>rpt_Khung_CTDT_TheoKy.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_ThongKeXepLoaiHocTap_Nam.resx">
+      <DependentUpon>rpt_ThongKeXepLoaiHocTap_Nam.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSach_XetLenLop.resx">
+      <DependentUpon>rptDanhSach_XetLenLop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap_2_Dau_Diem.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap_2_Dau_Diem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap_2_Dau_Diem.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap_2_Dau_Diem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap_2_Dau_Diem.resx">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap_2_Dau_Diem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_2_Dau_Diem.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right_2_Dau_Diem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_2_Dau_Diem.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left_2_Dau_Diem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left_TrungCap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap.resx">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main_PrintAll_TrungCap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Right_TrungCap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_PrintAll_Left.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_PrintAll_Left.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_Tot_Nghiep_Main_PrintAll.resx">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main_PrintAll.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_Tot_Nghiep_Main.resx">
+      <DependentUpon>rptBangDiem_Tot_Nghiep_Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_Right.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_Right.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiem_TotNghiep_Sub_Left.resx">
+      <DependentUpon>rptBangDiem_TotNghiep_Sub_Left.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangTotNghiep.resx">
+      <DependentUpon>rptBangTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachChuaTotNghiep.resx">
+      <DependentUpon>rptDanhSachChuaTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemTBCHP_Dynamic.resx">
+      <DependentUpon>rptBangDiemTBCHP_Dynamic.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachHociLai.resx">
+      <DependentUpon>rptDanhSachHociLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachThiLai.resx">
+      <DependentUpon>rptDanhSachThiLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachTotNghiep.resx">
+      <DependentUpon>rptDanhSachTotNghiep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTongHopNhapDiem.resx">
+      <DependentUpon>rptTongHopNhapDiem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTongHopNhapDiemSub.resx">
+      <DependentUpon>rptTongHopNhapDiemSub.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTongHopToanTruong.resx">
+      <DependentUpon>rptTongHopToanTruong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptTongHopXepLoaiToanTruong.resx">
+      <DependentUpon>rptTongHopXepLoaiToanTruong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TongHop_DSSV_HocLai.resx">
+      <DependentUpon>rpt_TongHop_DSSV_HocLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemToanKhoa.resx">
+      <DependentUpon>rptBangDiemToanKhoa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemToanKhoa_BaoLuu.resx">
+      <DependentUpon>rptBangDiemToanKhoa_BaoLuu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDS_DiemTBCHP_Dynamic.resx">
+      <DependentUpon>rptDS_DiemTBCHP_Dynamic.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmBangDiemKy_SV.resx">
+      <DependentUpon>frmBangDiemKy_SV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangBangDiemTongHopMon.resx">
+      <DependentUpon>rptBangBangDiemTongHopMon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemThanhPhan_Dynamic.resx">
+      <DependentUpon>rptBangDiemThanhPhan_Dynamic.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemThanhPhan.resx">
+      <DependentUpon>rptBangDiemThanhPhan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemToanKhoa_Sub1.resx">
+      <DependentUpon>rptBangDiemToanKhoa_Sub1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemToanKhoa_Sub.resx">
+      <DependentUpon>rptBangDiemToanKhoa_Sub.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDSMonHoc.resx">
+      <DependentUpon>rptDSMonHoc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDSMonHoc_Sub.resx">
+      <DependentUpon>rptDSMonHoc_Sub.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptMARK_TongHopKetQuaHocTap.resx">
+      <DependentUpon>rptMARK_TongHopKetQuaHocTap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_DS_ToChucThi.resx">
+      <DependentUpon>rpt_DS_ToChucThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_Phach_ToChucThi.resx">
+      <DependentUpon>rpt_Phach_ToChucThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rpt_TongHop_DSHocLai.resx">
+      <DependentUpon>rpt_TongHop_DSHocLai.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptBangDiemSinhVien_NhomHocKySUB.resx">
+      <DependentUpon>rptBangDiemSinhVien_NhomHocKySUB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TreeViewLop_NEW.resx">
+      <DependentUpon>TreeViewLop_NEW.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TreeViewPhongThi.resx">
+      <DependentUpon>TreeViewPhongThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TreeViewChuyenNganh.resx">
+      <DependentUpon>TreeViewChuyenNganh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TreeViewLop.resx">
+      <DependentUpon>TreeViewLop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TreeViewTuiThi.resx">
+      <DependentUpon>TreeViewTuiThi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\TrvLop_ChuanHoa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TrvLop_ChuanHoa.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CauHinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChuyenLop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DangNhap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excel.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HosoSV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NhapTruong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RaTruong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThongKe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LapSBD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PhongHoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThanhPhanDiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NienChe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PhanLoaiHocTap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoiChieuDuLieu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KhoaDuLieu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MoKhoaDuLieu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuaTrinhDiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeThong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DanhMuc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToChucThi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XetDuyet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KiemTraKetNoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RangBuocMonHoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\UniSoftSetup.ini" />
+    <None Include="Resources\Locked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1332560677_applications-office.ico" />
+    <Content Include="bin\C1.C1PrintDocument.dll" />
+    <Content Include="bin\C1.Common.dll" />
+    <Content Include="bin\C1.PrintUtil.dll" />
+    <Content Include="bin\C1.Win.C1FlexGrid.dll" />
+    <Content Include="bin\C1.Win.C1PrintPreview.dll" />
+    <Content Include="bin\C1.Win.C1Report.dll" />
+    <Content Include="bin\HttpDownload.dll" />
+    <Content Include="bin\Interop.Excel.dll" />
+    <Content Include="bin\Interop.Scripting.dll" />
+    <Content Include="bin\Janus.Windows.Common.v2.dll" />
+    <Content Include="bin\Janus.Windows.UI.v2.dll" />
+    <Content Include="mov.ico" />
+    <None Include="Resources\Cancel1.png" />
+    <Content Include="Resources\ChuongTrinhDaoTao.png" />
+    <None Include="Resources\Delete1.png" />
+    <None Include="Resources\Edit1.png" />
+    <None Include="Resources\excel1.png" />
+    <None Include="Resources\HocBu.png" />
+    <None Include="Resources\HosoSV1.png" />
+    <Content Include="Resources\KTKT4.gif" />
+    <None Include="Resources\View1.png" />
+    <None Include="Resources\quit1.png" />
+    <None Include="Resources\print1.png" />
+    <None Include="Resources\KtraBu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.vbproj">
+      <Project>{6266F192-8BC9-4669-A4C2-672E5FD655B1}</Project>
+      <Name>BLL</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Connect\ESS_.Machine.vbproj">
+      <Project>{FB28F05B-02B2-4CF6-8E7E-D48991E3AE25}</Project>
+      <Name>ESS_.Machine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.vbproj">
+      <Project>{FD768322-5CD1-45A5-A6D6-7BE9FD55A590}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DanhMuc\ESS_.Catalogue.vbproj">
+      <Project>{74B8455C-FA4B-40FB-9A95-AB80F529D81D}</Project>
+      <Name>ESS_.Catalogue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.vbproj">
+      <Project>{9E2EAF9A-F0B7-45E7-9371-13F3D3F987EE}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ESS_Reports\ESS_Reports.vbproj">
+      <Project>{22C7C9D0-F17B-4C15-95A8-F1565056D58C}</Project>
+      <Name>ESS_Reports</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Library\ESS_Library.vbproj">
+      <Project>{ADFDE9B8-B802-49EB-BA62-047302E9D660}</Project>
+      <Name>ESS_Library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
