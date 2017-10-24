@@ -62,9 +62,8 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="C1.Win.C1FlexGrid, Version=1.1.20023.44, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\C1.Win.C1FlexGrid.dll</HintPath>
+    <Reference Include="C1.Win.C1FlexGrid">
+      <HintPath>..\Mark\bin\C1.Win.C1FlexGrid.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>True</Private>
@@ -81,10 +80,9 @@
     <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>True</Private>
     </Reference>
-    <Reference Include="Interop.Excel, Version=1.3.0.0, Culture=neutral">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Interop.Excel.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Interop.Excel">
+      <HintPath>..\Mark\bin\Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System">
       <Private>True</Private>

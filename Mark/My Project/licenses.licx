@@ -1,6 +1,2 @@
-DevExpress.XtraBars.BarManager, DevExpress.XtraBars.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
-C1.Win.C1PrintPreview.C1PrintPreview, C1.Win.C1PrintPreview, Version=1.0.20023.101, Culture=neutral, PublicKeyToken=3af768410ba0a64f
 DevExpress.Patch.InMemoryPatch, DevExpress.Patch.Common, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7fc7bfca2443de66
 DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
-C1.Win.C1FlexGrid.C1FlexGrid, C1.Win.C1FlexGrid, Version=1.1.20023.44, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9
-C1.Win.C1Report.C1Report, C1.Win.C1Report, Version=1.1.20023.28, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9
