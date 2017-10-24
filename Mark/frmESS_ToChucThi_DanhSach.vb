@@ -2073,4 +2073,34 @@ Public Class frmESS_ToChucThi_DanhSach
             Thongbao(ex.Message)
         End Try
     End Sub
+
+    Private Sub BarButtonItem8_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem8.ItemClick
+        ' 24/10/2017 tht
+        Try
+            Dim dv As DataView = grcViewDanhSachThi.DataSource
+            Dim dt As DataTable = dv.ToTable()
+            If Not dt.Columns.Contains("Ghi_chu") Then dt.Columns.Add("Ghi_chu")
+            For Each row As DataRow In dt.Rows
+                row("Ghi_chu") = IIf(row("Ghi_chu_thi").ToString() <> "", "X", "")
+            Next
+            dv = dt.DefaultView
+            Dim ID_mon As Integer = trvPhongThi.ID_mon
+            Dim dtMonHoc As DataTable = ESS.Machine.UDB.SelectTable("Select * FROM MARK_MonHoc WHERE ID_mon=" & ID_mon)
+            Dim Ten_mon As String = ""
+            Dim Ten_lop As String = ","
+            Dim dt_distintsc As New DataTable()
+            dt_distintsc = dt.DefaultView.ToTable(True, "Ten_lop")
+            For i As Integer = 0 To dt_distintsc.DefaultView.Count - 1
+                Ten_lop = Ten_lop & dt_distintsc.Rows(i)("Ten_lop").ToString & ","
+            Next
+            Ten_lop = Ten_lop.ToString.Substring(1, Ten_lop.Length - 2)
+            If dtMonHoc.Rows.Count > 0 Then
+                Ten_mon = dtMonHoc.Rows(0)("Ten_mon")
+            End If
+            Dim rpt As New rpt_DanhSach_NopBaiThiTN(dt, Ten_mon, Ten_lop)
+            PrintXtraReport(rpt)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
 End Class

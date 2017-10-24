@@ -936,10 +936,34 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7d.Designer.vb">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7d.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7d.vb">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Report\24_10_2017_THINH\rpt_DanhSach_NopBaiThiTN.Designer.vb">
       <DependentUpon>rpt_DanhSach_NopBaiThiTN.vb</DependentUpon>
     </Compile>
     <Compile Include="Report\24_10_2017_THINH\rpt_DanhSach_NopBaiThiTN.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7c.Designer.vb">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7c.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7c.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7a.Designer.vb">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7a.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7a.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7b.Designer.vb">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7b.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7b.vb">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_VanHoa.Designer.vb">
@@ -2072,6 +2096,21 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>PrintRibbonControllerResources.Designer.vb</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7d.resx">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7d.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\24_10_2017_THINH\rpt_DanhSach_NopBaiThiTN.resx">
+      <DependentUpon>rpt_DanhSach_NopBaiThiTN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7c.resx">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7c.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7a.resx">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7a.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\24_10_2017_THINH\rpt_PhieuCham_DiemTN_7b.resx">
+      <DependentUpon>rpt_PhieuCham_DiemTN_7b.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Report\BangDiemTN\rptBangDiemTotNghiep_Sub_Right_VanHoa.resx">
       <DependentUpon>rptBangDiemTotNghiep_Sub_Right_VanHoa.vb</DependentUpon>
