@@ -23,7 +23,7 @@ Public Class frmESS_ToChucThi_DanhSach
     Private clsDiem As New Diem_BLL
     Private mdtDanhSachSinhVien As New DataTable
 #Region "Form Events"
-    Private Sub frmESS_ToChucThiList_Load(ByVal sender As Object, ByVal e As System.EventArgs)
+    Private Sub frmESS_ToChucThiList_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Try
             'SetUpDataGridView(grdViewDanhSachThi)
             Loader = True
@@ -33,7 +33,7 @@ Public Class frmESS_ToChucThi_DanhSach
         End Try
     End Sub
 
-    Private Sub frmESS_ToChucThiList_Paint(ByVal sender As Object, ByVal e As System.Windows.Forms.PaintEventArgs)
+    Private Sub frmESS_ToChucThiList_Paint(ByVal sender As Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Me.Paint
         Dim brush As Brush = New LinearGradientBrush(New Rectangle(0, 0, Width, Height), gBgColor1, gBgColor2, 90.0F)
         e.Graphics.FillRectangle(brush, 0, 0, Width, Height)
     End Sub
@@ -2076,6 +2076,7 @@ Public Class frmESS_ToChucThi_DanhSach
     End Sub
 
     Private Sub BarButtonItem8_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem8.ItemClick
+<<<<<<< HEAD
         Try
             Dim dv As DataView = grdViewDanhSachThi.DataSource
             Dim dt As DataTable = ESS.Machine.UDB.SelectTable("SELECT * FROM MARK_TochucThi WHERE ID_thi = " & trvPhongThi.ID_thi)
@@ -2085,7 +2086,6 @@ Public Class frmESS_ToChucThi_DanhSach
             Else
                 Ngay_thi = ".................................."
             End If
-
             Dim report As New rpt_KetQuaThiKetThucMonHoc(dv, trvPhongThi.Ten_mon, Ngay_thi)
             Dim printTool As New ReportPrintTool(report)
             printTool.ShowPreviewDialog()
@@ -2127,10 +2127,8 @@ Public Class frmESS_ToChucThi_DanhSach
             printTool.ShowPreviewDialog()
         Catch ex As Exception
 
-        End Try
-    End Sub
-
-    Private Sub btnDS_nop_bai_Thi_TN_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles btnDS_nop_bai_Thi_TN.ItemClick
+=======
+        ' 24/10/2017 tht
         Try
             Dim dv As DataView = grcViewDanhSachThi.DataSource
             Dim dt As DataTable = dv.ToTable()
@@ -2152,8 +2150,11 @@ Public Class frmESS_ToChucThi_DanhSach
             If dtMonHoc.Rows.Count > 0 Then
                 Ten_mon = dtMonHoc.Rows(0)("Ten_mon")
             End If
+            Dim rpt As New rpt_DanhSach_NopBaiThiTN(dt, Ten_mon, Ten_lop)
+            PrintXtraReport(rpt)
         Catch ex As Exception
-
+            Thongbao(ex.Message)
+>>>>>>> b9361cee56f4d33877f1192aa98ce575e4fd3b4a
         End Try
     End Sub
 End Class

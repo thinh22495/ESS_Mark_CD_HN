@@ -1391,7 +1391,7 @@ Namespace DBManager
         End Function
 
 
-        Function DanhSachSinhVien_ThiLai(ByVal Hoc_ky, ByVal Nam_hoc, ByVal ID_he, ByVal Khoa_hoc, ByVal ID_chuyen_nganh, ByVal ID_lop)
+        Function DanhSachSinhVien_ThiLai(ByVal Hoc_ky As Integer, ByVal Nam_hoc As String, ByVal ID_he As Integer, ByVal Khoa_hoc As Integer, ByVal ID_chuyen_nganh As Integer, ByVal ID_lop As String)
             Try
                 Dim para(5) As SqlParameter
                 para(0) = New SqlParameter("@Hoc_ky", Hoc_ky)

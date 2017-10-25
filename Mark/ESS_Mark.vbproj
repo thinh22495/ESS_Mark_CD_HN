@@ -32,6 +32,7 @@
     </UpgradeBackupLocation>
     <ApplicationIcon>1332560677_applications-office.ico</ApplicationIcon>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
     <PublishUrl>E:\Cong ty\UNISOFT_Project\UniSoftNew\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -46,7 +47,6 @@
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -242,6 +242,7 @@
     <Reference Include="System">
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
       <Private>True</Private>
@@ -262,6 +263,7 @@
     <Reference Include="System.Management">
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Windows.Forms">
       <Private>True</Private>
     </Reference>
@@ -2611,6 +2613,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="bin\ESSSoftSetup.ini" />
+    <None Include="bin\ESS_Mark.vshost.exe.config" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -2757,22 +2761,26 @@
     <None Include="Resources\RangBuocMonHoc.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\UniSoftSetup.ini" />
     <None Include="Resources\Locked.png" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="1332560677_applications-office.ico" />
+    <Content Include="bin\ADODB.dll" />
     <Content Include="bin\C1.C1PrintDocument.dll" />
     <Content Include="bin\C1.Common.dll" />
     <Content Include="bin\C1.PrintUtil.dll" />
     <Content Include="bin\C1.Win.C1FlexGrid.dll" />
     <Content Include="bin\C1.Win.C1PrintPreview.dll" />
     <Content Include="bin\C1.Win.C1Report.dll" />
+    <Content Include="bin\ESSAutoUpdate.exe" />
+    <Content Include="bin\ESS_Mark.vshost.exe" />
     <Content Include="bin\HttpDownload.dll" />
     <Content Include="bin\Interop.Excel.dll" />
     <Content Include="bin\Interop.Scripting.dll" />
     <Content Include="bin\Janus.Windows.Common.v2.dll" />
     <Content Include="bin\Janus.Windows.UI.v2.dll" />
+    <Content Include="bin\PresentationCore.dll" />
+    <Content Include="bin\System.Printing.dll" />
     <Content Include="mov.ico" />
     <None Include="Resources\Cancel1.png" />
     <Content Include="Resources\ChuongTrinhDaoTao.png" />
@@ -2818,7 +2826,12 @@
       <Name>ESS_Library</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="bin\de\" />
+    <Folder Include="bin\es\" />
+    <Folder Include="bin\ja\" />
+    <Folder Include="bin\ru\" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
