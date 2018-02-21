@@ -54,9 +54,12 @@ Public Class frmESS_TongHopNoChungChi_
         Me.Cursor = Cursors.WaitCursor
         Try
             If Not grdViewChungChiNganh12.DataSource Is Nothing Then
-                Dim clsExcel As New ExportToExcel
-                Dim Tieu_de As String = ""
-                clsExcel.ExportFromDataGridViewToExcel(grdViewChungChiNganh12)
+                'Dim clsExcel As New ExportToExcel
+                'Dim Tieu_de As String = ""
+                'clsExcel.ExportFromDataGridViewToExcel(grdViewChungChiNganh12)
+                Dim dt As DataTable
+                dt = grdViewChungChiNganh12.DataSource
+                ExportToExcel(dt.DefaultView)
             Else
                 Thongbao("Chưa có dữ liệu !")
             End If

@@ -1,0 +1,11 @@
+bin\Debug\ThienAn.UniLibrary.dll
+bin\Debug\ThienAn.UniLibrary.pdb
+bin\Debug\ThienAn.xml
+bin\Debug\C1.Win.C1FlexGrid.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+obj\Debug\ThienAn.UniLibrary.Resources.resources
+obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+obj\Debug\ThienAn.UniLibrary.dll
+obj\Debug\ThienAn.xml
+obj\Debug\ThienAn.UniLibrary.pdb

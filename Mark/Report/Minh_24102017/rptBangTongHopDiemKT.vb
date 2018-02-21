@@ -10,18 +10,29 @@ Public Class rptBangTongHopDiemKT
         Me.Tieu_de_ten_truong.Text = gTieu_de_ten_truong
         Me.lbl_Ten_mon_hoc.Text = Ten_mon_hoc
         Me.lbl_Lop.Text = dvSource.Item(0)("Ten_lop").ToString
-        Me.xTieu_de_diem_tx.Text = "Điểm KT thường xuyên (Hệ số " & dvHeSo1.Item(0)("Ty_le").ToString & ")"
-        Me.xTieu_de_diem_dk.Text = "Điểm KT định kỳ (Hệ số " & dvHeSo2.Item(0)("Ty_le").ToString & ")"
+
+        Me.XrLine1.SizeF = New SizeF(Tieu_de_ten_truong.SizeF.Width / 2, 2)
+        Me.XrLine1.LocationF = New PointF(Tieu_de_ten_truong.SizeF.Width / 4, Tieu_de_ten_truong.LocationF.Y + Tieu_de_ten_truong.SizeF.Height + 1)
+
+        If dvHeSo1.Count > 0 Then
+            DrawReportDataBingHeSo1(dvHeSo1.ToTable, xTable_HeSo1)
+            Me.xTieu_de_diem_tx.Text = "Điểm KT thường xuyên (Hệ số " & dvHeSo1.Item(0)("Ty_le").ToString & ")"
+        End If
+        If dvHeSo2.Count > 0 Then
+            Me.xTieu_de_diem_dk.Text = "Điểm KT định kỳ (Hệ số " & dvHeSo2.Item(0)("Ty_le").ToString & ")"
+            DrawReportDataBingHeSo1(dvHeSo2.ToTable, xTable_HeSo2)
+        End If
+
         'Me.Ten_hoc_phan.Text = Ten_hoc_phan
         'Me.He.Text = He
         'Me.Chuyen_nganh.Text = Chuyen_nganh
         'Me.Ten_lop.Text = Ten_lop
         'Me.Tieu_de_chuc_danh1.Text = gTieu_de_chuc_danh1
         'Me.Tieu_de_nguoi_ky1.Text = gTieu_de_nguoi_ki1
-        Tieu_de_noi_ky.Text = gTieu_de_noi_ki & " Ngày " & DateTime.Now.Day.ToString() & "/" & DateTime.Now.Month.ToString() & "/" & DateTime.Now.Year
+        Tieu_de_noi_ky.Text = gTieu_de_noi_ki & " Ngày " & DateTime.Now.Day.ToString() & " tháng " & DateTime.Now.Month.ToString() & " năm " & DateTime.Now.Year
         ' Add any initialization after the InitializeComponent() call.
-        DrawReportDataBingHeSo1(dvHeSo1.ToTable, xTable_HeSo1)
-        DrawReportDataBingHeSo1(dvHeSo2.ToTable, xTable_HeSo2)
+
+
         Binding()
     End Sub
     Private Sub DrawReportDataBingHeSo1(ByVal dt As DataTable, ByVal Ten_Cot As XRTableCell)
@@ -35,7 +46,7 @@ Public Class rptBangTongHopDiemKT
             For idx As Integer = 0 To dt.Rows.Count - 2
                 Dim cell As New XRTableCell
                 cell.Name = "TP" & dt.Rows(idx)("ID_thanh_phan")
-                rowtable2.InsertCell(cell, rowtable2.Index)
+                rowtable2.InsertCell(cell, Ten_Cot.Index)
                 cell.DataBindings.Add("Text", DataSource, cell.Name)
                 cell.WidthF = w
             Next

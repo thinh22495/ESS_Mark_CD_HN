@@ -262,6 +262,7 @@ Namespace Business
             dtCTDT.Columns.Add("So_hoc_trinh", GetType(Double))
             dtCTDT.Columns.Add("So_ky_hoc", GetType(Integer))
             dtCTDT.Columns.Add("So", GetType(Integer))
+            dtCTDT.Columns.Add("Quy_che", GetType(String))
             For i As Integer = 0 To arrChuongTrinhDaoTao.Count - 1
                 Dim row As DataRow = dtCTDT.NewRow()
                 row("ID_dt") = CType(arrChuongTrinhDaoTao(i), ChuongTrinhDaoTao).ID_dt
@@ -276,6 +277,7 @@ Namespace Business
                 row("So_hoc_trinh") = CType(arrChuongTrinhDaoTao(i), ChuongTrinhDaoTao).So_hoc_trinh
                 row("So_ky_hoc") = CType(arrChuongTrinhDaoTao(i), ChuongTrinhDaoTao).So_ky_hoc
                 row("So") = CType(arrChuongTrinhDaoTao(i), ChuongTrinhDaoTao).So
+                row("Quy_che") = CType(arrChuongTrinhDaoTao(i), ChuongTrinhDaoTao).Quy_che
                 dtCTDT.Rows.Add(row)
             Next
             dtCTDT.AcceptChanges()
@@ -722,6 +724,9 @@ Namespace Business
                 result.Ten_nganh = drChuongTrinhDaoTao("Ten_nganh").ToString()
                 result.Chuyen_nganh = drChuongTrinhDaoTao("Chuyen_nganh").ToString()
                 result.So = drChuongTrinhDaoTao("So")
+                If drChuongTrinhDaoTao.Table.Columns.Contains("Quy_che") Then
+                    result.Quy_che = drChuongTrinhDaoTao("Quy_che")
+                End If
             Catch ex As Exception
                 Throw ex
             End Try

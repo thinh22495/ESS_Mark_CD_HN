@@ -261,7 +261,7 @@ Public Class ExportToExcel
             Throw ex
         End Try
     End Sub
-    Public Sub ExportFromDataGridViewToExcel(ByVal grdVieew As DataGridView, Optional ByVal titles As ArrayList = Nothing, _
+    Public Sub ExportFromDataGridViewToExcel_V1(ByVal grdVieew As DataGridView, Optional ByVal titles As ArrayList = Nothing, _
         Optional ByVal start_row As Integer = 1, Optional ByVal start_col As Integer = 1, _
         Optional ByVal font_name As String = "Arial", Optional ByVal font_size As Integer = 10)
 

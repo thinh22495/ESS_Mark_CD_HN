@@ -1,0 +1,259 @@
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\UnisoftDatabase\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\UnisoftDatabase\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\UnisoftDatabase\bin\Union.Machine.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\UnisoftDatabase\obj\Debug\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\UnisoftDatabase\obj\Debug\Union.Machine.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\UnisoftDatabase\obj\Debug\ESS.Machine.pdb
+E:\Project\Company\Working\ESS_NC\UnisoftDatabase\bin\ESS.Machine.dll
+E:\Project\Company\Working\ESS_NC\UnisoftDatabase\bin\ESS.Machine.pdb
+E:\Project\Company\Working\ESS_NC\UnisoftDatabase\bin\Union.Machine.xml
+E:\Project\Company\Working\ESS_NC\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_NC\UnisoftDatabase\obj\Debug\ESS.Machine.dll
+E:\Project\Company\Working\ESS_NC\UnisoftDatabase\obj\Debug\Union.Machine.xml
+E:\Project\Company\Working\ESS_NC\UnisoftDatabase\obj\Debug\ESS.Machine.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\UnisoftDatabase\bin\ESS.Machine.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\UnisoftDatabase\bin\ESS.Machine.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\UnisoftDatabase\bin\Union.Machine.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\UnisoftDatabase\obj\Debug\ESS.Machine.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\UnisoftDatabase\obj\Debug\Union.Machine.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\UnisoftDatabase\obj\Debug\ESS.Machine.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\bin\ESS.Machine.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\bin\ESS.Machine.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\bin\Union.Machine.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\ESS.Machine.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\Union.Machine.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\ESS.Machine.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\bin\ESS.Machine.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\bin\ESS.Machine.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\ESS.Machine.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Connect\obj\Debug\ESS.Machine.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\bin\ESS.Machine.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\bin\ESS.Machine.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\bin\Union.Machine.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\ESS.Machine.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\Union.Machine.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\ESS.Machine.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\bin\ESS.Machine.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\bin\Union.Machine.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\ESS.Machine.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Connect\obj\Debug\ESS.Machine.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Connect\bin\ESS.Machine.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Connect\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Connect\bin\Union.Machine.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Connect\obj\Debug\ESS.Machine.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Connect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Connect\obj\Debug\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Connect\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Connect\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Connect\bin\Union.Machine.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Connect\obj\Debug\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Connect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Connect\obj\Debug\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\bin\ESS.Machine.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\bin\ESS.Machine.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\bin\Union.Machine.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Connect\bin\ESS.Machine.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Connect\bin\ESS.Machine.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Connect\bin\Union.Machine.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\bin\ESS.Machine.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\bin\ESS.Machine.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\bin\Union.Machine.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\bin\ESS.Machine.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\bin\ESS.Machine.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\bin\Union.Machine.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Connect\bin\ESS.Machine.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Connect\bin\ESS.Machine.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Connect\bin\Union.Machine.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\bin\ESS.Machine.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\bin\ESS.Machine.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\bin\Union.Machine.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\bin\ESS.Machine.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\bin\ESS.Machine.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\bin\Union.Machine.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\ResolveAssemblyReference.cache
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\ESS.Machine.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\ESS.Machine.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\Union.Machine.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\System.Data.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\System.Data.OracleClient.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\System.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\System.Drawing.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\System.Windows.Forms.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\bin\System.Xml.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\ESS.Machine.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\ESS.Machine.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\Union.Machine.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\System.Data.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\System.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\System.Drawing.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\bin\System.Xml.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\obj\Debug\ESS.Machine.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\obj\Debug\Union.Machine.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Connect\obj\Debug\ESS.Machine.pdb
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\ESS.Machine.dll
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\ESS.Machine.pdb
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\Union.Machine.xml
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\System.Data.dll
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\System.dll
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\System.Drawing.dll
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CND_NLDB\Connect\bin\System.Xml.dll
+D:\Project\ESS_Mark_CND_NLDB\Connect\obj\Debug\ESS.Machine.dll
+D:\Project\ESS_Mark_CND_NLDB\Connect\obj\Debug\Union.Machine.xml
+D:\Project\ESS_Mark_CND_NLDB\Connect\obj\Debug\ESS.Machine.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\ESS.Machine.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\ESS.Machine.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\Union.Machine.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\System.Data.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\System.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\System.Drawing.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\System.Windows.Forms.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\bin\System.Xml.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\obj\Debug\ESS.Machine.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\obj\Debug\Union.Machine.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Connect\obj\Debug\ESS.Machine.pdb
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\ESS.Machine.dll
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\ESS.Machine.pdb
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\Union.Machine.xml
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\System.Data.dll
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\System.dll
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\System.Drawing.dll
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CDN_HN\Connect\bin\System.Xml.dll
+D:\Project\ESS_Mark_CDN_HN\Connect\obj\Debug\ESS_.Machine.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_CDN_HN\Connect\obj\Debug\ESS.Machine.dll
+D:\Project\ESS_Mark_CDN_HN\Connect\obj\Debug\Union.Machine.xml
+D:\Project\ESS_Mark_CDN_HN\Connect\obj\Debug\ESS.Machine.pdb
+D:\Project\ESS_Mark_CDN_HN\Connect\obj\Debug\ESS_.Machine.vbproj.CoreCompileInputs.cache
+D:\ESS_Mark_CD_HN\Connect\bin\ESS.Machine.dll
+D:\ESS_Mark_CD_HN\Connect\bin\ESS.Machine.pdb
+D:\ESS_Mark_CD_HN\Connect\bin\Union.Machine.xml
+D:\ESS_Mark_CD_HN\Connect\bin\System.Data.dll
+D:\ESS_Mark_CD_HN\Connect\bin\System.dll
+D:\ESS_Mark_CD_HN\Connect\bin\System.Drawing.dll
+D:\ESS_Mark_CD_HN\Connect\bin\System.Windows.Forms.dll
+D:\ESS_Mark_CD_HN\Connect\bin\System.Xml.dll
+D:\ESS_Mark_CD_HN\Connect\obj\Debug\ESS_.Machine.vbprojResolveAssemblyReference.cache
+D:\ESS_Mark_CD_HN\Connect\obj\Debug\ESS.Machine.dll
+D:\ESS_Mark_CD_HN\Connect\obj\Debug\Union.Machine.xml
+D:\ESS_Mark_CD_HN\Connect\obj\Debug\ESS.Machine.pdb

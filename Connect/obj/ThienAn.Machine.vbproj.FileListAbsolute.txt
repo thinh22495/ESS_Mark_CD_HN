@@ -1,0 +1,63 @@
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UnisoftDatabase\bin\ThienAn.Machine.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UnisoftDatabase\bin\ThienAn.Machine.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UnisoftDatabase\bin\Union.Machine.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UnisoftDatabase\obj\Debug\Union.Machine.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UnisoftDatabase\bin\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UnisoftDatabase\bin\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UnisoftDatabase\bin\Union.Machine.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UnisoftDatabase\obj\Debug\Union.Machine.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UnisoftDatabase\bin\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UnisoftDatabase\bin\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UnisoftDatabase\bin\Union.Machine.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UnisoftDatabase\obj\Debug\Union.Machine.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UnisoftDatabase\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UnisoftDatabase\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UnisoftDatabase\bin\Union.Machine.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UnisoftDatabase\obj\Debug\Union.Machine.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\bin\Union.Machine.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\Union.Machine.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\bin\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\bin\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\bin\Union.Machine.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\Union.Machine.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UnisoftDatabase\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UnisoftDatabase\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UnisoftDatabase\bin\Union.Machine.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\Union.Machine.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UnisoftDatabase\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UnisoftDatabase\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UnisoftDatabase\bin\Union.Machine.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UnisoftDatabase\obj\Debug\Union.Machine.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UnisoftDatabase\bin\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UnisoftDatabase\bin\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UnisoftDatabase\bin\Union.Machine.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UnisoftDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UnisoftDatabase\obj\Debug\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UnisoftDatabase\obj\Debug\Union.Machine.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UnisoftDatabase\obj\Debug\ThienAn.Machine.pdb

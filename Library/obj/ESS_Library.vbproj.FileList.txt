@@ -1,0 +1,11 @@
+bin\Debug\C1.Win.C1FlexGrid.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+bin\Debug\ESS.xml
+obj\Debug\ESS.xml
+bin\Debug\ESS.Library.dll
+bin\Debug\ESS.Library.pdb
+obj\Debug\ESS.Library.frmTrangThai.resources
+obj\Debug\ESS.Library.Resources.resources
+obj\Debug\ESS.Library.dll
+obj\Debug\ESS.Library.pdb

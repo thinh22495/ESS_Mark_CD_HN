@@ -1,0 +1,638 @@
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.DAL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.Machine.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\Interop.Excel.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\BLL\obj\Debug\ESS.BLL.pdb
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.BLL.dll
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.BLL.pdb
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.xml
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.DAL.dll
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.Library.dll
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.Machine.dll
+E:\Project\Company\Working\ESS_NC\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Working\ESS_NC\BLL\bin\Interop.Excel.dll
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.Library.pdb
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.Machine.pdb
+E:\Project\Company\Working\ESS_NC\BLL\bin\ESS.DAL.pdb
+E:\Project\Company\Working\ESS_NC\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_NC\BLL\obj\Debug\ESS.BLL.dll
+E:\Project\Company\Working\ESS_NC\BLL\obj\Debug\ESS.xml
+E:\Project\Company\Working\ESS_NC\BLL\obj\Debug\ESS.BLL.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.BLL.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.BLL.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.DAL.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.Library.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.Machine.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\Interop.Excel.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.Library.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.Machine.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\bin\ESS.DAL.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ESS.BLL.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ESS.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ESS.BLL.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ESS.BLL.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\BLL\obj\Debug\ESS.BLL.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.BLL.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.BLL.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.DAL.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Library.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Machine.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\Interop.Excel.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Machine.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Library.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.DAL.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ESS.BLL.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ESS.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ESS.BLL.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.BLL.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.BLL.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.DAL.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Library.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Machine.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\Interop.Excel.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.Library.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\bin\ESS.DAL.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ESS.BLL.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ESS.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\BLL\obj\Debug\ESS.BLL.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.BLL.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.BLL.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.DAL.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.Library.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.Machine.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\Interop.Excel.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.Library.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\bin\ESS.DAL.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\obj\Debug\ESS.BLL.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\obj\Debug\ESS.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\BLL\obj\Debug\ESS.BLL.pdb
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.BLL.dll
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.BLL.pdb
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.xml
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.DAL.dll
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.Library.dll
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.Machine.dll
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\Interop.Excel.dll
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\C1.Win.C1FlexGrid.dll
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.Machine.pdb
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.Library.pdb
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\bin\ESS.DAL.pdb
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\obj\Debug\ESS.BLL.dll
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\obj\Debug\ESS.xml
+C:\Users\Administrator\Desktop\ESS_NienChe\BLL\obj\Debug\ESS.BLL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.BLL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.BLL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.DAL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\Interop.Excel.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\bin\ESS.DAL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\obj\Debug\ESS.BLL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\BLL\obj\Debug\ESS.BLL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\C1.Win.C1Report.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\C1.Win.C1Report.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\ESS_Mark\BLL\bin\ESS.xml
+D:\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.BLL.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.BLL.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.DAL.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Library.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Machine.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\Interop.Excel.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Machine.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.Library.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\bin\ESS.DAL.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ESS.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.BLL.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.BLL.pdb
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.xml
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.DAL.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.Library.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.Machine.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\Interop.Excel.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.Machine.pdb
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.Library.pdb
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\bin\ESS.DAL.pdb
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\obj\Debug\ESS.xml
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.BLL.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.BLL.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.DAL.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.Library.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.Machine.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\Interop.Excel.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.Machine.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.Library.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\bin\ESS.DAL.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\obj\Debug\ESS.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.BLL.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.BLL.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.DAL.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Library.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Machine.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\Interop.Excel.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Machine.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Library.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.DAL.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.BLL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.BLL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.DAL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Library.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Machine.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\Interop.Excel.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Machine.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Library.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.DAL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.BLL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.BLL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.DAL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Library.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Machine.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\Interop.Excel.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Machine.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.Library.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\bin\ESS.DAL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_QN\ESS_Mark_QN\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.BLL.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.BLL.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.DAL.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.Library.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.Machine.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\Interop.Excel.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.Machine.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.Library.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\bin\ESS.DAL.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\obj\Debug\ESS.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.BLL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.BLL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.DAL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Library.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Machine.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\Interop.Excel.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Machine.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Library.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.DAL.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.BLL.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.BLL.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.DAL.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Library.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Machine.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\Interop.Excel.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Machine.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.Library.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\bin\ESS.DAL.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ESS.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.BLL.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.BLL.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.DAL.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.Entity.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.Library.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\System.Data.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\System.DirectoryServices.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\System.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\System.Drawing.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\System.Windows.Forms.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\System.Xml.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.Machine.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\Interop.Excel.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.DAL.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.Entity.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.Library.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\bin\ESS.Machine.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\obj\Debug\ESS.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.BLL.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.BLL.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.DAL.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.Entity.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.Library.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\System.Data.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\System.DirectoryServices.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\System.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\System.Drawing.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\System.Xml.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.Machine.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\Interop.Excel.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.DAL.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.Entity.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.Library.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\bin\ESS.Machine.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\obj\Debug\ESS.BLL.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\BLL\obj\Debug\ESS.BLL.pdb
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.BLL.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.BLL.pdb
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.xml
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\C1.Win.C1Report.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.DAL.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.Entity.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.Library.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\System.Data.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\System.DirectoryServices.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\System.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\System.Drawing.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\System.Xml.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.Machine.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.DAL.pdb
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.Entity.pdb
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.Library.pdb
+D:\Project\ESS_Mark_CND_NLDB\BLL\bin\ESS.Machine.pdb
+D:\Project\ESS_Mark_CND_NLDB\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_CND_NLDB\BLL\obj\Debug\ESS.BLL.dll
+D:\Project\ESS_Mark_CND_NLDB\BLL\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_CND_NLDB\BLL\obj\Debug\ESS.BLL.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.BLL.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.BLL.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\C1.Win.C1Report.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.DAL.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.Entity.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.Library.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\System.Data.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\System.DirectoryServices.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\System.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\System.Drawing.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\System.Windows.Forms.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\System.Xml.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.Machine.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\C1.Win.C1FlexGrid.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.DAL.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.Entity.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.Library.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\bin\ESS.Machine.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\obj\Debug\ESS.BLL.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\obj\Debug\ESS.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\BLL\obj\Debug\ESS.BLL.pdb
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.BLL.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.BLL.pdb
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\C1.Win.C1Report.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.DAL.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.Entity.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.Library.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\System.Data.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\System.DirectoryServices.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\System.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\System.Drawing.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\System.Xml.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.Machine.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.DAL.pdb
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.Entity.pdb
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.Library.pdb
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.Machine.pdb
+D:\Project\ESS_Mark_CDN_HN\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_CDN_HN\BLL\obj\Debug\ESS.BLL.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\obj\Debug\ESS.BLL.pdb
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraGrid.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Utils.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Data.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraEditors.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraPrinting.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraLayout.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Printing.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Sparkline.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.RichEdit.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraBars.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraTreeList.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Office.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ESS.DAL.dll.config
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraGrid.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Utils.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Data.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraEditors.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraPrinting.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraLayout.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Printing.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Sparkline.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.RichEdit.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraBars.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.XtraTreeList.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\DevExpress.Office.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\bin\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.BLL.dll
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.BLL.pdb
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.xml
+D:\ESS_Mark_CD_HN\BLL\bin\C1.Win.C1Report.dll
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.DAL.dll
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.Entity.dll
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.Library.dll
+D:\ESS_Mark_CD_HN\BLL\bin\System.Data.dll
+D:\ESS_Mark_CD_HN\BLL\bin\System.DirectoryServices.dll
+D:\ESS_Mark_CD_HN\BLL\bin\System.dll
+D:\ESS_Mark_CD_HN\BLL\bin\System.Drawing.dll
+D:\ESS_Mark_CD_HN\BLL\bin\System.Windows.Forms.dll
+D:\ESS_Mark_CD_HN\BLL\bin\System.Xml.dll
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.Machine.dll
+D:\ESS_Mark_CD_HN\BLL\bin\C1.Win.C1FlexGrid.dll
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.DAL.pdb
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.Entity.pdb
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.Library.pdb
+D:\ESS_Mark_CD_HN\BLL\bin\ESS.Machine.pdb
+D:\ESS_Mark_CD_HN\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\ESS_Mark_CD_HN\BLL\obj\Debug\ESS.BLL.dll
+D:\ESS_Mark_CD_HN\BLL\obj\Debug\ESS.xml
+D:\ESS_Mark_CD_HN\BLL\obj\Debug\ESS.BLL.pdb

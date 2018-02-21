@@ -19,41 +19,41 @@ Partial Class frmTongHopSinhVienHocLai1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Me.cmbNam_hoc = New System.Windows.Forms.ComboBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.lblLan_cap = New System.Windows.Forms.Label
-        Me.C1Report1 = New C1.Win.C1Report.C1Report
-        Me.cmbHoc_ky = New System.Windows.Forms.ComboBox
-        Me.ToolStrip = New System.Windows.Forms.ToolStrip
-        Me.cmdTongHop = New System.Windows.Forms.ToolStripButton
-        Me.cmdPrint = New System.Windows.Forms.ToolStripDropDownButton
-        Me.cmdPrint_Mon = New System.Windows.Forms.ToolStripMenuItem
-        Me.cmdPrint_Chitiet = New System.Windows.Forms.ToolStripMenuItem
-        Me.cmbExcel = New System.Windows.Forms.ToolStripDropDownButton
-        Me.cmdExcel_Mon = New System.Windows.Forms.ToolStripMenuItem
-        Me.cmdExcel_Chitiet = New System.Windows.Forms.ToolStripMenuItem
-        Me.cmdClose = New System.Windows.Forms.ToolStripButton
-        Me.grdViewDanhSachMon = New System.Windows.Forms.DataGridView
-        Me.Ky_hieu = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.Ten_mon = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.So_hoc_trinh = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.So_sv = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.grdViewDanhsachChitiet = New System.Windows.Forms.DataGridView
-        Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.cmbHienThi = New System.Windows.Forms.ComboBox
-        Me.TreeViewLop_NEW1 = New ESS_Mark.TreeViewLop_NEW
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Me.cmbNam_hoc = New System.Windows.Forms.ComboBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.lblLan_cap = New System.Windows.Forms.Label()
+        Me.C1Report1 = New C1.Win.C1Report.C1Report()
+        Me.cmbHoc_ky = New System.Windows.Forms.ComboBox()
+        Me.ToolStrip = New System.Windows.Forms.ToolStrip()
+        Me.cmdTongHop = New System.Windows.Forms.ToolStripButton()
+        Me.cmdPrint = New System.Windows.Forms.ToolStripDropDownButton()
+        Me.cmdPrint_Mon = New System.Windows.Forms.ToolStripMenuItem()
+        Me.cmdPrint_Chitiet = New System.Windows.Forms.ToolStripMenuItem()
+        Me.cmbExcel = New System.Windows.Forms.ToolStripDropDownButton()
+        Me.cmdExcel_Mon = New System.Windows.Forms.ToolStripMenuItem()
+        Me.cmdExcel_Chitiet = New System.Windows.Forms.ToolStripMenuItem()
+        Me.cmdClose = New System.Windows.Forms.ToolStripButton()
+        Me.grdViewDanhSachMon = New System.Windows.Forms.DataGridView()
+        Me.Ky_hieu = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Ten_mon = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.So_hoc_trinh = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.So_sv = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.grdViewDanhsachChitiet = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.cmbHienThi = New System.Windows.Forms.ComboBox()
+        Me.TreeViewLop_NEW1 = New ESS_Mark.TreeViewLop_NEW()
         CType(Me.C1Report1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.ToolStrip.SuspendLayout()
         CType(Me.grdViewDanhSachMon, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -179,7 +179,7 @@ Partial Class frmTongHopSinhVienHocLai1
         Me.grdViewDanhSachMon.AllowUserToAddRows = False
         Me.grdViewDanhSachMon.AllowUserToDeleteRows = False
         Me.grdViewDanhSachMon.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdViewDanhSachMon.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells
         Me.grdViewDanhSachMon.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.grdViewDanhSachMon.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
@@ -239,8 +239,8 @@ Partial Class frmTongHopSinhVienHocLai1
         Me.grdViewDanhsachChitiet.AllowUserToAddRows = False
         Me.grdViewDanhsachChitiet.AllowUserToDeleteRows = False
         Me.grdViewDanhsachChitiet.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdViewDanhsachChitiet.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells
         Me.grdViewDanhsachChitiet.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.grdViewDanhsachChitiet.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
@@ -323,7 +323,7 @@ Partial Class frmTongHopSinhVienHocLai1
         'TreeViewLop_NEW1
         '
         Me.TreeViewLop_NEW1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.TreeViewLop_NEW1.dtLop = Nothing
         Me.TreeViewLop_NEW1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TreeViewLop_NEW1.Location = New System.Drawing.Point(-2, 24)
@@ -332,7 +332,7 @@ Partial Class frmTongHopSinhVienHocLai1
         Me.TreeViewLop_NEW1.Size = New System.Drawing.Size(267, 538)
         Me.TreeViewLop_NEW1.TabIndex = 121
         '
-        'frmTongHopSinhVienHocLai
+        'frmTongHopSinhVienHocLai1
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit
         Me.ClientSize = New System.Drawing.Size(792, 566)
@@ -349,7 +349,7 @@ Partial Class frmTongHopSinhVienHocLai1
         Me.Font = New System.Drawing.Font("Arial", 10.0!)
         Me.KeyPreview = True
         Me.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
-        Me.Name = "frmTongHopSinhVienHocLai"
+        Me.Name = "frmTongHopSinhVienHocLai1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "frmTongHopSinhVienThiLai"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized

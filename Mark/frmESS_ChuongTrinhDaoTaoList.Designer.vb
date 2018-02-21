@@ -19,86 +19,95 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Me.components = New System.ComponentModel.Container()
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim GridLevelNode1 As DevExpress.XtraGrid.GridLevelNode = New DevExpress.XtraGrid.GridLevelNode()
+        Dim SerializableAppearanceObject1 As DevExpress.Utils.SerializableAppearanceObject = New DevExpress.Utils.SerializableAppearanceObject()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmESS_ChuongTrinhDaoTaoList))
-        Me.txtTong_so_mon = New System.Windows.Forms.Label
-        Me.DataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.DataGridViewTextBoxColumn6 = New System.Windows.Forms.DataGridViewTextBoxColumn
-        Me.PanelCTDT = New DevExpress.XtraEditors.PanelControl
-        Me.grcCTDT = New DevExpress.XtraGrid.GridControl
-        Me.grvChuongTrinhDaoTaoList = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.colTen_he = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTen_khoa = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colKhoa_hoc = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colChuyen_nganh = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colSoTinChi = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colSo_ky_hoc = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colSo = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.PanelCTDTChiTiet = New DevExpress.XtraEditors.PanelControl
-        Me.grcCTDTChiTiet = New DevExpress.XtraGrid.GridControl
-        Me.grvCTDTChiTiet = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.colSTT_mon = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colKien_thuc = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.lueKhoiKienThuc = New DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit
-        Me.colKy_hieu = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTen_mon = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colKy_thu = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colSo_hoc_trinh = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colLy_thuyet = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colThuc_hanh = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTong_so_tiet = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTu_chon = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colNhom_tu_chon = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colKhong_tinh_TBCHT = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colMon_tot_nghiep = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colID_mon_main = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.lueID_mon_main = New DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit
-        Me.colLy_thuyet_nghe = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colThuc_hanh_nghe = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colBai_tap = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTu_hoc = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.SpinEdit1 = New DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit
-        Me.SpinEdit2 = New DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit
+        Me.txtTong_so_mon = New System.Windows.Forms.Label()
+        Me.DataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn5 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn6 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.PanelCTDT = New DevExpress.XtraEditors.PanelControl()
+        Me.grcCTDT = New DevExpress.XtraGrid.GridControl()
+        Me.grvChuongTrinhDaoTaoList = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.colTen_he = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTen_khoa = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colKhoa_hoc = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colChuyen_nganh = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colSoTinChi = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colSo_ky_hoc = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colSo = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn1 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.RepositoryItemLookUpEdit1 = New DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit()
+        Me.btn_Cap_nhat_Quy_che = New DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit()
+        Me.cmb_Quy_che_ap_dung = New DevExpress.XtraEditors.Repository.RepositoryItemComboBox()
+        Me.PanelCTDTChiTiet = New DevExpress.XtraEditors.PanelControl()
+        Me.grcCTDTChiTiet = New DevExpress.XtraGrid.GridControl()
+        Me.grvCTDTChiTiet = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.colSTT_mon = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colKien_thuc = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.lueKhoiKienThuc = New DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit()
+        Me.colKy_hieu = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTen_mon = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colKy_thu = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colSo_hoc_trinh = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colLy_thuyet = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colThuc_hanh = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTong_so_tiet = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTu_chon = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colNhom_tu_chon = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colKhong_tinh_TBCHT = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colMon_tot_nghiep = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colID_mon_main = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.lueID_mon_main = New DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit()
+        Me.colLy_thuyet_nghe = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colThuc_hanh_nghe = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colBai_tap = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTu_hoc = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.SpinEdit1 = New DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit()
+        Me.SpinEdit2 = New DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit()
         Me.ImgMain = New DevExpress.Utils.ImageCollection(Me.components)
         Me.PopupMenu1 = New DevExpress.XtraBars.PopupMenu(Me.components)
-        Me.cmdPrint_TheoKy = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdPrint_TheoKhoiKT = New DevExpress.XtraBars.BarButtonItem
+        Me.cmdPrint_TheoKy = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdPrint_TheoKhoiKT = New DevExpress.XtraBars.BarButtonItem()
         Me.BarManager1 = New DevExpress.XtraBars.BarManager(Me.components)
-        Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl3 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl4 = New DevExpress.XtraBars.BarDockControl
-        Me.cmdAdd_HP = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdRemove_HP = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdAdd_CT = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdDelete_CT = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdCopy = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdImport = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdUpdate_Diem = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdClose = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdRangBuoc = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdPrintList = New DevExpress.XtraEditors.DropDownButton
-        Me.cmdNhomTuChon = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdGanLop = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdLuu = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdHocPhan = New DevExpress.XtraEditors.DropDownButton
+        Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl3 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl4 = New DevExpress.XtraBars.BarDockControl()
+        Me.cmdAdd_HP = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdRemove_HP = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdAdd_CT = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdDelete_CT = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdCopy = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdImport = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdUpdate_Diem = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdClose = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdRangBuoc = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdPrintList = New DevExpress.XtraEditors.DropDownButton()
+        Me.cmdNhomTuChon = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdGanLop = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdLuu = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdHocPhan = New DevExpress.XtraEditors.DropDownButton()
         Me.PopupMenu2 = New DevExpress.XtraBars.PopupMenu(Me.components)
-        Me.cmdCTDT = New DevExpress.XtraEditors.DropDownButton
+        Me.cmdCTDT = New DevExpress.XtraEditors.DropDownButton()
         Me.PopupMenu3 = New DevExpress.XtraBars.PopupMenu(Me.components)
-        Me.optTinh_DVHT = New System.Windows.Forms.CheckBox
-        Me.cmdChungChi = New DevExpress.XtraEditors.SimpleButton
+        Me.optTinh_DVHT = New System.Windows.Forms.CheckBox()
+        Me.cmdChungChi = New DevExpress.XtraEditors.SimpleButton()
         CType(Me.PanelCTDT, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.PanelCTDT.SuspendLayout()
         CType(Me.grcCTDT, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.grvChuongTrinhDaoTaoList, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.RepositoryItemLookUpEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.btn_Cap_nhat_Quy_che, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.cmb_Quy_che_ap_dung, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PanelCTDTChiTiet, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.PanelCTDTChiTiet.SuspendLayout()
         CType(Me.grcCTDTChiTiet, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -189,7 +198,7 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
         'PanelCTDT
         '
         Me.PanelCTDT.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.PanelCTDT.Controls.Add(Me.grcCTDT)
         Me.PanelCTDT.Location = New System.Drawing.Point(0, 0)
         Me.PanelCTDT.Name = "PanelCTDT"
@@ -199,16 +208,19 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
         'grcCTDT
         '
         Me.grcCTDT.Dock = System.Windows.Forms.DockStyle.Fill
+        GridLevelNode1.RelationName = "Level1"
+        Me.grcCTDT.LevelTree.Nodes.AddRange(New DevExpress.XtraGrid.GridLevelNode() {GridLevelNode1})
         Me.grcCTDT.Location = New System.Drawing.Point(2, 2)
         Me.grcCTDT.MainView = Me.grvChuongTrinhDaoTaoList
         Me.grcCTDT.Name = "grcCTDT"
+        Me.grcCTDT.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.cmb_Quy_che_ap_dung, Me.RepositoryItemLookUpEdit1, Me.btn_Cap_nhat_Quy_che})
         Me.grcCTDT.Size = New System.Drawing.Size(1191, 198)
         Me.grcCTDT.TabIndex = 0
         Me.grcCTDT.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.grvChuongTrinhDaoTaoList})
         '
         'grvChuongTrinhDaoTaoList
         '
-        Me.grvChuongTrinhDaoTaoList.Columns.AddRange(New DevExpress.XtraGrid.Columns.GridColumn() {Me.colTen_he, Me.colTen_khoa, Me.colKhoa_hoc, Me.colChuyen_nganh, Me.colSoTinChi, Me.colSo_ky_hoc, Me.colSo})
+        Me.grvChuongTrinhDaoTaoList.Columns.AddRange(New DevExpress.XtraGrid.Columns.GridColumn() {Me.colTen_he, Me.colTen_khoa, Me.colKhoa_hoc, Me.colChuyen_nganh, Me.colSoTinChi, Me.colSo_ky_hoc, Me.colSo, Me.GridColumn1})
         Me.grvChuongTrinhDaoTaoList.GridControl = Me.grcCTDT
         Me.grvChuongTrinhDaoTaoList.GroupCount = 1
         Me.grvChuongTrinhDaoTaoList.Name = "grvChuongTrinhDaoTaoList"
@@ -285,11 +297,40 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
         Me.colSo.Visible = True
         Me.colSo.VisibleIndex = 5
         '
+        'GridColumn1
+        '
+        Me.GridColumn1.Caption = "Quy chế áp dụng"
+        Me.GridColumn1.ColumnEdit = Me.RepositoryItemLookUpEdit1
+        Me.GridColumn1.FieldName = "Quy_che"
+        Me.GridColumn1.Name = "GridColumn1"
+        Me.GridColumn1.Visible = True
+        Me.GridColumn1.VisibleIndex = 6
+        '
+        'RepositoryItemLookUpEdit1
+        '
+        Me.RepositoryItemLookUpEdit1.AutoHeight = False
+        Me.RepositoryItemLookUpEdit1.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)})
+        Me.RepositoryItemLookUpEdit1.Name = "RepositoryItemLookUpEdit1"
+        Me.RepositoryItemLookUpEdit1.NullText = ""
+        '
+        'btn_Cap_nhat_Quy_che
+        '
+        Me.btn_Cap_nhat_Quy_che.AutoHeight = False
+        Me.btn_Cap_nhat_Quy_che.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Plus, "", -1, True, True, False, DevExpress.XtraEditors.ImageLocation.MiddleCenter, Global.ESS_Mark.My.Resources.Resources.Save, New DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), SerializableAppearanceObject1, "", Nothing, Nothing, True)})
+        Me.btn_Cap_nhat_Quy_che.Name = "btn_Cap_nhat_Quy_che"
+        Me.btn_Cap_nhat_Quy_che.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.HideTextEditor
+        '
+        'cmb_Quy_che_ap_dung
+        '
+        Me.cmb_Quy_che_ap_dung.AutoHeight = False
+        Me.cmb_Quy_che_ap_dung.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)})
+        Me.cmb_Quy_che_ap_dung.Name = "cmb_Quy_che_ap_dung"
+        '
         'PanelCTDTChiTiet
         '
         Me.PanelCTDTChiTiet.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.PanelCTDTChiTiet.Controls.Add(Me.grcCTDTChiTiet)
         Me.PanelCTDTChiTiet.Location = New System.Drawing.Point(0, 242)
         Me.PanelCTDTChiTiet.Name = "PanelCTDTChiTiet"
@@ -504,13 +545,13 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
         'SpinEdit1
         '
         Me.SpinEdit1.AutoHeight = False
-        Me.SpinEdit1.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton})
+        Me.SpinEdit1.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton()})
         Me.SpinEdit1.Name = "SpinEdit1"
         '
         'SpinEdit2
         '
         Me.SpinEdit2.AutoHeight = False
-        Me.SpinEdit2.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton})
+        Me.SpinEdit2.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton()})
         Me.SpinEdit2.Name = "SpinEdit2"
         '
         'ImgMain
@@ -574,24 +615,28 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
         '
         'BarDockControl1
         '
+        Me.BarDockControl1.CausesValidation = False
         Me.BarDockControl1.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl1.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl1.Size = New System.Drawing.Size(1195, 0)
         '
         'BarDockControl2
         '
+        Me.BarDockControl2.CausesValidation = False
         Me.BarDockControl2.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl2.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl2.Size = New System.Drawing.Size(1195, 0)
         '
         'BarDockControl3
         '
+        Me.BarDockControl3.CausesValidation = False
         Me.BarDockControl3.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl3.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl3.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl4
         '
+        Me.BarDockControl4.CausesValidation = False
         Me.BarDockControl4.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl4.Location = New System.Drawing.Point(1195, 0)
         Me.BarDockControl4.Size = New System.Drawing.Size(0, 566)
@@ -822,6 +867,9 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
         Me.PanelCTDT.ResumeLayout(False)
         CType(Me.grcCTDT, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.grvChuongTrinhDaoTaoList, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.RepositoryItemLookUpEdit1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.btn_Cap_nhat_Quy_che, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.cmb_Quy_che_ap_dung, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PanelCTDTChiTiet, System.ComponentModel.ISupportInitialize).EndInit()
         Me.PanelCTDTChiTiet.ResumeLayout(False)
         CType(Me.grcCTDTChiTiet, System.ComponentModel.ISupportInitialize).EndInit()
@@ -910,4 +958,8 @@ Partial Class frmESS_ChuongTrinhDaoTaoList
     Friend WithEvents BarButtonItem1 As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents colBai_tap As DevExpress.XtraGrid.Columns.GridColumn
     Friend WithEvents colTu_hoc As DevExpress.XtraGrid.Columns.GridColumn
+    Friend WithEvents GridColumn1 As DevExpress.XtraGrid.Columns.GridColumn
+    Friend WithEvents cmb_Quy_che_ap_dung As DevExpress.XtraEditors.Repository.RepositoryItemComboBox
+    Friend WithEvents RepositoryItemLookUpEdit1 As DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit
+    Friend WithEvents btn_Cap_nhat_Quy_che As DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit
 End Class

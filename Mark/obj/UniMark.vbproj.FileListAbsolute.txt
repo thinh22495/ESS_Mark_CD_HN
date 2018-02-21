@@ -1,0 +1,732 @@
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChangePassword.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChonMonHocChungChi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmDongTuiThi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmKhoaDiemHocPhanDotThi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiTheoPhong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiLopHC.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuyenDiemNganh1SangNganh2.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmDanhSachSinhVienNganh2.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmDiemNganh1View.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmKiemTraDuLieuSai_CSDL.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmMonHoc.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmMonHocList.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemExcel.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemExcel_Sub.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemSoPhach.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoGanLop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoAdd.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonChon.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemThiPhong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoRangBuocMonHoc.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmKhoaDuLieuDiemThanhPhanLop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmDoiChieuDuLieuDiem.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmLayDuLieuDiem.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmLogin.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmMain.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemThiSBD.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemTuiThi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNoKhacKhiXetTotNghiep.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_Lop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_mon.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHoc.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmReportView.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmSearchSinhVien.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmServerChange.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmThamSoHeThong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmThayDoiThanhPhan.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmThietLapMonChungChi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTieuDeBaoCao.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTimKiemSinhVien.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmToChucThiPhong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmDanhSachNoTotNghiepKhac.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmPhanCongThucTap.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTongHopHocTapNam.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTongHopNoChungChi_.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTongHopSinhVienThiLai.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTongHopThiLai.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmXetHocNganh2.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmXetHocTiepThoiHocNgungHoc.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmXetLenLop_NganhThu2.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmXetLuanVan.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmBangDiemChiTietSinhVien.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHocList.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChungChi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoChonMon.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoList.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoSaoChep.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmMsgBox.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemThanhPhanLop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNhapDiemThiLop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmToChucThiAdd.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmToChucThiDongTui.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmToChucThiList.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmToChucThiThemSinhVien.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTongHopHocKy.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmXetTotNghiep.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmXetTotNghiepNganh2.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.Resources.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.TreeViewPhongThi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.TreeViewChuyenNganh.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.TreeViewLop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.TreeViewTuiThi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.vbproj.GenerateResource.Cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.exe.licenses
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\UniMark.exe.manifest
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\UniMark.application
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\UniMark.exe
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\UniMark.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.BLL.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.Catalogue.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.DAL.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.Entity.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.Machine.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.UniLibrary.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.UniLibrary.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.Machine.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.Entity.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.DAL.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.Catalogue.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\bin\ThienAn.BLL.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.exe.manifest
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.application
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.exe
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhan.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmTongHopHocToanKhoa.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmNoiDungQDTotNghiep.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmToolNhapDiemThanhPhanLop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmToolNhapDiemThiLop.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniMark\obj\Debug\UniMark.frmThamSoQuyChe.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.exe
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\UniMark.exe.manifest
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\UniMark.application
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\UniMark.exe
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\UniMark.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.BLL.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.Catalogue.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.DAL.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.Entity.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.UniLibrary.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.UniLibrary.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.Entity.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.DAL.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.Catalogue.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\bin\ThienAn.BLL.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmThamSoQuyChe.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmToolNhapDiemThanhPhanLop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmToolNhapDiemThiLop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhan.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChangePassword.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChonMonHocChungChi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmDongTuiThi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmKhoaDiemHocPhanDotThi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiTheoPhong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiLopHC.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuyenDiemNganh1SangNganh2.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmDanhSachSinhVienNganh2.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmDiemNganh1View.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmKiemTraDuLieuSai_CSDL.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmMonHoc.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmMonHocList.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemExcel.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemExcel_Sub.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemSoPhach.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoGanLop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoAdd.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonChon.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiPhong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoRangBuocMonHoc.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmKhoaDuLieuDiemThanhPhanLop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmDoiChieuDuLieuDiem.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmLayDuLieuDiem.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmLogin.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmMain.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiSBD.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemTuiThi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNoiDungQDTotNghiep.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNoKhacKhiXetTotNghiep.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_Lop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_mon.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHoc.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmReportView.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmSearchSinhVien.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmServerChange.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmThamSoHeThong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmThayDoiThanhPhan.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmThietLapMonChungChi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTieuDeBaoCao.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTimKiemSinhVien.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmToChucThiPhong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmDanhSachNoTotNghiepKhac.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmPhanCongThucTap.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmToChucThiThemSinhVien.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTongHopHocTapNam.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTongHopNoChungChi_.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTongHopSinhVienThiLai.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTongHopThiLai.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmXetHocNganh2.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmXetHocTiepThoiHocNgungHoc.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmXetLenLop_NganhThu2.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmXetLuanVan.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmBangDiemChiTietSinhVien.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHocList.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTongHopHocToanKhoa.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChungChi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoChonMon.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoList.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoSaoChep.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmMsgBox.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemThanhPhanLop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiLop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmToChucThiAdd.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmToChucThiDongTui.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmToChucThiList.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmTongHopHocKy.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmXetTotNghiep.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.frmXetTotNghiepNganh2.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.Resources.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.TreeViewPhongThi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.TreeViewChuyenNganh.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.TreeViewLop.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.TreeViewTuiThi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.vbproj.GenerateResource.Cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.exe.licenses
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.exe.manifest
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniMark\obj\Debug\UniMark.application
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.exe
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\UniMark.exe.manifest
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\UniMark.application
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\UniMark.exe
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\UniMark.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.BLL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.Catalogue.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.Entity.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.Entity.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.Catalogue.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.BLL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\bin\ThienAn.DAL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmThamSoQuyChe.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmToolNhapDiemThanhPhanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmToolNhapDiemThiLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChangePassword.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChonMonHocChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmDongTuiThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmKhoaDiemHocPhanDotThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiTheoPhong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiLopHC.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuyenDiemNganh1SangNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmDanhSachSinhVienNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmDiemNganh1View.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmKiemTraDuLieuSai_CSDL.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmMonHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmMonHocList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemExcel.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemExcel_Sub.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemSoPhach.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoGanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoAdd.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonChon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemThiPhong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoRangBuocMonHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmKhoaDuLieuDiemThanhPhanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmDoiChieuDuLieuDiem.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmLayDuLieuDiem.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmLogin.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmMain.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemThiSBD.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemTuiThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNoiDungQDTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNoKhacKhiXetTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_Lop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_mon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmReportView.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmSearchSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmServerChange.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmThamSoHeThong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmThayDoiThanhPhan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmThietLapMonChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTieuDeBaoCao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTimKiemSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmToChucThiPhong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmDanhSachNoTotNghiepKhac.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmPhanCongThucTap.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmToChucThiThemSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTongHopHocTapNam.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTongHopNoChungChi_.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTongHopSinhVienThiLai.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTongHopThiLai.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmXetHocNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmXetHocTiepThoiHocNgungHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmXetLenLop_NganhThu2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmXetLuanVan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmBangDiemChiTietSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHocList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTongHopHocToanKhoa.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoChonMon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoSaoChep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmMsgBox.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemThanhPhanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmNhapDiemThiLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmToChucThiAdd.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmToChucThiDongTui.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmToChucThiList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmTongHopHocKy.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmXetTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmXetTotNghiepNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.Resources.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.TreeViewPhongThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.TreeViewChuyenNganh.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.TreeViewLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.TreeViewTuiThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.vbproj.GenerateResource.Cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.exe.licenses
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.exe.manifest
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.application
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoImport.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniMark\obj\Debug\UniMark.frmChayQuery.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.exe
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\UniMark.exe.manifest
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\UniMark.application
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\UniMark.exe
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\UniMark.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.BLL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Catalogue.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Entity.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Entity.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.DAL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Catalogue.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.BLL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChayQuery.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoImport.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThamSoQuyChe.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToolNhapDiemThanhPhanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToolNhapDiemThiLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChangePassword.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChonMonHocChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDongTuiThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDiemHocPhanDotThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiTheoPhong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiLopHC.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuyenDiemNganh1SangNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachSinhVienNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDiemNganh1View.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKiemTraDuLieuSai_CSDL.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMonHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMonHocList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemExcel.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemExcel_Sub.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemSoPhach.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoGanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoAdd.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonChon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiPhong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoRangBuocMonHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDuLieuDiemThanhPhanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDoiChieuDuLieuDiem.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmLayDuLieuDiem.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmLogin.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMain.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiSBD.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemTuiThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNoiDungQDTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNoKhacKhiXetTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_Lop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_mon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmReportView.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmSearchSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmServerChange.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThamSoHeThong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThayDoiThanhPhan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThietLapMonChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTieuDeBaoCao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTimKiemSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiPhong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachNoTotNghiepKhac.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanCongThucTap.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiThemSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopHocTapNam.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopNoChungChi_.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopSinhVienThiLai.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopThiLai.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetHocNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetHocTiepThoiHocNgungHoc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetLenLop_NganhThu2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetLuanVan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmBangDiemChiTietSinhVien.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHocList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopHocToanKhoa.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoChonMon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoSaoChep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMsgBox.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThanhPhanLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiAdd.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiDongTui.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiList.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopHocKy.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetTotNghiepNganh2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.Resources.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewPhongThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewChuyenNganh.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewLop.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewTuiThi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.vbproj.GenerateResource.Cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.exe.licenses
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.exe.manifest
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.application
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiPhanPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.exe
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\UniMark.exe.manifest
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\UniMark.application
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\UniMark.exe
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\UniMark.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.BLL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Catalogue.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.DAL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Entity.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Entity.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Catalogue.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.BLL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\bin\ThienAn.DAL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChayQuery.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoImport.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThamSoQuyChe.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiPhanPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToolNhapDiemThanhPhanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToolNhapDiemThiLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChangePassword.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChonMonHocChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDongTuiThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDiemHocPhanDotThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiTheoPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiLopHC.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuyenDiemNganh1SangNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachSinhVienNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDiemNganh1View.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKiemTraDuLieuSai_CSDL.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMonHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMonHocList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemExcel.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemExcel_Sub.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemSoPhach.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoGanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoAdd.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonChon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoRangBuocMonHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmKhoaDuLieuDiemThanhPhanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDoiChieuDuLieuDiem.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmLayDuLieuDiem.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmLogin.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMain.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiSBD.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemTuiThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNoiDungQDTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNoKhacKhiXetTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_Lop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_mon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmReportView.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmSearchSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmServerChange.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThamSoHeThong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThayDoiThanhPhan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmThietLapMonChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTieuDeBaoCao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTimKiemSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmDanhSachNoTotNghiepKhac.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanCongThucTap.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiThemSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopHocTapNam.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopNoChungChi_.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopSinhVienThiLai.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopThiLai.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetHocNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetHocTiepThoiHocNgungHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetLenLop_NganhThu2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetLuanVan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmBangDiemChiTietSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHocList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopHocToanKhoa.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoChonMon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoSaoChep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmMsgBox.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThanhPhanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmNhapDiemThiLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiAdd.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiDongTui.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmToChucThiList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmTongHopHocKy.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.frmXetTotNghiepNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.Resources.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewPhongThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewChuyenNganh.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.TreeViewTuiThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.vbproj.GenerateResource.Cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.exe.licenses
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.exe.manifest
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniMark\obj\Debug\UniMark.application
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.exe
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\UniMark.exe.manifest
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\UniMark.application
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\UniMark.exe
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\UniMark.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.BLL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.Catalogue.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.DAL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.Entity.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.Entity.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.DAL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.Catalogue.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\bin\ThienAn.BLL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChayQuery.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoImport.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmThamSoQuyChe.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToChucThiPhanPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToolNhapDiemThanhPhanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToolNhapDiemThiLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChangePassword.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChonMonHocChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmDongTuiThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmKhoaDiemHocPhanDotThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiTheoPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiLopHC.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuyenDiemNganh1SangNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmDanhSachSinhVienNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmDiemNganh1View.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmKiemTraDuLieuSai_CSDL.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmMonHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmMonHocList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemExcel.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemExcel_Sub.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemSoPhach.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoGanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoAdd.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonChon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemThiPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoRangBuocMonHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmKhoaDuLieuDiemThanhPhanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmDoiChieuDuLieuDiem.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmLayDuLieuDiem.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmLogin.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmMain.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemThiSBD.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemTuiThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNoiDungQDTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNoKhacKhiXetTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_Lop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_mon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmReportView.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmSearchSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmServerChange.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmThamSoHeThong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmThayDoiThanhPhan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmThietLapMonChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTieuDeBaoCao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTimKiemSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToChucThiPhong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmDanhSachNoTotNghiepKhac.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmPhanCongThucTap.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToChucThiThemSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTongHopHocTapNam.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTongHopNoChungChi_.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTongHopSinhVienThiLai.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTongHopThiLai.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmXetHocNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmXetHocTiepThoiHocNgungHoc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmXetLenLop_NganhThu2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmXetLuanVan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmBangDiemChiTietSinhVien.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHocList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTongHopHocToanKhoa.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoChonMon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoSaoChep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmMsgBox.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemThanhPhanLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmNhapDiemThiLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToChucThiAdd.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToChucThiDongTui.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmToChucThiList.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmTongHopHocKy.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmXetTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.frmXetTotNghiepNganh2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.Resources.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.TreeViewPhongThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.TreeViewChuyenNganh.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.TreeViewLop.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.TreeViewTuiThi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.vbproj.GenerateResource.Cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.exe.licenses
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.exe.manifest
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniMark\obj\Debug\UniMark.application
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\UniMark.exe.manifest
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\UniMark.application
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\UniMark.exe
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\UniMark.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.BLL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.Catalogue.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.DAL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.Entity.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.UniLibrary.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.UniLibrary.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.Entity.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.DAL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.Catalogue.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\bin\ThienAn.BLL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChayQuery.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoImport.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoList.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmThamSoQuyChe.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToChucThiPhanPhong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToolNhapDiemThanhPhanLop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToolNhapDiemThiLop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhan.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChangePassword.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChonMonHocChungChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmDanhSachKhongDuDieuKienDuThiHocPhi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmDongTuiThi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmKhoaDiemHocPhanDotThi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiTheoPhong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmKhoaDulieuDiemThiLopHC.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuyenDiemNganh1SangNganh2.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmDanhSachSinhVienNganh2.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmDiemNganh1View.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmKiemTraDuLieuSai_CSDL.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmMonHoc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmMonHocList.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemExcel.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemExcel_Sub.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemSoPhach.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoGanLop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoAdd.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonChon.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemThiPhong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoRangBuocMonHoc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmKhoaDuLieuDiemThanhPhanLop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmDoiChieuDuLieuDiem.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmLayDuLieuDiem.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmLogin.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmMain.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemThiSBD.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemTuiThi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNoiDungQDTotNghiep.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNoKhacKhiXetTotNghiep.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_Lop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap_mon.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHoc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmReportView.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmSearchSinhVien.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmServerChange.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmThamSoHeThong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmThayDoiThanhPhan.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmThietLapMonChungChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTieuDeBaoCao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTimKiemSinhVien.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToChucThiPhong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmDanhSachNoTotNghiepKhac.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmPhanCongThucTap.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToChucThiThemSinhVien.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHopHocTapNam.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHopNoChungChi_.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHopSinhVienThiLai.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHopThiLai.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmXetHocNganh2.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmXetHocTiepThoiHocNgungHoc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmXetLenLop_NganhThu2.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmXetLuanVan.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmBangDiemChiTietSinhVien.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmPhanLoaiHocTap.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmQuyetDinhThoiHocList.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHopHocToanKhoa.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChungChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoChonMon.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaotaoSaoChep.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmMsgBox.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemThanhPhanLop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmNhapDiemThiLop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToChucThiAdd.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToChucThiDongTui.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmToChucThiList.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHopHocKy.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmXetTotNghiep.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmXetTotNghiepNganh2.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.Resources.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.TreeViewPhongThi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.TreeViewChuyenNganh.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.TreeViewLop.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.TreeViewTuiThi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.vbproj.GenerateResource.Cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.exe.manifest
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.application
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.exe
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmChuongTrinhDaoTaoMonSub.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHopDiemMonMain.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.exe.licenses
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHop_ThiLaiHocLai.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniMark\obj\Debug\UniMark.frmTongHop_ThiLaiHocLai_DanhSach.resources

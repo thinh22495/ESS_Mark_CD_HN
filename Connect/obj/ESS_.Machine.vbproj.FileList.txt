@@ -1,0 +1,7 @@
+bin\Union.Machine.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Union.Machine.xml
+bin\ESS.Machine.dll
+bin\ESS.Machine.pdb
+obj\Debug\ESS.Machine.dll
+obj\Debug\ESS.Machine.pdb

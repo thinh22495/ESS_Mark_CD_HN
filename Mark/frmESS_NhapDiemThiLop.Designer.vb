@@ -63,13 +63,14 @@ Partial Class frmESS_NhapDiemThiLop
         Me.btnInBangDiem = New DevExpress.XtraBars.BarButtonItem()
         Me.btnDanhSachDuThi = New DevExpress.XtraBars.BarButtonItem()
         Me.btnDanhSachNoMon = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarManager1 = New DevExpress.XtraBars.BarManager(Me.components)
         Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl()
         Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl()
         Me.BarDockControl3 = New DevExpress.XtraBars.BarDockControl()
         Me.BarDockControl4 = New DevExpress.XtraBars.BarDockControl()
         Me.btnTP_Diem = New DevExpress.XtraEditors.SimpleButton()
-        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem()
+        Me.chk_ds_day_du = New System.Windows.Forms.CheckBox()
         CType(Me.grdViewDiem, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
         CType(Me.imageCollection1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -347,7 +348,7 @@ Partial Class frmESS_NhapDiemThiLop
         Me.cbDS_thi_lai.BackColor = System.Drawing.Color.Transparent
         Me.cbDS_thi_lai.Location = New System.Drawing.Point(522, 137)
         Me.cbDS_thi_lai.Name = "cbDS_thi_lai"
-        Me.cbDS_thi_lai.Size = New System.Drawing.Size(291, 21)
+        Me.cbDS_thi_lai.Size = New System.Drawing.Size(149, 21)
         Me.cbDS_thi_lai.TabIndex = 172
         Me.cbDS_thi_lai.Text = "Danh sách thi lại"
         Me.cbDS_thi_lai.UseVisualStyleBackColor = False
@@ -497,7 +498,7 @@ Partial Class frmESS_NhapDiemThiLop
         '
         'PopupMenu3
         '
-        Me.PopupMenu3.LinksPersistInfo.AddRange(New DevExpress.XtraBars.LinkPersistInfo() {New DevExpress.XtraBars.LinkPersistInfo(Me.btnInBangDiem), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDanhSachDuThi), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDanhSachNoMon), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem1)})
+        Me.PopupMenu3.LinksPersistInfo.AddRange(New DevExpress.XtraBars.LinkPersistInfo() {New DevExpress.XtraBars.LinkPersistInfo(Me.btnInBangDiem), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDanhSachDuThi), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.btnDanhSachNoMon, False), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem1)})
         Me.PopupMenu3.Manager = Me.BarManager1
         Me.PopupMenu3.Name = "PopupMenu3"
         '
@@ -518,6 +519,12 @@ Partial Class frmESS_NhapDiemThiLop
         Me.btnDanhSachNoMon.Caption = "Danh sách nợ môn"
         Me.btnDanhSachNoMon.Id = 5
         Me.btnDanhSachNoMon.Name = "btnDanhSachNoMon"
+        '
+        'BarButtonItem1
+        '
+        Me.BarButtonItem1.Caption = "Điểm tổng kết môn học"
+        Me.BarButtonItem1.Id = 6
+        Me.BarButtonItem1.Name = "BarButtonItem1"
         '
         'BarManager1
         '
@@ -574,16 +581,23 @@ Partial Class frmESS_NhapDiemThiLop
         Me.btnTP_Diem.TabIndex = 234
         Me.btnTP_Diem.Text = "Thay đổi TP điểm thi"
         '
-        'BarButtonItem1
+        'chk_ds_day_du
         '
-        Me.BarButtonItem1.Caption = "Điểm tổng kết môn học"
-        Me.BarButtonItem1.Id = 6
-        Me.BarButtonItem1.Name = "BarButtonItem1"
+        Me.chk_ds_day_du.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.chk_ds_day_du.BackColor = System.Drawing.Color.Transparent
+        Me.chk_ds_day_du.Location = New System.Drawing.Point(711, 137)
+        Me.chk_ds_day_du.Name = "chk_ds_day_du"
+        Me.chk_ds_day_du.Size = New System.Drawing.Size(149, 21)
+        Me.chk_ds_day_du.TabIndex = 239
+        Me.chk_ds_day_du.Text = "Danh sách đầy đủ"
+        Me.chk_ds_day_du.UseVisualStyleBackColor = False
         '
         'frmESS_NhapDiemThiLop
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit
         Me.ClientSize = New System.Drawing.Size(1227, 566)
+        Me.Controls.Add(Me.chk_ds_day_du)
         Me.Controls.Add(Me.btnTP_Diem)
         Me.Controls.Add(Me.cmdPrint)
         Me.Controls.Add(Me.btnSave_VH)
@@ -677,4 +691,5 @@ Partial Class frmESS_NhapDiemThiLop
     Friend WithEvents btnDanhSachNoMon As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents btnTP_Diem As DevExpress.XtraEditors.SimpleButton
     Friend WithEvents BarButtonItem1 As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents chk_ds_day_du As System.Windows.Forms.CheckBox
 End Class

@@ -1,0 +1,258 @@
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Entity\bin\ESS.Entity.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Entity\bin\ESS.Entity.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Entity\bin\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Entity\obj\Debug\ESS.Entity.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Entity\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Entity\obj\Debug\ESS.Entity.pdb
+E:\Project\Company\Working\ESS_NC\Entity\bin\ESS.Entity.dll
+E:\Project\Company\Working\ESS_NC\Entity\bin\ESS.Entity.pdb
+E:\Project\Company\Working\ESS_NC\Entity\bin\ESS.xml
+E:\Project\Company\Working\ESS_NC\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_NC\Entity\obj\Debug\ESS.Entity.dll
+E:\Project\Company\Working\ESS_NC\Entity\obj\Debug\ESS.xml
+E:\Project\Company\Working\ESS_NC\Entity\obj\Debug\ESS.Entity.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\bin\ESS.Entity.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\bin\ESS.Entity.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\bin\ESS.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ESS.Entity.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ESS.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ESS.Entity.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\bin\ESS.Entity.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\bin\ESS.Entity.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\bin\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ESS.Entity.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Entity\obj\Debug\ESS.Entity.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\bin\ESS.Entity.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\bin\ESS.Entity.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\bin\ESS.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ESS.Entity.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ESS.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ESS.Entity.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\bin\ESS.Entity.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\bin\ESS.Entity.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\bin\ESS.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ESS.Entity.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ESS.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Entity\obj\Debug\ESS.Entity.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Entity\bin\ESS.Entity.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Entity\bin\ESS.Entity.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Entity\bin\ESS.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Entity\obj\Debug\ESS.Entity.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Entity\obj\Debug\ESS.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Entity\obj\Debug\ESS.Entity.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Entity\bin\ESS.Entity.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Entity\bin\ESS.Entity.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Entity\bin\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Entity\obj\Debug\ESS.Entity.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Entity\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Entity\obj\Debug\ESS.Entity.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Entity\bin\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Entity\bin\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Entity\bin\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Entity\bin\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Entity\bin\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\ESS_Mark\Entity\bin\ESS.xml
+D:\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Entity\bin\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\bin\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\bin\ESS.Entity.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\bin\ESS.Entity.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\bin\ESS.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ESS.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Entity\bin\ESS.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Entity\bin\ESS.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Entity\bin\ESS.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\Entity\bin\ESS.Entity.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\Entity\bin\ESS.Entity.pdb
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\Entity\bin\ESS.xml
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\Entity\obj\Debug\ESS.xml
+E:\DuAn_NamViet\NamVietJSC_BanGiao\NamVietJSC\CDN KTCN Ho Chi Minh\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Entity\bin\ESS.Entity.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Entity\bin\ESS.Entity.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Entity\bin\ESS.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Entity\obj\Debug\ESS.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\bin\ESS.Entity.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\bin\ESS.Entity.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\bin\ESS.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ESS.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\bin\ESS.Entity.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\bin\ESS.Entity.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\bin\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Entity\bin\ESS.Entity.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Entity\bin\ESS.Entity.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Entity\bin\ESS.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Entity\obj\Debug\ESS.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\bin\ESS.Entity.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\bin\ESS.Entity.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\bin\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\bin\ESS.Entity.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\bin\ESS.Entity.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\bin\ESS.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ESS.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\ESS.Entity.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\ESS.Entity.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\ESS.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\System.Data.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\System.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\System.Drawing.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\System.Windows.Forms.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\bin\System.Xml.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\obj\Debug\ESS.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\ESS.Entity.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\ESS.Entity.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\ESS.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\System.Data.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\System.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\System.Drawing.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\bin\System.Xml.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\obj\Debug\ESS.Entity.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Entity\obj\Debug\ESS.Entity.pdb
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\ESS.Entity.dll
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\ESS.Entity.pdb
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\ESS.xml
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\System.Data.dll
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\System.dll
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\System.Drawing.dll
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CND_NLDB\Entity\bin\System.Xml.dll
+D:\Project\ESS_Mark_CND_NLDB\Entity\obj\Debug\ESS.Entity.dll
+D:\Project\ESS_Mark_CND_NLDB\Entity\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_CND_NLDB\Entity\obj\Debug\ESS.Entity.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\ESS.Entity.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\ESS.Entity.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\ESS.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\System.Data.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\System.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\System.Drawing.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\System.Windows.Forms.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\bin\System.Xml.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\obj\Debug\ESS.Entity.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\obj\Debug\ESS.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Entity\obj\Debug\ESS.Entity.pdb
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\ESS.Entity.dll
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\ESS.Entity.pdb
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\ESS.xml
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\System.Data.dll
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\System.dll
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\System.Drawing.dll
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CDN_HN\Entity\bin\System.Xml.dll
+D:\Project\ESS_Mark_CDN_HN\Entity\obj\Debug\ESS.Entity.dll
+D:\Project\ESS_Mark_CDN_HN\Entity\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_CDN_HN\Entity\obj\Debug\ESS.Entity.pdb
+D:\Project\ESS_Mark_CDN_HN\Entity\obj\Debug\Entity.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_CDN_HN\Entity\obj\Debug\Entity.vbproj.CoreCompileInputs.cache
+D:\ESS_Mark_CD_HN\Entity\bin\ESS.Entity.dll
+D:\ESS_Mark_CD_HN\Entity\bin\ESS.Entity.pdb
+D:\ESS_Mark_CD_HN\Entity\bin\ESS.xml
+D:\ESS_Mark_CD_HN\Entity\bin\System.Data.dll
+D:\ESS_Mark_CD_HN\Entity\bin\System.dll
+D:\ESS_Mark_CD_HN\Entity\bin\System.Drawing.dll
+D:\ESS_Mark_CD_HN\Entity\bin\System.Windows.Forms.dll
+D:\ESS_Mark_CD_HN\Entity\bin\System.Xml.dll
+D:\ESS_Mark_CD_HN\Entity\obj\Debug\Entity.vbprojResolveAssemblyReference.cache
+D:\ESS_Mark_CD_HN\Entity\obj\Debug\ESS.Entity.dll
+D:\ESS_Mark_CD_HN\Entity\obj\Debug\ESS.xml
+D:\ESS_Mark_CD_HN\Entity\obj\Debug\ESS.Entity.pdb

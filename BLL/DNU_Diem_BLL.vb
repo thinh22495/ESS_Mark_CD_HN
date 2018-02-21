@@ -8,7 +8,7 @@ Imports System.Data
 Imports System.Data.SqlClient
 Imports ESS.Entity.Entity
 Imports ESS.DAL.DBManager
-Imports ESS.UniLibrary
+'Imports ESS.UniLibrary
 Namespace Business
     Public Class DNU_Diem_BLL
         Private arrDiem As New ArrayList
@@ -30,7 +30,7 @@ Namespace Business
             mID_dv = ID_dv
             mdtDanhSachSinhVien = dtDanhSachSinhVien
             'Khởi tạo quy chế
-            QC = New QuyCheDaoTao(ID_he)
+            QC = New QuyCheDaoTao(ID_he, 0)
             'Load các thành phần
             Load_ThanhPhanMon(ID_dv, ID_he, 0, "", ID_mon, dsID_lop, Chon_mac_dinh_tp, Lan_hoc)
             'Load dữ liệu điểm môn học
@@ -54,7 +54,7 @@ Namespace Business
             mID_dv = ID_dv
             mdtDanhSachSinhVien = dtDanhSachSinhVien
             'Khởi tạo quy chế
-            QC = New QuyCheDaoTao(ID_he)
+            QC = New QuyCheDaoTao(ID_he, dsID_dt)
             'Load môn thành phần
             Load_ThanhPhanMon(ID_dv, ID_he, Hoc_ky, Nam_hoc, 0, dsID_lop, False, 0)
             'Load xếp loại học tập
@@ -70,7 +70,7 @@ Namespace Business
         Sub New(ByVal ID_he As Integer, ByVal ID_dv As String, ByVal ID_sv As Integer, ByVal ID_dt As Integer, Optional ByVal Hoc_ky As Integer = 0, Optional ByVal Nam_hoc As String = "")
             mID_dv = ID_dv
             'Khởi tạo quy chế
-            QC = New QuyCheDaoTao(ID_he)
+            QC = New QuyCheDaoTao(ID_he, ID_dt)
             'Load xếp loại học tập
             Load_XepLoaiHocTap()
             'Load xếp hạng tốt nghiệp

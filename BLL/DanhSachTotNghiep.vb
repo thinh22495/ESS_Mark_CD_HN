@@ -82,7 +82,7 @@ Namespace Business
         End Function
 
         Function dtDanhSachTotNghiep(ByVal Lan_thu As Integer, ByVal Nam_hoc As String, ByVal Id_he As Integer) As DataTable
-            QC = New QuyCheDaoTao(Id_he)
+            QC = New QuyCheDaoTao(Id_he, 0)
             Dim dtDSTotNghiep As New DataTable
             dtDSTotNghiep.Columns.Add("Chon", GetType(Boolean))
             dtDSTotNghiep.Columns.Add("Lock", GetType(Boolean))
@@ -263,140 +263,150 @@ Namespace Business
         End Function
 
         Public Sub XetTotNghiep(ByVal ID_he As Integer, ByVal Nam_hoc As String, ByVal Lan_thu As Integer, ByVal ID_Bomon As Integer, Optional ByVal Chung_chu As Boolean = False)
-            Dim No_HT As String
-            Dim clsDiem As Diem_BLL
-            clsDiem = New Diem_BLL(ID_he, mID_dv, ID_Bomon, 0, "", mdsID_lop, mID_dt, mdtDanhSachSinhVien)
-            Dim dtDiem As DataTable = clsDiem.TongHopDiem_XetTotNghiep()
+            Try
+                Dim No_HT As String
+                Dim clsDiem As Diem_BLL
+                clsDiem = New Diem_BLL(ID_he, mID_dv, ID_Bomon, 0, "", mdsID_lop, mID_dt, mdtDanhSachSinhVien)
+                Dim dtDiem As DataTable = clsDiem.TongHopDiem_XetTotNghiep()
 
 
-            'Neu tot nghiep thi xoa sv neu o bang chua tot nghiep; kiem tra xem neu ton tai -> Update chua thi Insert
-            For i As Integer = 0 To dtDiem.Rows.Count - 1
-                'If dtDiem.Rows(i)("ID_SV") = 1 Then
-                '    dtDiem.Rows(i)("ID_SV") = 1
-                'End If
-                No_HT = ""
-                'No_CC = ""
+                'Neu tot nghiep thi xoa sv neu o bang chua tot nghiep; kiem tra xem neu ton tai -> Update chua thi Insert
+                For i As Integer = 0 To dtDiem.Rows.Count - 1
+                    'If dtDiem.Rows(i)("ID_SV") = 1 Then
+                    '    dtDiem.Rows(i)("ID_SV") = 1
+                    'End If
+                    No_HT = ""
+                    'No_CC = ""
 
-                'Môn học có điểm F
-                If dtDiem.Rows(i).Item("LyDo_no_mon").ToString <> "" Then No_HT = "Nợ học phần: " & dtDiem.Rows(i).Item("LyDo_no_mon")
-                'Chưa học môn bắt buộc
-                If dtDiem.Rows(i).Item("LyDo_mon_batbuoc").ToString <> "" Then
-                    If No_HT = "" Then
-                        No_HT = "Môn bắt buộc: " & dtDiem.Rows(i).Item("LyDo_mon_batbuoc")
-                    Else
-                        No_HT &= "-Môn bắt buộc: " & dtDiem.Rows(i).Item("LyDo_mon_batbuoc")
-                    End If
-                End If
-                'Điểm không đạt < 5
-                If dtDiem.Rows(i).Item("LyDo_TBCHT_TL").ToString <> "" Then
-                    If No_HT = "" Then
-                        No_HT = dtDiem.Rows(i).Item("LyDo_TBCHT_TL")
-                    Else
-                        No_HT &= "-" & dtDiem.Rows(i).Item("LyDo_TBCHT_TL")
-                    End If
-                End If
-                'Thi tot nghiep voi quy che 40
-                If dtDiem.Rows(i).Item("Quy_che") = 40 AndAlso dtDiem.Rows(i).Item("LyDo_MonTN").ToString <> "" Then
-                    If No_HT = "" Then
-                        No_HT = dtDiem.Rows(i).Item("LyDo_MonTN").ToString
-                    Else
-                        No_HT &= "-" & dtDiem.Rows(i).Item("LyDo_MonTN").ToString
-                    End If
-                End If
-
-                'Check nợ môn chứng chỉ
-                Dim obj As DanhSachTotNghiep_DAL = New DanhSachTotNghiep_DAL
-                Dim dt_NoChungChi As DataTable = obj.Load_DanhSachChungChiSinhVienNo(dtDiem.Rows(i).Item("ID_dt"), dtDiem.Rows(i).Item("ID_sv"))
-                Dim NoCC As String = ""
-                For c As Integer = 0 To dt_NoChungChi.Rows.Count - 1
-                    If NoCC.Trim = "" Then
-                        NoCC = "Nợ chứng chỉ: " & dt_NoChungChi.Rows(c).Item("Loai_chung_chi").ToString
-                    Else
-                        NoCC += "; " & dt_NoChungChi.Rows(c).Item("Loai_chung_chi").ToString
-                    End If
-                Next
-                If NoCC.Trim <> "" Then
-                    If No_HT.Trim = "" Then
-                        No_HT = NoCC
-                    Else
-                        No_HT += "; " & NoCC
-                    End If
-                End If
-
-                'Check nợ khác
-                Dim dt_NoKhac As DataTable = obj.Load_DanhSachNoKhac(dtDiem.Rows(i).Item("ID_sv"))
-                Dim NoKhac As String = ""
-                If dt_NoKhac.Rows.Count > 0 Then NoKhac = "Nợ khác: " & dt_NoKhac.Rows(0).Item("Ly_do").ToString
-                If NoKhac.Trim <> "" Then
-                    If No_HT.Trim = "" Then
-                        No_HT = NoKhac
-                    Else
-                        No_HT += "; " & NoKhac
-                    End If
-                End If
-                If dtDiem.Rows(i).Item("ID_SV") = 73 Then
-                    dtDiem.Rows(i).Item("ID_SV") = 73
-                End If
-                'Xoá sinh viên khỏi danh sách Tốt nghiệp và Bổ sung vào danh sách Nợ tốt nghiệp rơi vào 3 đk trên
-                If No_HT.Trim <> "" Then
-                    Dim idx As Integer = Tim_idx_TotNghiep(dtDiem.Rows(i).Item("ID_SV"))
-                    If idx >= 0 Then
-                        Remove_TotNghiep(idx)
-                        Delete_DanhSachTotNghiep(dtDiem.Rows(i).Item("ID_SV"), Lan_thu)
-                    End If
-
-                    Dim objChuaTN As New DanhSachTotNghiep
-                    objChuaTN.Nam_hoc = Nam_hoc
-                    objChuaTN.Lan_thu = Lan_thu
-                    objChuaTN.Ma_sv = dtDiem.Rows(i).Item("Ma_sv")
-                    objChuaTN.Ho_ten = dtDiem.Rows(i).Item("Ho_ten")
-                    objChuaTN.ID_sv = dtDiem.Rows(i).Item("ID_sv")
-                    objChuaTN.ID_xep_loai = dtDiem.Rows(i).Item("ID_xep_loai")
-                    objChuaTN.Xep_hang = dtDiem.Rows(i).Item("Xep_loai")
-                    objChuaTN.TBCHT = dtDiem.Rows(i).Item("TBCHT")
-                    objChuaTN.Diem_toan_khoa = dtDiem.Rows(i).Item("Diem_toan_khoa")
-                    objChuaTN.ID_dt = mID_dt
-                    objChuaTN.Ly_do = No_HT
-
-                    Delete_DanhSachChuaTotNghiep(dtDiem.Rows(i).Item("ID_SV"))
-                    Insert_DanhSachChuaTotNghiep(objChuaTN)
-                Else 'Tốt nghiệp
-                    Delete_DanhSachChuaTotNghiep(dtDiem.Rows(i).Item("ID_SV"))
-
-                    Dim objTN As New DanhSachTotNghiep
-                    objTN.Nam_hoc = Nam_hoc
-                    objTN.Lan_thu = Lan_thu
-                    objTN.So_bang = objTN.So_bang
-                    objTN.Ma_sv = dtDiem.Rows(i).Item("Ma_sv")
-                    objTN.Ho_ten = dtDiem.Rows(i).Item("Ho_ten")
-                    objTN.ID_sv = dtDiem.Rows(i).Item("ID_sv")
-                    objTN.ID_xep_loai = dtDiem.Rows(i).Item("ID_xep_loai")
-                    objTN.Xep_hang = dtDiem.Rows(i).Item("Xep_loai")
-                    objTN.TBCHT = dtDiem.Rows(i).Item("TBCHT")
-                    objTN.Diem_toan_khoa = dtDiem.Rows(i).Item("Diem_toan_khoa")
-                    objTN.Ghi_chu = dtDiem.Rows(i).Item("HaBac_TotNghiep").ToString
-
-                    Dim idx As Integer = Tim_idx_TotNghiep(dtDiem.Rows(i).Item("ID_SV"))
-                    If idx >= 0 Then 'Update  
-                        If CType(arrDanhSachTotNghiep(idx), DanhSachTotNghiep).Lan_thu = Lan_thu Then
-                            Update_DanhSachTotNghiep(objTN, dtDiem.Rows(i).Item("ID_SV"))
+                    'Môn học có điểm F
+                    If dtDiem.Rows(i).Item("LyDo_no_mon").ToString <> "" Then No_HT = "Nợ học phần: " & dtDiem.Rows(i).Item("LyDo_no_mon")
+                    'Chưa học môn bắt buộc
+                    If dtDiem.Rows(i).Item("LyDo_mon_batbuoc").ToString <> "" Then
+                        If No_HT = "" Then
+                            No_HT = "Môn bắt buộc: " & dtDiem.Rows(i).Item("LyDo_mon_batbuoc")
+                        Else
+                            No_HT &= "-Môn bắt buộc: " & dtDiem.Rows(i).Item("LyDo_mon_batbuoc")
                         End If
-                    Else ' Insert
-                        Insert_DanhSachTotNghiep(objTN)
                     End If
-                End If
+                    'Điểm không đạt < 5
+                    If dtDiem.Rows(i).Item("LyDo_TBCHT_TL").ToString <> "" Then
+                        If No_HT = "" Then
+                            No_HT = dtDiem.Rows(i).Item("LyDo_TBCHT_TL")
+                        Else
+                            No_HT &= "-" & dtDiem.Rows(i).Item("LyDo_TBCHT_TL")
+                        End If
+                    End If
+                    'Thi tot nghiep voi quy che 40
+                    If dtDiem.Rows(i).Item("Quy_che") = 40 AndAlso dtDiem.Rows(i).Item("LyDo_MonTN").ToString <> "" Then
+                        If No_HT = "" Then
+                            No_HT = dtDiem.Rows(i).Item("LyDo_MonTN").ToString
+                        Else
+                            No_HT &= "-" & dtDiem.Rows(i).Item("LyDo_MonTN").ToString
+                        End If
+                    End If
 
-                '
+                    'Check nợ môn chứng chỉ
+                    Dim obj As DanhSachTotNghiep_DAL = New DanhSachTotNghiep_DAL
+                    Dim dt_NoChungChi As DataTable = obj.Load_DanhSachChungChiSinhVienNo(dtDiem.Rows(i).Item("ID_dt"), dtDiem.Rows(i).Item("ID_sv"))
+                    Dim NoCC As String = ""
+                    For c As Integer = 0 To dt_NoChungChi.Rows.Count - 1
+                        If NoCC.Trim = "" Then
+                            NoCC = "Nợ chứng chỉ: " & dt_NoChungChi.Rows(c).Item("Loai_chung_chi").ToString
+                        Else
+                            NoCC += "; " & dt_NoChungChi.Rows(c).Item("Loai_chung_chi").ToString
+                        End If
+                    Next
+                    If NoCC.Trim <> "" Then
+                        If No_HT.Trim = "" Then
+                            No_HT = NoCC
+                        Else
+                            No_HT += "; " & NoCC
+                        End If
+                    End If
 
-                'Loai những sinh viên nợ chứng chỉ
+                    'Check nợ khác
+                    Dim dt_NoKhac As DataTable = obj.Load_DanhSachNoKhac(dtDiem.Rows(i).Item("ID_sv"))
+                    Dim NoKhac As String = ""
+                    If dt_NoKhac.Rows.Count > 0 Then NoKhac = "Nợ khác: " & dt_NoKhac.Rows(0).Item("Ly_do").ToString
+                    If NoKhac.Trim <> "" Then
+                        If No_HT.Trim = "" Then
+                            No_HT = NoKhac
+                        Else
+                            No_HT += "; " & NoKhac
+                        End If
+                    End If
+                    If dtDiem.Rows(i).Item("ID_SV") = 73 Then
+                        dtDiem.Rows(i).Item("ID_SV") = 73
+                    End If
+                    'Xoá sinh viên khỏi danh sách Tốt nghiệp và Bổ sung vào danh sách Nợ tốt nghiệp rơi vào 3 đk trên
+                    If No_HT.Trim <> "" Then
+                        Dim idx As Integer = Tim_idx_TotNghiep(dtDiem.Rows(i).Item("ID_SV"))
+                        If idx >= 0 Then
+                            Remove_TotNghiep(idx)
+                            Delete_DanhSachTotNghiep(dtDiem.Rows(i).Item("ID_SV"), Lan_thu)
+                        End If
 
-                'Loai những sinh viên nợ tốt nghiệp như giấy tờ, học phí, ktx, thư viện....
+                        Dim objChuaTN As New DanhSachTotNghiep
+                        objChuaTN.Nam_hoc = Nam_hoc
+                        objChuaTN.Lan_thu = Lan_thu
+                        objChuaTN.Ma_sv = dtDiem.Rows(i).Item("Ma_sv")
+                        objChuaTN.Ho_ten = dtDiem.Rows(i).Item("Ho_ten")
+                        objChuaTN.ID_sv = dtDiem.Rows(i).Item("ID_sv")
+                        objChuaTN.ID_xep_loai = dtDiem.Rows(i).Item("ID_xep_loai")
+                        objChuaTN.Xep_hang = dtDiem.Rows(i).Item("Xep_loai")
+                        objChuaTN.TBCHT = dtDiem.Rows(i).Item("TBCHT")
+                        If IsNumeric(dtDiem.Rows(i).Item("Diem_toan_khoa")) Then
+                            objChuaTN.Diem_toan_khoa = dtDiem.Rows(i).Item("Diem_toan_khoa")
+                        Else
+                            objChuaTN.Diem_toan_khoa = 0
+                        End If
 
-                'Load danh sách những sinh viên bị kỷ luật trong năm học xét tốt nghiệp
+                        objChuaTN.ID_dt = mID_dt
+                        objChuaTN.Ly_do = No_HT
 
-                'Loại sinh viên nợ học phí
+                        Delete_DanhSachChuaTotNghiep(dtDiem.Rows(i).Item("ID_SV"))
+                        Insert_DanhSachChuaTotNghiep(objChuaTN)
+                    Else 'Tốt nghiệp
+                        Delete_DanhSachChuaTotNghiep(dtDiem.Rows(i).Item("ID_SV"))
 
-            Next
+                        Dim objTN As New DanhSachTotNghiep
+                        objTN.Nam_hoc = Nam_hoc
+                        objTN.Lan_thu = Lan_thu
+                        objTN.So_bang = objTN.So_bang
+                        objTN.Ma_sv = dtDiem.Rows(i).Item("Ma_sv")
+                        objTN.Ho_ten = dtDiem.Rows(i).Item("Ho_ten")
+                        objTN.ID_sv = dtDiem.Rows(i).Item("ID_sv")
+                        objTN.ID_xep_loai = dtDiem.Rows(i).Item("ID_xep_loai")
+                        objTN.Xep_hang = dtDiem.Rows(i).Item("Xep_loai")
+                        objTN.TBCHT = dtDiem.Rows(i).Item("TBCHT")
+                        objTN.Diem_toan_khoa = dtDiem.Rows(i).Item("Diem_toan_khoa")
+                        objTN.Ghi_chu = dtDiem.Rows(i).Item("HaBac_TotNghiep").ToString
+
+                        Dim idx As Integer = Tim_idx_TotNghiep(dtDiem.Rows(i).Item("ID_SV"))
+                        If idx >= 0 Then 'Update  
+                            If CType(arrDanhSachTotNghiep(idx), DanhSachTotNghiep).Lan_thu = Lan_thu Then
+                                Update_DanhSachTotNghiep(objTN, dtDiem.Rows(i).Item("ID_SV"))
+                            End If
+                        Else ' Insert
+                            Insert_DanhSachTotNghiep(objTN)
+                        End If
+                    End If
+
+                    '
+
+                    'Loai những sinh viên nợ chứng chỉ
+
+                    'Loai những sinh viên nợ tốt nghiệp như giấy tờ, học phí, ktx, thư viện....
+
+                    'Load danh sách những sinh viên bị kỷ luật trong năm học xét tốt nghiệp
+
+                    'Loại sinh viên nợ học phí
+
+                Next
+            Catch ex As Exception
+
+            End Try
+            
         End Sub
 
         Public Sub Update_SoVB(ByVal dv As DataView, ByVal Tu_so As Integer)

@@ -486,25 +486,37 @@ Public Class frmESS_XetHocTiepThoiHocNgungHoc
             Select Case TabControl1.SelectedIndex
                 Case 0
                     If Not grdViewMain.DataSource Is Nothing Then
-                        clsExcel.ExportFromDataGridViewToExcel(grdViewMain)
+                        'clsExcel.ExportFromDataGridViewToExcel(grdViewMain)
+                        Dim dt As DataTable
+                        dt = grdViewMain.DataSource
+                        ExportToExcel(dt.DefaultView)
                     Else
                         Thongbao("Chưa có dữ liệu !")
                     End If
                 Case 1 'Hoc tiep
                     If Not grdViewHocTiep.DataSource Is Nothing Then
-                        clsExcel.ExportFromDataGridViewToExcel(grdViewHocTiep)
+                        'clsExcel.ExportFromDataGridViewToExcel(grdViewHocTiep)
+                        Dim dt As DataTable
+                        dt = grdViewHocTiep.DataSource
+                        ExportToExcel(dt.DefaultView)
                     Else
                         Thongbao("Chưa có dữ liệu !")
                     End If
                 Case 3 'Ngung hoc
                     If Not grdViewNgungHoc.DataSource Is Nothing Then
-                        clsExcel.ExportFromDataGridViewToExcel(grdViewNgungHoc)
+                        'clsExcel.ExportFromDataGridViewToExcel(grdViewNgungHoc)
+                        Dim dt As DataTable
+                        dt = grdViewNgungHoc.DataSource
+                        ExportToExcel(dt.DefaultView)
                     Else
                         Thongbao("Chưa có dữ liệu !")
                     End If
                 Case 2 'Thoi hoc
                     If Not grdViewThoiHoc.DataSource Is Nothing Then
-                        clsExcel.ExportFromDataGridViewToExcel(grdViewThoiHoc)
+                        'clsExcel.ExportFromDataGridViewToExcel(grdViewThoiHoc)
+                        Dim dt As DataTable
+                        dt = grdViewThoiHoc.DataSource
+                        ExportToExcel(dt.DefaultView)
                     Else
                         Thongbao("Chưa có dữ liệu !")
                     End If

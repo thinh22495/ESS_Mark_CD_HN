@@ -646,11 +646,19 @@ QUIT:   Beep()
     End Sub
 
     Private Sub chkDieuKienThi_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles chkDieuKienThi.CheckedChanged
-        Dim dv As DataView = grdViewDanhSachThi.DataSource
-        If dv.Count > 0 Then
-            dv.RowFilter = "Ghi_chu_thi = ''"
-            grcViewDanhSachThi.DataSource = dv
-            txtSo_sv.Text = dv.Count
-        End If
+        Try
+            Dim dv As DataView = grdViewDanhSachThi.DataSource
+            If dv IsNot Nothing Then
+                If dv.Count > 0 Then
+                    dv.RowFilter = "Ghi_chu_thi = ''"
+                    grcViewDanhSachThi.DataSource = dv
+                    txtSo_sv.Text = dv.Count
+                End If
+            End If
+        Catch ex As Exception
+
+        End Try
+
+
     End Sub
 End Class

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ESS.BLL
+</name>
+</assembly>
+<members>
+<member name="F:ESS.BLL.Business.PhanLop_BLL.mFiledID">
+	<summary>
+ ''''''
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ESS.BLL.DiemThiChiTiet_BLL.LoadThanhPhanThi(System.String,System.Int32)">
+	<summary>
+ Load thành phần thi chi tiết của 1 môn trong lớp , vd: Viết, vấn đáp,...
+ </summary>
+	<param name="dsID_lop"></param>
+	<param name="ID_mon"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

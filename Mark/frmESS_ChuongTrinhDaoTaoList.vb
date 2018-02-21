@@ -4,6 +4,10 @@ Imports ESS.Entity.Entity
 Imports ESS.Catalogue
 Imports ESS.Machine
 Imports System
+Imports DevExpress.XtraEditors.Controls
+Imports DevExpress.XtraEditors.Repository
+Imports DevExpress.XtraEditors
+
 Public Class frmESS_ChuongTrinhDaoTaoList
     Private mID_dt As Integer = 0
     Private mID_he As Integer = 0
@@ -25,6 +29,27 @@ Public Class frmESS_ChuongTrinhDaoTaoList
 #Region "Form Events"
     Private Sub frmESS_ChuongTrinhDaoTaoList_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Try
+            'Dim dt As DataTable
+            'dt = ESS.Machine.UDB.SelectTable("SELECT DISTINCT Quy_che, N'Quy chế ' + CONVERT(nvarchar(10),Quy_che) Ten_quy_che FROM MARK_ThamSoQuyChe")
+            RepositoryItemLookUpEdit1.DataSource = ESS.Machine.UDB.SelectTable("SELECT DISTINCT Quy_che, N'Quy chế ' + CONVERT(nvarchar(10),Quy_che) Ten_quy_che FROM MARK_ThamSoQuyChe")
+            RepositoryItemLookUpEdit1.DisplayMember = "Ten_quy_che"
+            RepositoryItemLookUpEdit1.ValueMember = "Quy_che"
+            Dim colQuy_che As New LookUpColumnInfo()
+            colQuy_che.FieldName = "Ten_quy_che"
+            colQuy_che.Caption = "Quy chế"
+            'Dim colHoTen As New LookUpColumnInfo
+            'colHoTen.FieldName = "Ho_ten"
+            'colHoTen.Caption = "Ho ten"
+            RepositoryItemLookUpEdit1.Columns.Add(colQuy_che)
+            'RepositoryItemLookUpEdit1.Columns.Add(colHoTen)
+            AddHandler RepositoryItemLookUpEdit1.CustomDisplayText, AddressOf RepositoryItemLookUpEdit1_CustomDisplayText
+
+            'grvChuongTrinhDaoTaoList.Columns(0).ColumnEdit = editor
+            '' add the second column bound to the same field for easier reference
+            'grvChuongTrinhDaoTaoList.Columns.AddField("Number").VisibleIndex = 1
+
+            'lookUpEdit1.Properties.Assign(editor)
+            'lookUpEdit1.EditValue = 0
 
             dtKienThuc1 = clsDM.DanhMuc_Load("PLAN_ChuongTrinhDaoTaoKienThuc", "ID_kien_thuc", "Ten_kien_thuc")
             Me.Load_Data_CTDT()
@@ -45,8 +70,8 @@ Public Class frmESS_ChuongTrinhDaoTaoList
     End Sub
 #End Region
 
-   
- 
+
+
     Private Sub grvChuongTrinhDaoTaoList_SelectionChanged(ByVal sender As System.Object, ByVal e As DevExpress.Data.SelectionChangedEventArgs) Handles grvChuongTrinhDaoTaoList.SelectionChanged
         Try
             If Loader Then
@@ -84,6 +109,7 @@ Public Class frmESS_ChuongTrinhDaoTaoList
             Dim dvCTDT As DataView = grvChuongTrinhDaoTaoList.DataSource
             ''Update số tín chỉ ở chương trình đào tạo main
 
+
             Dim idx As Integer = 0
             For i As Integer = 0 To dvCTDT.Count - 1
                 If dvCTDT.Item(i).Row.RowState = DataRowState.Modified Then
@@ -95,6 +121,9 @@ Public Class frmESS_ChuongTrinhDaoTaoList
                         'Gán số tín chỉ thay đổi trên DataGridView
                         objCTDT.So_hoc_trinh = dvCTDT.Item(i)("So_hoc_trinh")
                         objCTDT.So_ky_hoc = dvCTDT.Item(i)("So_Ky_hoc")
+                        objCTDT.Quy_che = dvCTDT.Item(i)("Quy_che")
+                        Dim SQL As String = "UPDATE PLAN_ChuongTrinhDaoTao SET Ap_dung_quy_che = " & dvCTDT.Item(i)("Quy_che") & " WHERE ID_dt = " & dvCTDT.Item(i)("ID_dt") & ""
+                        ESS.Machine.UDB.Execute(SQL)
                         'Update vào database
                         clsCTDT.Update_ChuongTrinhDaoTao(objCTDT, dvCTDT.Item(i)("ID_dt"))
                     End If
@@ -541,6 +570,26 @@ Public Class frmESS_ChuongTrinhDaoTaoList
             Exit Sub
         Finally
             Me.Cursor = Cursors.Default
+        End Try
+    End Sub
+    Private Const NotFoundText As String = "???"
+    Private Sub RepositoryItemLookUpEdit1_CustomDisplayText(sender As Object, e As CustomDisplayTextEventArgs) Handles RepositoryItemLookUpEdit1.CustomDisplayText
+        Try
+            Dim props As RepositoryItemLookUpEdit
+            If TypeOf sender Is LookUpEdit Then
+                props = (TryCast(sender, LookUpEdit)).Properties
+            Else
+                props = TryCast(sender, RepositoryItemLookUpEdit)
+            End If
+
+            If props IsNot Nothing AndAlso (TypeOf e.Value Is Integer) Then
+                Dim row As Object = props.GetDataSourceRowByKeyValue(e.Value)
+                If row Is Nothing Then
+                    e.DisplayText = NotFoundText
+                End If
+            End If
+        Catch ex As Exception
+
         End Try
     End Sub
 End Class

@@ -19,233 +19,233 @@ Partial Class frmESS_XetTotNghiep
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmESS_XetTotNghiep))
-        Me.TabControl1 = New System.Windows.Forms.TabControl
-        Me.TabTotNghiep = New System.Windows.Forms.TabPage
-        Me.optChungChi = New System.Windows.Forms.CheckBox
-        Me.Label12 = New System.Windows.Forms.Label
-        Me.txtDo_dai_So_van_bang = New System.Windows.Forms.TextBox
-        Me.Label10 = New System.Windows.Forms.Label
-        Me.txtDo_dai_So_hieu = New System.Windows.Forms.TextBox
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.txtTien_to_SoVaoSo = New System.Windows.Forms.TextBox
-        Me.btnSave_SoVaoSo = New System.Windows.Forms.Button
-        Me.txtTu_So_SoVaoSo = New System.Windows.Forms.TextBox
-        Me.Label9 = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.txtTienTo_SoHieu = New System.Windows.Forms.TextBox
-        Me.dtmNgay_QD = New System.Windows.Forms.DateTimePicker
-        Me.lblNgay_sinh = New System.Windows.Forms.Label
-        Me.txtSo_QD = New System.Windows.Forms.TextBox
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.grcTotNghiep = New DevExpress.XtraGrid.GridControl
-        Me.grvTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.Lock = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.Chon = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn1 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colHo_ten = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colNgay_sinh = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTen_lop = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn3 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.PhanTram_ThiLai = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colSo_tin_chi = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.So_QD = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn2 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn5 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.ColSoHieu = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.ColSo_vao_so = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn4 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colDiem_toan_khoa = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.btnLap_so_SoHieu = New System.Windows.Forms.Button
-        Me.cmbNam_hoc = New System.Windows.Forms.ComboBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.txtTu_so_so_hieu = New System.Windows.Forms.TextBox
-        Me.cmbLan_thu = New System.Windows.Forms.ComboBox
-        Me.Label11 = New System.Windows.Forms.Label
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.labSo_sv = New System.Windows.Forms.Label
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.cbChon = New System.Windows.Forms.CheckBox
-        Me.Label13 = New System.Windows.Forms.Label
-        Me.TrvLop_ChuanHoa1 = New ESS_Mark.TrvLop_ChuanHoa
-        Me.BarDockControl33 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl34 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl35 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl36 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl37 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl38 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl39 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl40 = New DevExpress.XtraBars.BarDockControl
-        Me.TabChuaTotNghiep = New System.Windows.Forms.TabPage
-        Me.ckNo_TN = New System.Windows.Forms.CheckBox
-        Me.TrvLop_ChuanHoa2 = New ESS_Mark.TrvLop_ChuanHoa
-        Me.grcNoTotNghiep = New DevExpress.XtraGrid.GridControl
-        Me.grvNoTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.colChon1 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn7 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn8 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn9 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn10 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn11 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn12 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn14 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colDiem_toan_khoa1 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.cmbNam_hoc_CTN = New System.Windows.Forms.ComboBox
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.lblSV_CTN = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.cmdPrint_DS_totnghiep = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdPrint_BD_toankhoa = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdPrint_QD_totnghiep = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdPrint_DS_nototnghiep = New DevExpress.XtraBars.BarButtonItem
-        Me.btnInBang_TN = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem2 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem3 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem4 = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdTongHop_XetTN = New DevExpress.XtraBars.BarButtonItem
-        Me.barDockControlTop = New DevExpress.XtraBars.BarDockControl
-        Me.barDockControlBottom = New DevExpress.XtraBars.BarDockControl
-        Me.barDockControlLeft = New DevExpress.XtraBars.BarDockControl
-        Me.barDockControlRight = New DevExpress.XtraBars.BarDockControl
-        Me.cmdClose = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdXetTN = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdLapSB = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdExport = New DevExpress.XtraEditors.SimpleButton
-        Me.cmdPrintList = New DevExpress.XtraEditors.DropDownButton
+        Me.TabControl1 = New System.Windows.Forms.TabControl()
+        Me.TabTotNghiep = New System.Windows.Forms.TabPage()
+        Me.optChungChi = New System.Windows.Forms.CheckBox()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.txtDo_dai_So_van_bang = New System.Windows.Forms.TextBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.txtDo_dai_So_hieu = New System.Windows.Forms.TextBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.txtTien_to_SoVaoSo = New System.Windows.Forms.TextBox()
+        Me.btnSave_SoVaoSo = New System.Windows.Forms.Button()
+        Me.txtTu_So_SoVaoSo = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtTienTo_SoHieu = New System.Windows.Forms.TextBox()
+        Me.dtmNgay_QD = New System.Windows.Forms.DateTimePicker()
+        Me.lblNgay_sinh = New System.Windows.Forms.Label()
+        Me.txtSo_QD = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.grcTotNghiep = New DevExpress.XtraGrid.GridControl()
+        Me.grvTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.Lock = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.Chon = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn1 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colHo_ten = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colNgay_sinh = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTen_lop = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn3 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.PhanTram_ThiLai = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colSo_tin_chi = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.So_QD = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn2 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn5 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.ColSoHieu = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.ColSo_vao_so = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn4 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colDiem_toan_khoa = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.btnLap_so_SoHieu = New System.Windows.Forms.Button()
+        Me.cmbNam_hoc = New System.Windows.Forms.ComboBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.txtTu_so_so_hieu = New System.Windows.Forms.TextBox()
+        Me.cmbLan_thu = New System.Windows.Forms.ComboBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.labSo_sv = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.cbChon = New System.Windows.Forms.CheckBox()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.TrvLop_ChuanHoa1 = New ESS_Mark.TrvLop_ChuanHoa()
+        Me.BarDockControl33 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl34 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl35 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl36 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl37 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl38 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl39 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl40 = New DevExpress.XtraBars.BarDockControl()
+        Me.TabChuaTotNghiep = New System.Windows.Forms.TabPage()
+        Me.ckNo_TN = New System.Windows.Forms.CheckBox()
+        Me.TrvLop_ChuanHoa2 = New ESS_Mark.TrvLop_ChuanHoa()
+        Me.grcNoTotNghiep = New DevExpress.XtraGrid.GridControl()
+        Me.grvNoTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.colChon1 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn7 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn8 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn9 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn10 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn11 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn12 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn14 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colDiem_toan_khoa1 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.cmbNam_hoc_CTN = New System.Windows.Forms.ComboBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.lblSV_CTN = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.cmdPrint_DS_totnghiep = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdPrint_BD_toankhoa = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem1 = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdPrint_QD_totnghiep = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdPrint_DS_nototnghiep = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnInBang_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem2 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem3 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem4 = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdTongHop_XetTN = New DevExpress.XtraBars.BarButtonItem()
+        Me.barDockControlTop = New DevExpress.XtraBars.BarDockControl()
+        Me.barDockControlBottom = New DevExpress.XtraBars.BarDockControl()
+        Me.barDockControlLeft = New DevExpress.XtraBars.BarDockControl()
+        Me.barDockControlRight = New DevExpress.XtraBars.BarDockControl()
+        Me.cmdClose = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdXetTN = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdLapSB = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdExport = New DevExpress.XtraEditors.SimpleButton()
+        Me.cmdPrintList = New DevExpress.XtraEditors.DropDownButton()
         Me.PopupMenu3 = New DevExpress.XtraBars.PopupMenu(Me.components)
-        Me.btnDS_TN = New DevExpress.XtraBars.BarButtonItem
-        Me.btnDS_chua_TN = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBangDiem_TN = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBangDiem_TN_ChuaDat = New DevExpress.XtraBars.BarButtonItem
-        Me.BangDiem_Dat = New DevExpress.XtraBars.BarButtonItem
-        Me.btnChung_nhan_TN = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBang_diem = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem38 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem39 = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBang_TN = New DevExpress.XtraBars.BarButtonItem
-        Me.btnThong_ke_XL = New DevExpress.XtraBars.BarButtonItem
-        Me.btnDS_cap_bang_TN = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem37 = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBang_diem_hoc_tap_nhom_ky = New DevExpress.XtraBars.BarButtonItem
+        Me.btnDS_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnDS_chua_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBangDiem_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBangDiem_TN_ChuaDat = New DevExpress.XtraBars.BarButtonItem()
+        Me.BangDiem_Dat = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnChung_nhan_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBang_diem = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem38 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem39 = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBang_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnThong_ke_XL = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnDS_cap_bang_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem37 = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBang_diem_hoc_tap_nhom_ky = New DevExpress.XtraBars.BarButtonItem()
         Me.BarManager2 = New DevExpress.XtraBars.BarManager(Me.components)
         Me.BarAndDockingController1 = New DevExpress.XtraBars.BarAndDockingController(Me.components)
-        Me.BarDockControl45 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl46 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl47 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl48 = New DevExpress.XtraBars.BarDockControl
-        Me.btnBang_diem_Mau2 = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBang_diem_Mau3 = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBang_diem_Mau4 = New DevExpress.XtraBars.BarButtonItem
-        Me.btnBang_diem_Mau5 = New DevExpress.XtraBars.BarButtonItem
-        Me.Bang_diem_TN_Mau2 = New DevExpress.XtraBars.BarButtonItem
-        Me.lblXet_TN = New System.Windows.Forms.Label
-        Me.cmdSave_QD = New DevExpress.XtraEditors.SimpleButton
-        Me.SimpleButton1 = New DevExpress.XtraEditors.SimpleButton
-        Me.SimpleButton2 = New DevExpress.XtraEditors.SimpleButton
-        Me.SimpleButton3 = New DevExpress.XtraEditors.SimpleButton
-        Me.BarButtonItem5 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem6 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem7 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem8 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl3 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl4 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl5 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl6 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl7 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl8 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem9 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem10 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem11 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem12 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl9 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl10 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl11 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl12 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem13 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem14 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem15 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem16 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl13 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl14 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl15 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl16 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem17 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem18 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem19 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem20 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl17 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl18 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl19 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl20 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem21 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem22 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem23 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem24 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl21 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl22 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl23 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl24 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem25 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem26 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem27 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem28 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl25 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl26 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl27 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl28 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem29 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem30 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem31 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem32 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl29 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl30 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl31 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl32 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem33 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem34 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem35 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem36 = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdPrint_TheoKy = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdPrint_TheoKhoiKT = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdAdd_HP = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdRemove_HP = New DevExpress.XtraBars.BarButtonItem
-        Me.cmdAdd_CT = New DevExpress.XtraBars.BarButtonItem
-        Me.btnThuong = New DevExpress.XtraBars.BarButtonItem
-        Me.btnGianThu = New DevExpress.XtraBars.BarButtonItem
-        Me.btnDacBiet = New DevExpress.XtraBars.BarButtonItem
-        Me.bbtnTH_TheoNguoiThu = New DevExpress.XtraBars.BarButtonItem
-        Me.bbtnInTH = New DevExpress.XtraBars.BarButtonItem
-        Me.btnTinChi = New DevExpress.XtraBars.BarButtonItem
-        Me.BarDockControl41 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl42 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl43 = New DevExpress.XtraBars.BarDockControl
-        Me.BarDockControl44 = New DevExpress.XtraBars.BarDockControl
-        Me.BarButtonItem44 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem45 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem46 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem47 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem48 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem49 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem50 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem51 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem52 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem53 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem54 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem55 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem56 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem57 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem58 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem59 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem60 = New DevExpress.XtraBars.BarButtonItem
-        Me.BarButtonItem61 = New DevExpress.XtraBars.BarButtonItem
+        Me.BarDockControl45 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl46 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl47 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl48 = New DevExpress.XtraBars.BarDockControl()
+        Me.btnBang_diem_Mau2 = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBang_diem_Mau3 = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBang_diem_Mau4 = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnBang_diem_Mau5 = New DevExpress.XtraBars.BarButtonItem()
+        Me.Bang_diem_TN_Mau2 = New DevExpress.XtraBars.BarButtonItem()
+        Me.lblXet_TN = New System.Windows.Forms.Label()
+        Me.cmdSave_QD = New DevExpress.XtraEditors.SimpleButton()
+        Me.SimpleButton1 = New DevExpress.XtraEditors.SimpleButton()
+        Me.SimpleButton2 = New DevExpress.XtraEditors.SimpleButton()
+        Me.SimpleButton3 = New DevExpress.XtraEditors.SimpleButton()
+        Me.BarButtonItem5 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem6 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem7 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem8 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl3 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl4 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl5 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl6 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl7 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl8 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem9 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem10 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem11 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem12 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl9 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl10 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl11 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl12 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem13 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem14 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem15 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem16 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl13 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl14 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl15 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl16 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem17 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem18 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem19 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem20 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl17 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl18 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl19 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl20 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem21 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem22 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem23 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem24 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl21 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl22 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl23 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl24 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem25 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem26 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem27 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem28 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl25 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl26 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl27 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl28 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem29 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem30 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem31 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem32 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl29 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl30 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl31 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl32 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem33 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem34 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem35 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem36 = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdPrint_TheoKy = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdPrint_TheoKhoiKT = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdAdd_HP = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdRemove_HP = New DevExpress.XtraBars.BarButtonItem()
+        Me.cmdAdd_CT = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnThuong = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnGianThu = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnDacBiet = New DevExpress.XtraBars.BarButtonItem()
+        Me.bbtnTH_TheoNguoiThu = New DevExpress.XtraBars.BarButtonItem()
+        Me.bbtnInTH = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnTinChi = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarDockControl41 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl42 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl43 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarDockControl44 = New DevExpress.XtraBars.BarDockControl()
+        Me.BarButtonItem44 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem45 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem46 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem47 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem48 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem49 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem50 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem51 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem52 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem53 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem54 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem55 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem56 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem57 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem58 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem59 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem60 = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem61 = New DevExpress.XtraBars.BarButtonItem()
         Me.imageCollection1 = New DevExpress.Utils.ImageCollection(Me.components)
-        Me.Bar3 = New DevExpress.XtraBars.Bar
-        Me.Bar2 = New DevExpress.XtraBars.Bar
-        Me.Bar1 = New DevExpress.XtraBars.Bar
+        Me.Bar3 = New DevExpress.XtraBars.Bar()
+        Me.Bar2 = New DevExpress.XtraBars.Bar()
+        Me.Bar1 = New DevExpress.XtraBars.Bar()
         Me.TabControl1.SuspendLayout()
         Me.TabTotNghiep.SuspendLayout()
         CType(Me.grcTotNghiep, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -262,8 +262,8 @@ Partial Class frmESS_XetTotNghiep
         'TabControl1
         '
         Me.TabControl1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TabControl1.Controls.Add(Me.TabTotNghiep)
         Me.TabControl1.Controls.Add(Me.TabChuaTotNghiep)
         Me.TabControl1.Location = New System.Drawing.Point(0, 47)
@@ -487,12 +487,12 @@ Partial Class frmESS_XetTotNghiep
         'grcTotNghiep
         '
         Me.grcTotNghiep.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grcTotNghiep.Location = New System.Drawing.Point(254, 92)
         Me.grcTotNghiep.MainView = Me.grvTotNghiep
         Me.grcTotNghiep.Name = "grcTotNghiep"
-        Me.grcTotNghiep.Size = New System.Drawing.Size(849, 357)
+        Me.grcTotNghiep.Size = New System.Drawing.Size(849, 351)
         Me.grcTotNghiep.TabIndex = 118
         Me.grcTotNghiep.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.grvTotNghiep})
         '
@@ -781,60 +781,68 @@ Partial Class frmESS_XetTotNghiep
         'TrvLop_ChuanHoa1
         '
         Me.TrvLop_ChuanHoa1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.TrvLop_ChuanHoa1.BackColor = System.Drawing.Color.Transparent
         Me.TrvLop_ChuanHoa1.dtLop = Nothing
         Me.TrvLop_ChuanHoa1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TrvLop_ChuanHoa1.Location = New System.Drawing.Point(-1, 28)
         Me.TrvLop_ChuanHoa1.Margin = New System.Windows.Forms.Padding(4)
         Me.TrvLop_ChuanHoa1.Name = "TrvLop_ChuanHoa1"
-        Me.TrvLop_ChuanHoa1.Size = New System.Drawing.Size(253, 424)
+        Me.TrvLop_ChuanHoa1.Size = New System.Drawing.Size(253, 418)
         Me.TrvLop_ChuanHoa1.TabIndex = 170
         '
         'BarDockControl33
         '
+        Me.BarDockControl33.CausesValidation = False
         Me.BarDockControl33.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl33.Location = New System.Drawing.Point(3, 3)
         Me.BarDockControl33.Size = New System.Drawing.Size(1098, 0)
         '
         'BarDockControl34
         '
+        Me.BarDockControl34.CausesValidation = False
         Me.BarDockControl34.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl34.Location = New System.Drawing.Point(3, 455)
         Me.BarDockControl34.Size = New System.Drawing.Size(1098, 0)
         '
         'BarDockControl35
         '
+        Me.BarDockControl35.CausesValidation = False
         Me.BarDockControl35.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl35.Location = New System.Drawing.Point(3, 3)
         Me.BarDockControl35.Size = New System.Drawing.Size(0, 452)
         '
         'BarDockControl36
         '
+        Me.BarDockControl36.CausesValidation = False
         Me.BarDockControl36.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl36.Location = New System.Drawing.Point(1101, 3)
         Me.BarDockControl36.Size = New System.Drawing.Size(0, 452)
         '
         'BarDockControl37
         '
+        Me.BarDockControl37.CausesValidation = False
         Me.BarDockControl37.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl37.Location = New System.Drawing.Point(3, 3)
         Me.BarDockControl37.Size = New System.Drawing.Size(1098, 0)
         '
         'BarDockControl38
         '
+        Me.BarDockControl38.CausesValidation = False
         Me.BarDockControl38.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl38.Location = New System.Drawing.Point(3, 455)
         Me.BarDockControl38.Size = New System.Drawing.Size(1098, 0)
         '
         'BarDockControl39
         '
+        Me.BarDockControl39.CausesValidation = False
         Me.BarDockControl39.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl39.Location = New System.Drawing.Point(3, 3)
         Me.BarDockControl39.Size = New System.Drawing.Size(0, 452)
         '
         'BarDockControl40
         '
+        Me.BarDockControl40.CausesValidation = False
         Me.BarDockControl40.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl40.Location = New System.Drawing.Point(1101, 3)
         Me.BarDockControl40.Size = New System.Drawing.Size(0, 452)
@@ -870,7 +878,7 @@ Partial Class frmESS_XetTotNghiep
         'TrvLop_ChuanHoa2
         '
         Me.TrvLop_ChuanHoa2.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.TrvLop_ChuanHoa2.BackColor = System.Drawing.Color.Transparent
         Me.TrvLop_ChuanHoa2.dtLop = Nothing
         Me.TrvLop_ChuanHoa2.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -883,8 +891,8 @@ Partial Class frmESS_XetTotNghiep
         'grcNoTotNghiep
         '
         Me.grcNoTotNghiep.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grcNoTotNghiep.Location = New System.Drawing.Point(255, 66)
         Me.grcNoTotNghiep.MainView = Me.grvNoTotNghiep
         Me.grcNoTotNghiep.Name = "grcNoTotNghiep"
@@ -1102,24 +1110,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'barDockControlTop
         '
+        Me.barDockControlTop.CausesValidation = False
         Me.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top
         Me.barDockControlTop.Location = New System.Drawing.Point(0, 0)
         Me.barDockControlTop.Size = New System.Drawing.Size(1112, 0)
         '
         'barDockControlBottom
         '
+        Me.barDockControlBottom.CausesValidation = False
         Me.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.barDockControlBottom.Location = New System.Drawing.Point(0, 566)
         Me.barDockControlBottom.Size = New System.Drawing.Size(1112, 0)
         '
         'barDockControlLeft
         '
+        Me.barDockControlLeft.CausesValidation = False
         Me.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left
         Me.barDockControlLeft.Location = New System.Drawing.Point(0, 0)
         Me.barDockControlLeft.Size = New System.Drawing.Size(0, 566)
         '
         'barDockControlRight
         '
+        Me.barDockControlRight.CausesValidation = False
         Me.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right
         Me.barDockControlRight.Location = New System.Drawing.Point(1112, 0)
         Me.barDockControlRight.Size = New System.Drawing.Size(0, 566)
@@ -1129,10 +1141,11 @@ Partial Class frmESS_XetTotNghiep
         Me.cmdClose.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdClose.Appearance.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmdClose.Appearance.Options.UseFont = True
+        Me.cmdClose.Image = Global.ESS_Mark.My.Resources.Resources.quit1
         Me.cmdClose.ImageIndex = 4
-        Me.cmdClose.Location = New System.Drawing.Point(995, 533)
+        Me.cmdClose.Location = New System.Drawing.Point(995, 535)
         Me.cmdClose.Name = "cmdClose"
-        Me.cmdClose.Size = New System.Drawing.Size(115, 30)
+        Me.cmdClose.Size = New System.Drawing.Size(115, 28)
         Me.cmdClose.TabIndex = 174
         Me.cmdClose.Text = "Thoát"
         '
@@ -1141,10 +1154,11 @@ Partial Class frmESS_XetTotNghiep
         Me.cmdXetTN.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdXetTN.Appearance.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmdXetTN.Appearance.Options.UseFont = True
+        Me.cmdXetTN.Image = Global.ESS_Mark.My.Resources.Resources.Search
         Me.cmdXetTN.ImageIndex = 15
-        Me.cmdXetTN.Location = New System.Drawing.Point(318, 534)
+        Me.cmdXetTN.Location = New System.Drawing.Point(315, 536)
         Me.cmdXetTN.Name = "cmdXetTN"
-        Me.cmdXetTN.Size = New System.Drawing.Size(115, 30)
+        Me.cmdXetTN.Size = New System.Drawing.Size(115, 28)
         Me.cmdXetTN.TabIndex = 173
         Me.cmdXetTN.Text = "Xét tốt nghiệp"
         '
@@ -1153,10 +1167,11 @@ Partial Class frmESS_XetTotNghiep
         Me.cmdLapSB.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdLapSB.Appearance.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmdLapSB.Appearance.Options.UseFont = True
+        Me.cmdLapSB.Image = Global.ESS_Mark.My.Resources.Resources.DoiChieuDuLieu
         Me.cmdLapSB.ImageIndex = 3
-        Me.cmdLapSB.Location = New System.Drawing.Point(543, 533)
+        Me.cmdLapSB.Location = New System.Drawing.Point(538, 535)
         Me.cmdLapSB.Name = "cmdLapSB"
-        Me.cmdLapSB.Size = New System.Drawing.Size(115, 30)
+        Me.cmdLapSB.Size = New System.Drawing.Size(115, 28)
         Me.cmdLapSB.TabIndex = 172
         Me.cmdLapSB.Text = "Lập số văn bằng"
         '
@@ -1165,10 +1180,11 @@ Partial Class frmESS_XetTotNghiep
         Me.cmdExport.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdExport.Appearance.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmdExport.Appearance.Options.UseFont = True
+        Me.cmdExport.Image = Global.ESS_Mark.My.Resources.Resources.Excel
         Me.cmdExport.ImageIndex = 6
-        Me.cmdExport.Location = New System.Drawing.Point(874, 533)
+        Me.cmdExport.Location = New System.Drawing.Point(876, 535)
         Me.cmdExport.Name = "cmdExport"
-        Me.cmdExport.Size = New System.Drawing.Size(115, 30)
+        Me.cmdExport.Size = New System.Drawing.Size(115, 28)
         Me.cmdExport.TabIndex = 171
         Me.cmdExport.Text = "Xuất Excel"
         '
@@ -1178,10 +1194,11 @@ Partial Class frmESS_XetTotNghiep
         Me.cmdPrintList.Appearance.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmdPrintList.Appearance.Options.UseFont = True
         Me.cmdPrintList.DropDownControl = Me.PopupMenu3
+        Me.cmdPrintList.Image = Global.ESS_Mark.My.Resources.Resources.Print
         Me.cmdPrintList.ImageIndex = 16
-        Me.cmdPrintList.Location = New System.Drawing.Point(759, 533)
+        Me.cmdPrintList.Location = New System.Drawing.Point(759, 535)
         Me.cmdPrintList.Name = "cmdPrintList"
-        Me.cmdPrintList.Size = New System.Drawing.Size(113, 30)
+        Me.cmdPrintList.Size = New System.Drawing.Size(113, 28)
         Me.cmdPrintList.TabIndex = 170
         Me.cmdPrintList.Text = "In danh sách"
         '
@@ -1290,27 +1307,33 @@ Partial Class frmESS_XetTotNghiep
         '
         Me.BarAndDockingController1.PaintStyleName = "Office2003"
         Me.BarAndDockingController1.PropertiesBar.AllowLinkLighting = False
+        Me.BarAndDockingController1.PropertiesBar.DefaultGlyphSize = New System.Drawing.Size(16, 16)
+        Me.BarAndDockingController1.PropertiesBar.DefaultLargeGlyphSize = New System.Drawing.Size(32, 32)
         '
         'BarDockControl45
         '
+        Me.BarDockControl45.CausesValidation = False
         Me.BarDockControl45.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl45.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl45.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl46
         '
+        Me.BarDockControl46.CausesValidation = False
         Me.BarDockControl46.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl46.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl46.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl47
         '
+        Me.BarDockControl47.CausesValidation = False
         Me.BarDockControl47.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl47.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl47.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl48
         '
+        Me.BarDockControl48.CausesValidation = False
         Me.BarDockControl48.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl48.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl48.Size = New System.Drawing.Size(0, 566)
@@ -1348,7 +1371,7 @@ Partial Class frmESS_XetTotNghiep
         'lblXet_TN
         '
         Me.lblXet_TN.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.lblXet_TN.BackColor = System.Drawing.Color.Transparent
         Me.lblXet_TN.Font = New System.Drawing.Font("Arial", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblXet_TN.Location = New System.Drawing.Point(414, 5)
@@ -1363,10 +1386,11 @@ Partial Class frmESS_XetTotNghiep
         Me.cmdSave_QD.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdSave_QD.Appearance.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmdSave_QD.Appearance.Options.UseFont = True
+        Me.cmdSave_QD.Image = Global.ESS_Mark.My.Resources.Resources.NhapTruong
         Me.cmdSave_QD.ImageIndex = 11
-        Me.cmdSave_QD.Location = New System.Drawing.Point(659, 534)
+        Me.cmdSave_QD.Location = New System.Drawing.Point(657, 536)
         Me.cmdSave_QD.Name = "cmdSave_QD"
-        Me.cmdSave_QD.Size = New System.Drawing.Size(98, 30)
+        Me.cmdSave_QD.Size = New System.Drawing.Size(98, 28)
         Me.cmdSave_QD.TabIndex = 174
         Me.cmdSave_QD.Text = "Cập nhật QĐ"
         '
@@ -1401,10 +1425,11 @@ Partial Class frmESS_XetTotNghiep
         Me.SimpleButton3.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.SimpleButton3.Appearance.Font = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.SimpleButton3.Appearance.Options.UseFont = True
+        Me.SimpleButton3.Image = Global.ESS_Mark.My.Resources.Resources.Save
         Me.SimpleButton3.ImageIndex = 8
-        Me.SimpleButton3.Location = New System.Drawing.Point(439, 534)
+        Me.SimpleButton3.Location = New System.Drawing.Point(432, 536)
         Me.SimpleButton3.Name = "SimpleButton3"
-        Me.SimpleButton3.Size = New System.Drawing.Size(100, 30)
+        Me.SimpleButton3.Size = New System.Drawing.Size(100, 28)
         Me.SimpleButton3.TabIndex = 190
         Me.SimpleButton3.Text = "Chốt DS TN"
         '
@@ -1438,48 +1463,56 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl1
         '
+        Me.BarDockControl1.CausesValidation = False
         Me.BarDockControl1.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl1.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl1.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl2
         '
+        Me.BarDockControl2.CausesValidation = False
         Me.BarDockControl2.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl2.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl2.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl3
         '
+        Me.BarDockControl3.CausesValidation = False
         Me.BarDockControl3.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl3.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl3.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl4
         '
+        Me.BarDockControl4.CausesValidation = False
         Me.BarDockControl4.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl4.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl4.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl5
         '
+        Me.BarDockControl5.CausesValidation = False
         Me.BarDockControl5.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl5.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl5.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl6
         '
+        Me.BarDockControl6.CausesValidation = False
         Me.BarDockControl6.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl6.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl6.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl7
         '
+        Me.BarDockControl7.CausesValidation = False
         Me.BarDockControl7.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl7.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl7.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl8
         '
+        Me.BarDockControl8.CausesValidation = False
         Me.BarDockControl8.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl8.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl8.Size = New System.Drawing.Size(0, 566)
@@ -1514,24 +1547,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl9
         '
+        Me.BarDockControl9.CausesValidation = False
         Me.BarDockControl9.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl9.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl9.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl10
         '
+        Me.BarDockControl10.CausesValidation = False
         Me.BarDockControl10.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl10.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl10.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl11
         '
+        Me.BarDockControl11.CausesValidation = False
         Me.BarDockControl11.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl11.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl11.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl12
         '
+        Me.BarDockControl12.CausesValidation = False
         Me.BarDockControl12.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl12.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl12.Size = New System.Drawing.Size(0, 566)
@@ -1566,24 +1603,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl13
         '
+        Me.BarDockControl13.CausesValidation = False
         Me.BarDockControl13.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl13.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl13.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl14
         '
+        Me.BarDockControl14.CausesValidation = False
         Me.BarDockControl14.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl14.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl14.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl15
         '
+        Me.BarDockControl15.CausesValidation = False
         Me.BarDockControl15.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl15.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl15.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl16
         '
+        Me.BarDockControl16.CausesValidation = False
         Me.BarDockControl16.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl16.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl16.Size = New System.Drawing.Size(0, 566)
@@ -1618,24 +1659,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl17
         '
+        Me.BarDockControl17.CausesValidation = False
         Me.BarDockControl17.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl17.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl17.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl18
         '
+        Me.BarDockControl18.CausesValidation = False
         Me.BarDockControl18.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl18.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl18.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl19
         '
+        Me.BarDockControl19.CausesValidation = False
         Me.BarDockControl19.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl19.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl19.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl20
         '
+        Me.BarDockControl20.CausesValidation = False
         Me.BarDockControl20.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl20.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl20.Size = New System.Drawing.Size(0, 566)
@@ -1670,24 +1715,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl21
         '
+        Me.BarDockControl21.CausesValidation = False
         Me.BarDockControl21.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl21.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl21.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl22
         '
+        Me.BarDockControl22.CausesValidation = False
         Me.BarDockControl22.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl22.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl22.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl23
         '
+        Me.BarDockControl23.CausesValidation = False
         Me.BarDockControl23.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl23.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl23.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl24
         '
+        Me.BarDockControl24.CausesValidation = False
         Me.BarDockControl24.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl24.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl24.Size = New System.Drawing.Size(0, 566)
@@ -1722,24 +1771,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl25
         '
+        Me.BarDockControl25.CausesValidation = False
         Me.BarDockControl25.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl25.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl25.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl26
         '
+        Me.BarDockControl26.CausesValidation = False
         Me.BarDockControl26.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl26.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl26.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl27
         '
+        Me.BarDockControl27.CausesValidation = False
         Me.BarDockControl27.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl27.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl27.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl28
         '
+        Me.BarDockControl28.CausesValidation = False
         Me.BarDockControl28.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl28.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl28.Size = New System.Drawing.Size(0, 566)
@@ -1774,24 +1827,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl29
         '
+        Me.BarDockControl29.CausesValidation = False
         Me.BarDockControl29.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl29.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl29.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl30
         '
+        Me.BarDockControl30.CausesValidation = False
         Me.BarDockControl30.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl30.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl30.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl31
         '
+        Me.BarDockControl31.CausesValidation = False
         Me.BarDockControl31.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl31.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl31.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl32
         '
+        Me.BarDockControl32.CausesValidation = False
         Me.BarDockControl32.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl32.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl32.Size = New System.Drawing.Size(0, 566)
@@ -1900,24 +1957,28 @@ Partial Class frmESS_XetTotNghiep
         '
         'BarDockControl41
         '
+        Me.BarDockControl41.CausesValidation = False
         Me.BarDockControl41.Dock = System.Windows.Forms.DockStyle.Top
         Me.BarDockControl41.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl41.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl42
         '
+        Me.BarDockControl42.CausesValidation = False
         Me.BarDockControl42.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.BarDockControl42.Location = New System.Drawing.Point(0, 566)
         Me.BarDockControl42.Size = New System.Drawing.Size(1112, 0)
         '
         'BarDockControl43
         '
+        Me.BarDockControl43.CausesValidation = False
         Me.BarDockControl43.Dock = System.Windows.Forms.DockStyle.Left
         Me.BarDockControl43.Location = New System.Drawing.Point(0, 0)
         Me.BarDockControl43.Size = New System.Drawing.Size(0, 566)
         '
         'BarDockControl44
         '
+        Me.BarDockControl44.CausesValidation = False
         Me.BarDockControl44.Dock = System.Windows.Forms.DockStyle.Right
         Me.BarDockControl44.Location = New System.Drawing.Point(1112, 0)
         Me.BarDockControl44.Size = New System.Drawing.Size(0, 566)
@@ -2144,6 +2205,7 @@ Partial Class frmESS_XetTotNghiep
         CType(Me.BarAndDockingController1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.imageCollection1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents TabControl1 As System.Windows.Forms.TabControl

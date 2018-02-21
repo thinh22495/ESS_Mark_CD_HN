@@ -1,0 +1,13 @@
+SCC = This is a Source Code Control file
+
+[ThienAn.Machine.vbproj]
+SCC_Aux_Path = "\\thienan\Thienan_SourceSafe_New"
+SCC_Project_Name = "$/UNISOFT_CDCD_HaiPhong/UnisoftDatabase", XJGCAAAA
+
+[UniSoft.sln]
+SCC_Aux_Path = "\\thienan\SourceSafe_ESS"
+SCC_Project_Name = "$/ESS_NGHE_CNC_HN/Connect", IFGAAAAA
+
+[ESS_.Machine.vbproj]
+SCC_Aux_Path = "\\thienan\SourceSafe_ESS"
+SCC_Project_Name = "$/ESS_NGHE_CNC_HN/Connect", IFGAAAAA

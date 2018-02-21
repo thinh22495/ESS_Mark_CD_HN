@@ -22,28 +22,29 @@ Partial Class frmESS_DMHeDaoTao
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
-        Me.DataGridViewDM = New System.Windows.Forms.DataGridView
-        Me.ToolStrip = New System.Windows.Forms.ToolStrip
-        Me.cmdAdd = New System.Windows.Forms.ToolStripButton
-        Me.cmdEdit = New System.Windows.Forms.ToolStripButton
-        Me.cmdDelete = New System.Windows.Forms.ToolStripButton
-        Me.cmdClose = New System.Windows.Forms.ToolStripButton
-        Me.cmdSave = New System.Windows.Forms.ToolStripButton
-        Me.cmdCancel = New System.Windows.Forms.ToolStripButton
+        Me.components = New System.ComponentModel.Container()
+        Me.DataGridViewDM = New System.Windows.Forms.DataGridView()
+        Me.ToolStrip = New System.Windows.Forms.ToolStrip()
+        Me.cmdAdd = New System.Windows.Forms.ToolStripButton()
+        Me.cmdEdit = New System.Windows.Forms.ToolStripButton()
+        Me.cmdDelete = New System.Windows.Forms.ToolStripButton()
+        Me.cmdClose = New System.Windows.Forms.ToolStripButton()
+        Me.cmdSave = New System.Windows.Forms.ToolStripButton()
+        Me.cmdCancel = New System.Windows.Forms.ToolStripButton()
         Me.ErrorProvider1 = New System.Windows.Forms.ErrorProvider(Me.components)
-        Me.txtTen = New System.Windows.Forms.TextBox
-        Me.txtMa = New System.Windows.Forms.TextBox
-        Me.Label16 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.LabelMa = New System.Windows.Forms.Label
-        Me.LabelTen = New System.Windows.Forms.Label
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.txtQuy_che = New System.Windows.Forms.TextBox
-        Me.txtTenEn = New System.Windows.Forms.TextBox
-        Me.LabelTenEn = New System.Windows.Forms.Label
+        Me.txtTen = New System.Windows.Forms.TextBox()
+        Me.txtMa = New System.Windows.Forms.TextBox()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.LabelMa = New System.Windows.Forms.Label()
+        Me.LabelTen = New System.Windows.Forms.Label()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.cmbQuyChe = New System.Windows.Forms.ComboBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtQuy_che = New System.Windows.Forms.TextBox()
+        Me.txtTenEn = New System.Windows.Forms.TextBox()
+        Me.LabelTenEn = New System.Windows.Forms.Label()
         CType(Me.DataGridViewDM, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.ToolStrip.SuspendLayout()
         CType(Me.ErrorProvider1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -53,8 +54,8 @@ Partial Class frmESS_DMHeDaoTao
         'DataGridViewDM
         '
         Me.DataGridViewDM.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.DataGridViewDM.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridViewDM.Location = New System.Drawing.Point(0, 155)
         Me.DataGridViewDM.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
@@ -194,6 +195,7 @@ Partial Class frmESS_DMHeDaoTao
         'GroupBox1
         '
         Me.GroupBox1.BackColor = System.Drawing.Color.Transparent
+        Me.GroupBox1.Controls.Add(Me.cmbQuyChe)
         Me.GroupBox1.Controls.Add(Me.Label2)
         Me.GroupBox1.Controls.Add(Me.Label3)
         Me.GroupBox1.Controls.Add(Me.txtQuy_che)
@@ -214,6 +216,16 @@ Partial Class frmESS_DMHeDaoTao
         Me.GroupBox1.TabIndex = 34
         Me.GroupBox1.TabStop = False
         '
+        'cmbQuyChe
+        '
+        Me.cmbQuyChe.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest
+        Me.cmbQuyChe.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems
+        Me.cmbQuyChe.FormattingEnabled = True
+        Me.cmbQuyChe.Location = New System.Drawing.Point(140, 95)
+        Me.cmbQuyChe.Name = "cmbQuyChe"
+        Me.cmbQuyChe.Size = New System.Drawing.Size(88, 24)
+        Me.cmbQuyChe.TabIndex = 90
+        '
         'Label2
         '
         Me.Label2.AutoSize = True
@@ -228,7 +240,7 @@ Partial Class frmESS_DMHeDaoTao
         '
         Me.Label3.BackColor = System.Drawing.Color.Transparent
         Me.Label3.ForeColor = System.Drawing.Color.Red
-        Me.Label3.Location = New System.Drawing.Point(241, 92)
+        Me.Label3.Location = New System.Drawing.Point(236, 92)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(28, 30)
         Me.Label3.TabIndex = 88
@@ -239,12 +251,13 @@ Partial Class frmESS_DMHeDaoTao
         '
         Me.txtQuy_che.AutoCompleteCustomSource.AddRange(New String() {"43", "25", "40", "14", "13"})
         Me.txtQuy_che.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.txtQuy_che.Location = New System.Drawing.Point(132, 96)
+        Me.txtQuy_che.Location = New System.Drawing.Point(430, 98)
         Me.txtQuy_che.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.txtQuy_che.MaxLength = 2
         Me.txtQuy_che.Name = "txtQuy_che"
         Me.txtQuy_che.Size = New System.Drawing.Size(108, 23)
         Me.txtQuy_che.TabIndex = 87
+        Me.txtQuy_che.Visible = False
         '
         'txtTenEn
         '
@@ -309,5 +322,6 @@ Partial Class frmESS_DMHeDaoTao
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents txtQuy_che As System.Windows.Forms.TextBox
+    Friend WithEvents cmbQuyChe As System.Windows.Forms.ComboBox
 End Class
 

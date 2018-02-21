@@ -1077,6 +1077,24 @@
     <Compile Include="Report\Minh_24102017\rptBangTongHopDiemKT.vb">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Report\Minh_24102017\rptDanhSachDuKiemTraHetMon.Designer.vb">
+      <DependentUpon>rptDanhSachDuKiemTraHetMon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rptDanhSachDuKiemTraHetMon.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rptDanhSachPhongThiTotNghiep.Designer.vb">
+      <DependentUpon>rptDanhSachPhongThiTotNghiep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rptDanhSachPhongThiTotNghiep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_DanhSachPhongThiThucHanh.Designer.vb">
+      <DependentUpon>rpt_DanhSachPhongThiThucHanh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Minh_24102017\rpt_DanhSachPhongThiThucHanh.vb">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Report\Minh_24102017\rpt_DiemTongKetMonHoc_Mau05a.Designer.vb">
       <DependentUpon>rpt_DiemTongKetMonHoc_Mau05a.vb</DependentUpon>
     </Compile>
@@ -1093,6 +1111,18 @@
       <DependentUpon>rpt_KetQuaThiKetThucMonHoc_Mau04a.vb</DependentUpon>
     </Compile>
     <Compile Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04a.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptDanhSachSinhVienDuDienKienThi.Designer.vb">
+      <DependentUpon>rptDanhSachSinhVienDuDienKienThi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDanhSachSinhVienDuDienKienThi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptExcel.Designer.vb">
+      <DependentUpon>rptExcel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptExcel.vb">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Report\rptTotNghiepLyThuyet.Designer.vb">
@@ -2210,6 +2240,15 @@
     <EmbeddedResource Include="Report\Minh_24102017\rptBangTongHopDiemKT.resx">
       <DependentUpon>rptBangTongHopDiemKT.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Report\Minh_24102017\rptDanhSachDuKiemTraHetMon.resx">
+      <DependentUpon>rptDanhSachDuKiemTraHetMon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Minh_24102017\rptDanhSachPhongThiTotNghiep.resx">
+      <DependentUpon>rptDanhSachPhongThiTotNghiep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Minh_24102017\rpt_DanhSachPhongThiThucHanh.resx">
+      <DependentUpon>rpt_DanhSachPhongThiThucHanh.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Report\Minh_24102017\rpt_DiemTongKetMonHoc_Mau05a.resx">
       <DependentUpon>rpt_DiemTongKetMonHoc_Mau05a.vb</DependentUpon>
     </EmbeddedResource>
@@ -2218,6 +2257,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Report\Minh_24102017\rpt_KetQuaThiKetThucMonHoc_Mau04a.resx">
       <DependentUpon>rpt_KetQuaThiKetThucMonHoc_Mau04a.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDanhSachSinhVienDuDienKienThi.resx">
+      <DependentUpon>rptDanhSachSinhVienDuDienKienThi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptExcel.resx">
+      <DependentUpon>rptExcel.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Report\rptTotNghiepLyThuyet.resx">
       <DependentUpon>rptTotNghiepLyThuyet.vb</DependentUpon>

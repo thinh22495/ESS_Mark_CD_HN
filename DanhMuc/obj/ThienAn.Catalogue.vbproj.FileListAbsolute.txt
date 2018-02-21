@@ -1,0 +1,678 @@
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.BLL.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.Entity.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.Machine.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\Interop.Excel.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.BLL.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.Entity.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\Interop.Excel.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.BLL.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.Entity.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.DAL.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\Interop.Excel.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.DAL.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.BLL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.Entity.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\Interop.Excel.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\Unisoft_catalogue\bin\ThienAn.DAL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.BLL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Entity.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\Interop.Excel.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.DAL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.BLL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Entity.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.DAL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\Interop.Excel.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.DAL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.BLL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Entity.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\Interop.Excel.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.BLL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.Entity.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.DAL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\Interop.Excel.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.DAL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.Catalogue.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.Catalogue.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\C1.Win.C1Report.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.BLL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.Entity.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.UniLibrary.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\C1.Win.C1FlexGrid.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\Interop.Excel.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.UniLibrary.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.Entity.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.BLL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMPhongKTX.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNhaKTX.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeSoHocPhi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemKyHieu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiChungChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangHocLuc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangNamDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepHangTotNghiep.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocBong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiHocTap.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXepLoaiRenLuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMThanhPhanXuatThan.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNhomDoiTuong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanhHieu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTinh.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiRenLuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiKhenThuong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKeHoachKyHieu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMMucHocPhiTinChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet5.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapKhenThuongKyLuat.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiGiayTo.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMLoaiChungChi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhuVuc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHanhVi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocHam.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHocVi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuongHocBong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMXuLy.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapHoiDong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet4.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDiemQuyDoi.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDoiTuong.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMDanToc.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet3.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCapRenLuyen.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucDanhSV.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenMon.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChucVu.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMChuyenNganh.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMToaNha.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet2.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMTang.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMCoSoDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMKhoa.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMNganhDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmDMHeDaoTao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmMsgBox.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet1.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTemplet6.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmThanhPhanDiem.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.frmTieuDeBaoCao.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.Resources.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.vbproj.GenerateResource.Cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll.licenses
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\obj\Debug\ThienAn.Catalogue.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.DAL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\Unisoft_catalogue\bin\ThienAn.DAL.pdb

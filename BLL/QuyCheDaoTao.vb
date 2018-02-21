@@ -30,8 +30,12 @@ Namespace Business
         Sub New()
 
         End Sub
-        Sub New(ByVal ID_he As Integer)
+        Sub New(ByVal ID_he As Integer, ByVal ID_dt As Integer)
             mQuy_che = Load_QuyChe(ID_he)
+            Dim mQC As Integer = Load_quy_che_ID_dt(ID_dt)
+            If mQC > 0 Then
+                mQuy_che = mQC
+            End If
             'Đọc tham số hóa các quy chế đào tạo
             mDiem_chuyen_can = Load_ThamSoQuyChe(Quy_che, "Diem_chuyen_can")
             mDiem_kiem_tra_dat = Load_ThamSoQuyChe(Quy_che, "Diem_kiem_tra_dat")
@@ -394,6 +398,15 @@ Namespace Business
                     Else
                         TBCHP = DiemThi
                     End If
+                Case 9 'Cao đẳng nghề
+                    If So_thanh_phan > 0 Then
+                        'Tính điểm TBC các điểm bộ phận
+                        TBCBP = TongdiemTP / TongPhanTramTP
+                        'Tính điểm TBC Học phần
+                        TBCHP = (TBCBP * TBCBP_he_so + DiemThi * Thi_he_so) / (TBCBP_he_so + Thi_he_so)
+                    Else
+                        TBCHP = DiemThi
+                    End If
             End Select
             'Làm tròn điểm TBCHP theo các quy chế
             TBCHP = Math.Round(TBCHP + 0.000001, TBCHP_lam_tron, MidpointRounding.AwayFromZero)
@@ -427,6 +440,19 @@ Namespace Business
                 Dim dt As DataTable = obj.Load_QuyChe(ID_he)
                 If dt.Rows.Count > 0 Then
                     Return dt.Rows(0)("Quy_che")
+                Else
+                    Return 0
+                End If
+            Catch ex As Exception
+                Throw ex
+            End Try
+        End Function
+        Public Function Load_quy_che_ID_dt(ByVal ID_dt As Integer) As String
+            Try
+                Dim obj As QuyCheDaoTao_DAL = New QuyCheDaoTao_DAL
+                Dim dt As DataTable = obj.Load_quy_che_ID_dt(ID_dt)
+                If dt.Rows.Count > 0 Then
+                    Return dt.Rows(0)("Ap_dung_quy_che")
                 Else
                     Return 0
                 End If

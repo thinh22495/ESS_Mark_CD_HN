@@ -413,4 +413,7 @@ Partial Public Class frmESS_Main
 #End Region
 
 
+    Private Sub RibMain_Click(sender As Object, e As EventArgs) Handles RibMain.Click
+
+    End Sub
 End Class

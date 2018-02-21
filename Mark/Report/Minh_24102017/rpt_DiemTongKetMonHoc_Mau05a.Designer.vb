@@ -58,6 +58,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         Me.XrLabel12 = New DevExpress.XtraReports.UI.XRLabel()
         Me.XrLabel13 = New DevExpress.XtraReports.UI.XRLabel()
         Me.GroupFooter1 = New DevExpress.XtraReports.UI.GroupFooterBand()
+        Me.XrLine1 = New DevExpress.XtraReports.UI.XRLine()
         CType(Me.XrTable2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.XrTable1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -75,7 +76,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         Me.XrTable2.Borders = CType(((DevExpress.XtraPrinting.BorderSide.Left Or DevExpress.XtraPrinting.BorderSide.Right) _
             Or DevExpress.XtraPrinting.BorderSide.Bottom), DevExpress.XtraPrinting.BorderSide)
         Me.XrTable2.Font = New System.Drawing.Font("Times New Roman", 12.0!)
-        Me.XrTable2.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 0.0!)
+        Me.XrTable2.LocationFloat = New DevExpress.Utils.PointFloat(0!, 0!)
         Me.XrTable2.Name = "XrTable2"
         Me.XrTable2.Rows.AddRange(New DevExpress.XtraReports.UI.XRTableRow() {Me.XrTableRow5})
         Me.XrTable2.SizeF = New System.Drawing.SizeF(781.0001!, 25.54164!)
@@ -152,7 +153,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         '
         'ReportHeader
         '
-        Me.ReportHeader.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.XrTable1, Me.XrLabel6, Me.XrLabel4, Me.XrLabel3, Me.Tieu_de_ten_bo, Me.Tieu_de_ten_truong, Me.XrLine2, Me.XrLabel1, Me.lbl_Ten_mon_hoc, Me.lbl_Lop, Me.XrLabel7, Me.lbl_Ngay_thi, Me.XrLabel9})
+        Me.ReportHeader.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.XrLine1, Me.XrTable1, Me.XrLabel6, Me.XrLabel4, Me.XrLabel3, Me.Tieu_de_ten_bo, Me.Tieu_de_ten_truong, Me.XrLine2, Me.XrLabel1, Me.lbl_Ten_mon_hoc, Me.lbl_Lop, Me.XrLabel7, Me.lbl_Ngay_thi, Me.XrLabel9})
         Me.ReportHeader.HeightF = 273.3333!
         Me.ReportHeader.Name = "ReportHeader"
         '
@@ -162,7 +163,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
             Or DevExpress.XtraPrinting.BorderSide.Right) _
             Or DevExpress.XtraPrinting.BorderSide.Bottom), DevExpress.XtraPrinting.BorderSide)
         Me.XrTable1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.XrTable1.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 205.5833!)
+        Me.XrTable1.LocationFloat = New DevExpress.Utils.PointFloat(0!, 205.5833!)
         Me.XrTable1.Name = "XrTable1"
         Me.XrTable1.Rows.AddRange(New DevExpress.XtraReports.UI.XRTableRow() {Me.XrTableRow4})
         Me.XrTable1.SizeF = New System.Drawing.SizeF(781.0001!, 67.74997!)
@@ -218,7 +219,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         'XrLabel6
         '
         Me.XrLabel6.Font = New System.Drawing.Font("Times New Roman", 14.0!, System.Drawing.FontStyle.Bold)
-        Me.XrLabel6.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 71.66666!)
+        Me.XrLabel6.LocationFloat = New DevExpress.Utils.PointFloat(0!, 71.66666!)
         Me.XrLabel6.Name = "XrLabel6"
         Me.XrLabel6.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.XrLabel6.SizeF = New System.Drawing.SizeF(780.0001!, 29.66666!)
@@ -242,7 +243,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         'XrLabel3
         '
         Me.XrLabel3.Font = New System.Drawing.Font("Times New Roman", 11.0!, System.Drawing.FontStyle.Bold)
-        Me.XrLabel3.LocationFloat = New DevExpress.Utils.PointFloat(389.2916!, 0.0!)
+        Me.XrLabel3.LocationFloat = New DevExpress.Utils.PointFloat(389.2916!, 0!)
         Me.XrLabel3.Name = "XrLabel3"
         Me.XrLabel3.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.XrLabel3.SizeF = New System.Drawing.SizeF(373.25!, 23.0!)
@@ -254,7 +255,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         'Tieu_de_ten_bo
         '
         Me.Tieu_de_ten_bo.Font = New System.Drawing.Font("Times New Roman", 11.0!)
-        Me.Tieu_de_ten_bo.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 0.0!)
+        Me.Tieu_de_ten_bo.LocationFloat = New DevExpress.Utils.PointFloat(0!, 0!)
         Me.Tieu_de_ten_bo.Name = "Tieu_de_ten_bo"
         Me.Tieu_de_ten_bo.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.Tieu_de_ten_bo.SizeF = New System.Drawing.SizeF(356.25!, 23.0!)
@@ -266,13 +267,13 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         'Tieu_de_ten_truong
         '
         Me.Tieu_de_ten_truong.Font = New System.Drawing.Font("Times New Roman", 11.0!, System.Drawing.FontStyle.Bold)
-        Me.Tieu_de_ten_truong.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 22.99999!)
+        Me.Tieu_de_ten_truong.LocationFloat = New DevExpress.Utils.PointFloat(0!, 22.99999!)
         Me.Tieu_de_ten_truong.Name = "Tieu_de_ten_truong"
         Me.Tieu_de_ten_truong.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
-        Me.Tieu_de_ten_truong.SizeF = New System.Drawing.SizeF(356.25!, 37.50002!)
+        Me.Tieu_de_ten_truong.SizeF = New System.Drawing.SizeF(356.25!, 22.99999!)
         Me.Tieu_de_ten_truong.StylePriority.UseFont = False
         Me.Tieu_de_ten_truong.StylePriority.UseTextAlignment = False
-        Me.Tieu_de_ten_truong.Text = "TRƯỜNG CAO ĐẲNG CÔNG NGHỆ VÀ NÔNG LÂM ĐÔNG BẮC"
+        Me.Tieu_de_ten_truong.Text = "TRƯỜNG CAO ĐẲNG CÔNG NGHỆ VÀ NÔNG "
         Me.Tieu_de_ten_truong.TextAlignment = DevExpress.XtraPrinting.TextAlignment.MiddleCenter
         '
         'XrLine2
@@ -301,7 +302,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         Me.lbl_Ten_mon_hoc.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.lbl_Ten_mon_hoc.SizeF = New System.Drawing.SizeF(371.875!, 23.0!)
         Me.lbl_Ten_mon_hoc.StylePriority.UseFont = False
-        Me.lbl_Ten_mon_hoc.Text = "................................................................................." & _
+        Me.lbl_Ten_mon_hoc.Text = "................................................................................." &
     "....."
         '
         'lbl_Lop
@@ -312,7 +313,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         Me.lbl_Lop.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.lbl_Lop.SizeF = New System.Drawing.SizeF(454.1667!, 23.0!)
         Me.lbl_Lop.StylePriority.UseFont = False
-        Me.lbl_Lop.Text = "................................................................................." & _
+        Me.lbl_Lop.Text = "................................................................................." &
     "........................."
         '
         'XrLabel7
@@ -333,7 +334,7 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         Me.lbl_Ngay_thi.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.lbl_Ngay_thi.SizeF = New System.Drawing.SizeF(346.8751!, 22.99998!)
         Me.lbl_Ngay_thi.StylePriority.UseFont = False
-        Me.lbl_Ngay_thi.Text = "................................................................................." & _
+        Me.lbl_Ngay_thi.Text = "................................................................................." &
     ""
         '
         'XrLabel9
@@ -412,6 +413,14 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
         Me.GroupFooter1.HeightF = 143.75!
         Me.GroupFooter1.Name = "GroupFooter1"
         '
+        'XrLine1
+        '
+        Me.XrLine1.LineStyle = System.Drawing.Drawing2D.DashStyle.Dot
+        Me.XrLine1.LocationFloat = New DevExpress.Utils.PointFloat(110.9166!, 45.99998!)
+        Me.XrLine1.Name = "XrLine1"
+        Me.XrLine1.SizeF = New System.Drawing.SizeF(160.0833!, 2.083332!)
+        Me.XrLine1.StylePriority.UseBorderWidth = False
+        '
         'rpt_DiemTongKetMonHoc_Mau05a
         '
         Me.Bands.AddRange(New DevExpress.XtraReports.UI.Band() {Me.Detail, Me.TopMargin, Me.BottomMargin, Me.ReportHeader, Me.GroupFooter1})
@@ -461,4 +470,5 @@ Partial Public Class rpt_DiemTongKetMonHoc_Mau05a
     Friend WithEvents xDiem_kt As DevExpress.XtraReports.UI.XRTableCell
     Friend WithEvents xGhi_chu As DevExpress.XtraReports.UI.XRTableCell
     Friend WithEvents xDiem_tong_ket As DevExpress.XtraReports.UI.XRTableCell
+    Friend WithEvents XrLine1 As DevExpress.XtraReports.UI.XRLine
 End Class

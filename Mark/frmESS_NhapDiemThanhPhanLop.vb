@@ -112,15 +112,26 @@ Public Class frmESS_NhapDiemThanhPhanLop
             'Họ và tên
             Dim col3 As New DataGridViewTextBoxColumn
             With col3
-                .Name = "Ho_ten"
-                .DataPropertyName = "Ho_ten"
-                .HeaderText = "Họ và tên"
+                .Name = "Ho_dem"
+                .DataPropertyName = "Ho_dem"
+                .HeaderText = "Họ đệm"
                 .Width = 180
                 .DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
                 .DefaultCellStyle.NullValue = ""
                 .ReadOnly = True
             End With
             Me.grdViewDiem.Columns.Add(col3)
+            Dim col31 As New DataGridViewTextBoxColumn
+            With col31
+                .Name = "Ten"
+                .DataPropertyName = "Ten"
+                .HeaderText = "Tên"
+                .Width = 60
+                .DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+                .DefaultCellStyle.NullValue = ""
+                .ReadOnly = True
+            End With
+            Me.grdViewDiem.Columns.Add(col31)
             'Các thành phần điểm
             For i As Integer = 0 To clsDiem.ThanhPhanDiem.Count - 1
                 If clsDiem.ThanhPhanDiem.ThanhPhanDiem(i).Checked Then
@@ -328,6 +339,22 @@ Public Class frmESS_NhapDiemThanhPhanLop
         End Try
         Me.Cursor = Cursors.Default
     End Sub
+    Private Sub Load_DS(ByVal dsID_lop As String, ByVal Dieu_kien As Boolean)
+        Try
+            Dim objDanhSach As New DanhSachSinhVien_BLL(dsID_lop)
+            Dim dtSoure As DataTable = objDanhSach.Danh_sach_sinh_vien
+            If dtSoure.Rows.Count > 0 Then
+                If Dieu_kien = True Then
+                    mdtDanhSachSinhVien = dtSoure
+                Else
+                    mdtDanhSachSinhVien = dtSoure.Select("Trang_thai = 0").CopyToDataTable
+                End If
+            End If
+
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
     Private Sub TrvLop_ChuanHoa_Select() Handles TrvLop_ChuanHoa.TreeNodeSelected_
         Try
             If Loader Then
@@ -343,12 +370,73 @@ Public Class frmESS_NhapDiemThanhPhanLop
                         Add_MonHoc(dsID_lop)
                     End If
                     'Load danh sách sinh viên
-                    Dim objDanhSach As New DanhSachSinhVien_BLL(dsID_lop)
-                    mdtDanhSachSinhVien = objDanhSach.Danh_sach_sinh_vien
+                    'Dim objDanhSach As New DanhSachSinhVien_BLL(dsID_lop)
+                    'mdtDanhSachSinhVien = objDanhSach.Danh_sach_sinh_vien
+                    Load_DS(dsID_lop, chk_ds_day_du.Checked)
                     'Load danh sách điểm
                     cmbMonHoc_SelectedIndexChanged(Nothing, Nothing)
                 End If
             End If
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+    Private Sub Load_Ds_nhap_diem_thanh_phan()
+        Try
+            If Loader Then
+                'Load danh sách điểm của sinh viên
+                Dim ID_dv As String = gobjUser.ID_dv
+                Dim Hoc_ky As Integer = cmbHoc_ky.SelectedValue
+                Dim Nam_hoc As String = cmbNam_hoc.Text
+                Dim ID_mon As Integer = cmbID_mon.SelectedValue
+                Dim Lan_hoc As Integer = cmbLan_hoc.SelectedIndex + 1
+                If mdtDanhSachSinhVien.Rows.Count > 0 And ID_mon > 0 Then
+                    clsDiem = New Diem_BLL(mID_he, ID_dv, Hoc_ky, Nam_hoc, ID_mon, dsID_lop, mdtDanhSachSinhVien, False, True, Lan_hoc)
+                    ' Nếu chua có thành phần điểm đã chọn thì load số bài điểm thành phần mặc định theo số ĐV học trình
+                    If clsDiem.SoThanhPhanDiem = 0 Then
+                        Dim So_hoc_trinh As Integer = 0
+                        For i As Integer = 0 To mdtMonHoc.Rows.Count - 1
+                            If mdtMonHoc.Rows(i)("ID_mon") = ID_mon Then
+                                So_hoc_trinh = mdtMonHoc.Rows(i)("So_hoc_trinh")
+                                Exit For
+                            End If
+                        Next
+                        'grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc, So_hoc_trinh).DefaultView
+                        grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc).DefaultView
+                    Else
+                        grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc).DefaultView
+                    End If
+                Else
+                    grdViewDiem.DataSource = Nothing
+                End If
+                FormatDataView()
+                ReadOnly_Diem()
+                Dim Lock_diem As Boolean = False
+                KhoaDuLieu(Lock_diem)
+                If Lock_diem = True Then
+                    btnDel.Enabled = False
+                    btnSave.Enabled = False
+                    btnTP_Diem.Enabled = False
+                    cmdLock.Enabled = False
+                    cmdUnLock.Enabled = True
+                Else
+                    btnDel.Enabled = True
+                    btnSave.Enabled = True
+                    btnTP_Diem.Enabled = True
+                    cmdLock.Enabled = True
+                    cmdUnLock.Enabled = False
+                End If
+            End If
+            SetQuyenTruyCap(, btnSave, , btnDel)
+            Quyen_Khoa_Diem()
+            'If gobjUser.ID_khoa > 0 And cmbID_mon.Text <> "" Then
+            '    If Check_Mon_TheoKhoa(gobjUser.ID_khoa, cmbID_mon.SelectedValue) = False Then
+            '        btnSave.Enabled = False
+            '        btnDel.Enabled = False
+            '        cmdLock.Enabled = False
+            '        cmdUnLock.Enabled = False
+            '    End If
+            'End If
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try
@@ -364,64 +452,65 @@ Public Class frmESS_NhapDiemThanhPhanLop
     End Sub
     Private Sub cmbMonHoc_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbID_mon.SelectedIndexChanged, cmbLan_hoc.SelectedIndexChanged
         Try
-            Try
-                If Loader Then
-                    'Load danh sách điểm của sinh viên
-                    Dim ID_dv As String = gobjUser.ID_dv
-                    Dim Hoc_ky As Integer = cmbHoc_ky.SelectedValue
-                    Dim Nam_hoc As String = cmbNam_hoc.Text
-                    Dim ID_mon As Integer = cmbID_mon.SelectedValue
-                    Dim Lan_hoc As Integer = cmbLan_hoc.SelectedIndex + 1
-                    If mdtDanhSachSinhVien.Rows.Count > 0 And ID_mon > 0 Then
-                        clsDiem = New Diem_BLL(mID_he, ID_dv, Hoc_ky, Nam_hoc, ID_mon, dsID_lop, mdtDanhSachSinhVien, False, True, Lan_hoc)
-                        ' Nếu chua có thành phần điểm đã chọn thì load số bài điểm thành phần mặc định theo số ĐV học trình
-                        If clsDiem.SoThanhPhanDiem = 0 Then
-                            Dim So_hoc_trinh As Integer = 0
-                            For i As Integer = 0 To mdtMonHoc.Rows.Count - 1
-                                If mdtMonHoc.Rows(i)("ID_mon") = ID_mon Then
-                                    So_hoc_trinh = mdtMonHoc.Rows(i)("So_hoc_trinh")
-                                    Exit For
-                                End If
-                            Next
-                            'grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc, So_hoc_trinh).DefaultView
-                            grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc).DefaultView
-                        Else
-                            grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc).DefaultView
-                        End If
-                    Else
-                        grdViewDiem.DataSource = Nothing
-                    End If
-                    FormatDataView()
-                    ReadOnly_Diem()
-                    Dim Lock_diem As Boolean = False
-                    KhoaDuLieu(Lock_diem)
-                    If Lock_diem = True Then
-                        btnDel.Enabled = False
-                        btnSave.Enabled = False
-                        btnTP_Diem.Enabled = False
-                        cmdLock.Enabled = False
-                        cmdUnLock.Enabled = True
-                    Else
-                        btnDel.Enabled = True
-                        btnSave.Enabled = True
-                        btnTP_Diem.Enabled = True
-                        cmdLock.Enabled = True
-                        cmdUnLock.Enabled = False
-                    End If
-                End If
-                SetQuyenTruyCap(, btnSave, , btnDel)
-                Quyen_Khoa_Diem()
-                'If gobjUser.ID_khoa > 0 And cmbID_mon.Text <> "" Then
-                '    If Check_Mon_TheoKhoa(gobjUser.ID_khoa, cmbID_mon.SelectedValue) = False Then
-                '        btnSave.Enabled = False
-                '        btnDel.Enabled = False
-                '        cmdLock.Enabled = False
-                '        cmdUnLock.Enabled = False
-                '    End If
-                'End If
-            Catch ex As Exception
-                Thongbao(ex.Message)
-            End Try
+            'Try
+            '    If Loader Then
+            '        'Load danh sách điểm của sinh viên
+            '        Dim ID_dv As String = gobjUser.ID_dv
+            '        Dim Hoc_ky As Integer = cmbHoc_ky.SelectedValue
+            '        Dim Nam_hoc As String = cmbNam_hoc.Text
+            '        Dim ID_mon As Integer = cmbID_mon.SelectedValue
+            '        Dim Lan_hoc As Integer = cmbLan_hoc.SelectedIndex + 1
+            '        If mdtDanhSachSinhVien.Rows.Count > 0 And ID_mon > 0 Then
+            '            clsDiem = New Diem_BLL(mID_he, ID_dv, Hoc_ky, Nam_hoc, ID_mon, dsID_lop, mdtDanhSachSinhVien, False, True, Lan_hoc)
+            '            ' Nếu chua có thành phần điểm đã chọn thì load số bài điểm thành phần mặc định theo số ĐV học trình
+            '            If clsDiem.SoThanhPhanDiem = 0 Then
+            '                Dim So_hoc_trinh As Integer = 0
+            '                For i As Integer = 0 To mdtMonHoc.Rows.Count - 1
+            '                    If mdtMonHoc.Rows(i)("ID_mon") = ID_mon Then
+            '                        So_hoc_trinh = mdtMonHoc.Rows(i)("So_hoc_trinh")
+            '                        Exit For
+            '                    End If
+            '                Next
+            '                'grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc, So_hoc_trinh).DefaultView
+            '                grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc).DefaultView
+            '            Else
+            '                grdViewDiem.DataSource = clsDiem.DanhSachDiemThanhPhan(ID_mon, Lan_hoc).DefaultView
+            '            End If
+            '        Else
+            '            grdViewDiem.DataSource = Nothing
+            '        End If
+            '        FormatDataView()
+            '        ReadOnly_Diem()
+            '        Dim Lock_diem As Boolean = False
+            '        KhoaDuLieu(Lock_diem)
+            '        If Lock_diem = True Then
+            '            btnDel.Enabled = False
+            '            btnSave.Enabled = False
+            '            btnTP_Diem.Enabled = False
+            '            cmdLock.Enabled = False
+            '            cmdUnLock.Enabled = True
+            '        Else
+            '            btnDel.Enabled = True
+            '            btnSave.Enabled = True
+            '            btnTP_Diem.Enabled = True
+            '            cmdLock.Enabled = True
+            '            cmdUnLock.Enabled = False
+            '        End If
+            '    End If
+            '    SetQuyenTruyCap(, btnSave, , btnDel)
+            '    Quyen_Khoa_Diem()
+            '    'If gobjUser.ID_khoa > 0 And cmbID_mon.Text <> "" Then
+            '    '    If Check_Mon_TheoKhoa(gobjUser.ID_khoa, cmbID_mon.SelectedValue) = False Then
+            '    '        btnSave.Enabled = False
+            '    '        btnDel.Enabled = False
+            '    '        cmdLock.Enabled = False
+            '    '        cmdUnLock.Enabled = False
+            '    '    End If
+            '    'End If
+            'Catch ex As Exception
+            '    Thongbao(ex.Message)
+            'End Try
+            Load_Ds_nhap_diem_thanh_phan()
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try
@@ -493,9 +582,13 @@ Public Class frmESS_NhapDiemThanhPhanLop
     Private Sub btnExcel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Me.Cursor = Cursors.WaitCursor
         Try
-            Dim clsExcel As New ExportToExcel
-            Dim Tieu_de As String = ""
-            clsExcel.ExportFromDataGridViewToExcel(grdViewDiem, Nothing)
+            'Dim clsExcel As New ExportToExcel
+            'Dim Tieu_de As String = ""
+            'clsExcel.ExportFromDataGridViewToExcel(grdViewDiem, Nothing)
+
+            Dim dt As DataTable
+            dt = grdViewDiem.DataSource
+            ExportToExcel(dt.DefaultView)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try
@@ -835,7 +928,9 @@ Public Class frmESS_NhapDiemThanhPhanLop
         Try
             Dim clsExcel As New ExportToExcel
             Dim Tieu_de As String = ""
-            clsExcel.ExportFromDataGridViewToExcel(grdViewDiem, Nothing)
+            'clsExcel.ExportFromDataGridViewToExcel(grdViewDiem, Nothing)
+            Dim dt As DataView = grdViewDiem.DataSource
+            ExportToExcel(dt)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try
@@ -1122,6 +1217,15 @@ Public Class frmESS_NhapDiemThanhPhanLop
             Dim printTool As New ReportPrintTool(report)
             printTool.ShowPreviewDialog()
 
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub chk_ds_day_du_CheckedChanged(sender As Object, e As EventArgs) Handles chk_ds_day_du.CheckedChanged
+        Try
+            Load_DS(TrvLop_ChuanHoa.ID_lop_list, chk_ds_day_du.Checked)
+            Load_Ds_nhap_diem_thanh_phan()
         Catch ex As Exception
 
         End Try

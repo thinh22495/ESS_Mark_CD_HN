@@ -62,6 +62,10 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.BarButtonItem8 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarButtonItem9 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarButtonItem10 = New DevExpress.XtraBars.BarButtonItem()
+        Me.btnDS_nop_bai_Thi_TN = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem11 = New DevExpress.XtraBars.BarButtonItem()
+        Me.Print_DanhSachPhongThiThucHanh = New DevExpress.XtraBars.BarButtonItem()
+        Me.Print_DanhsachDuKT_het_mon = New DevExpress.XtraBars.BarButtonItem()
         Me.BarManager1 = New DevExpress.XtraBars.BarManager(Me.components)
         Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl()
         Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl()
@@ -73,7 +77,6 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.cmdHocPhan = New DevExpress.XtraEditors.DropDownButton()
         Me.ckIn_ds_luanvan = New System.Windows.Forms.CheckBox()
         Me.btnTongHopSVThiChinhTri = New DevExpress.XtraEditors.SimpleButton()
-        Me.btnDS_nop_bai_Thi_TN = New DevExpress.XtraBars.BarButtonItem()
         CType(Me.grcViewDanhSachThi, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.grdViewDanhSachThi, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PopupMenu2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -347,7 +350,7 @@ Partial Class frmESS_ToChucThi_DanhSach
         '
         'PopupMenu2
         '
-        Me.PopupMenu2.LinksPersistInfo.AddRange(New DevExpress.XtraBars.LinkPersistInfo() {New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem1, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem2, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem3, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem4, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem5, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.btnAll_diem, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.cmdPhieuTheoDoi_LyThuyet, False), New DevExpress.XtraBars.LinkPersistInfo(Me.btnPhieuTheoDoiKetQua_DanPT), New DevExpress.XtraBars.LinkPersistInfo(Me.btnPhieuTheoDoiKetQua_BC), New DevExpress.XtraBars.LinkPersistInfo(Me.btnTotNghiepLT_DanPhong), New DevExpress.XtraBars.LinkPersistInfo(Me.btnTotNghiep_LT), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem6), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem7), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem8), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem9), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem10), New DevExpress.XtraBars.LinkPersistInfo(Me.btnDS_nop_bai_Thi_TN)})
+        Me.PopupMenu2.LinksPersistInfo.AddRange(New DevExpress.XtraBars.LinkPersistInfo() {New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem1, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem2, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem3, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem4, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem5, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.btnAll_diem, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.cmdPhieuTheoDoi_LyThuyet, False), New DevExpress.XtraBars.LinkPersistInfo(Me.btnPhieuTheoDoiKetQua_DanPT), New DevExpress.XtraBars.LinkPersistInfo(Me.btnPhieuTheoDoiKetQua_BC), New DevExpress.XtraBars.LinkPersistInfo(Me.btnTotNghiepLT_DanPhong), New DevExpress.XtraBars.LinkPersistInfo(Me.btnTotNghiep_LT), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem6), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem7), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem8), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem9, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.BarButtonItem10, False), New DevExpress.XtraBars.LinkPersistInfo(DevExpress.XtraBars.BarLinkUserDefines.None, False, Me.btnDS_nop_bai_Thi_TN, False), New DevExpress.XtraBars.LinkPersistInfo(Me.BarButtonItem11), New DevExpress.XtraBars.LinkPersistInfo(Me.Print_DanhSachPhongThiThucHanh), New DevExpress.XtraBars.LinkPersistInfo(Me.Print_DanhsachDuKT_het_mon)})
         Me.PopupMenu2.Manager = Me.BarManager1
         Me.PopupMenu2.Name = "PopupMenu2"
         '
@@ -452,6 +455,30 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.BarButtonItem10.Id = 26
         Me.BarButtonItem10.Name = "BarButtonItem10"
         '
+        'btnDS_nop_bai_Thi_TN
+        '
+        Me.btnDS_nop_bai_Thi_TN.Caption = "Danh sách nộp bài thi tốt nghiệp (Mấu 06)"
+        Me.btnDS_nop_bai_Thi_TN.Id = 24
+        Me.btnDS_nop_bai_Thi_TN.Name = "btnDS_nop_bai_Thi_TN"
+        '
+        'BarButtonItem11
+        '
+        Me.BarButtonItem11.Caption = "Danh sách phòng thi tốt nghiệp"
+        Me.BarButtonItem11.Id = 25
+        Me.BarButtonItem11.Name = "BarButtonItem11"
+        '
+        'Print_DanhSachPhongThiThucHanh
+        '
+        Me.Print_DanhSachPhongThiThucHanh.Caption = "Danh sách phòng thi thực hành"
+        Me.Print_DanhSachPhongThiThucHanh.Id = 26
+        Me.Print_DanhSachPhongThiThucHanh.Name = "Print_DanhSachPhongThiThucHanh"
+        '
+        'Print_DanhsachDuKT_het_mon
+        '
+        Me.Print_DanhsachDuKT_het_mon.Caption = "Danh sách dự kiểm tra hết môn"
+        Me.Print_DanhsachDuKT_het_mon.Id = 27
+        Me.Print_DanhsachDuKT_het_mon.Name = "Print_DanhsachDuKT_het_mon"
+        '
         'BarManager1
         '
         Me.BarManager1.Categories.AddRange(New DevExpress.XtraBars.BarManagerCategory() {New DevExpress.XtraBars.BarManagerCategory("PopupMenu", New System.Guid("e259ec3f-8673-4306-bb4f-94322df1890e"))})
@@ -462,8 +489,8 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.BarManager1.DockWindowTabFont = New System.Drawing.Font("Times New Roman", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BarManager1.Form = Me
         Me.BarManager1.Images = Me.ImgMain
-        Me.BarManager1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.BarButtonItem1, Me.BarButtonItem2, Me.BarButtonItem3, Me.BarButtonItem4, Me.BarButtonItem5, Me.btnAll_diem, Me.cmdPhieuTheoDoi_LyThuyet, Me.btnPhieuTheoDoiKetQua_DanPT, Me.btnPhieuTheoDoiKetQua_BC, Me.btnTotNghiepLT_DanPhong, Me.btnTotNghiep_LT, Me.btnTotNghiep_TH_DanPhong, Me.btnTotNghiep_TH, Me.BarButtonItem6, Me.BarButtonItem7, Me.BarButtonItem8, Me.BarButtonItem9, Me.BarButtonItem10, Me.btnDS_nop_bai_Thi_TN})
-        Me.BarManager1.MaxItemId = 25
+        Me.BarManager1.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.BarButtonItem1, Me.BarButtonItem2, Me.BarButtonItem3, Me.BarButtonItem4, Me.BarButtonItem5, Me.btnAll_diem, Me.cmdPhieuTheoDoi_LyThuyet, Me.btnPhieuTheoDoiKetQua_DanPT, Me.btnPhieuTheoDoiKetQua_BC, Me.btnTotNghiepLT_DanPhong, Me.btnTotNghiep_LT, Me.btnTotNghiep_TH_DanPhong, Me.btnTotNghiep_TH, Me.BarButtonItem6, Me.BarButtonItem7, Me.BarButtonItem8, Me.BarButtonItem9, Me.BarButtonItem10, Me.btnDS_nop_bai_Thi_TN, Me.BarButtonItem11, Me.Print_DanhSachPhongThiThucHanh, Me.Print_DanhsachDuKT_het_mon})
+        Me.BarManager1.MaxItemId = 28
         '
         'BarDockControl1
         '
@@ -571,12 +598,6 @@ Partial Class frmESS_ToChucThi_DanhSach
         Me.btnTongHopSVThiChinhTri.Text = "Tổng hợp sv thi chính trị"
         Me.btnTongHopSVThiChinhTri.Visible = False
         '
-        'btnDS_nop_bai_Thi_TN
-        '
-        Me.btnDS_nop_bai_Thi_TN.Caption = "Danh sách nộp bài thi tốt nghiệp (Mấu 06)"
-        Me.btnDS_nop_bai_Thi_TN.Id = 24
-        Me.btnDS_nop_bai_Thi_TN.Name = "btnDS_nop_bai_Thi_TN"
-        '
         'frmESS_ToChucThi_DanhSach
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit
@@ -668,4 +689,7 @@ Partial Class frmESS_ToChucThi_DanhSach
     Friend WithEvents BarButtonItem9 As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents BarButtonItem10 As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents btnDS_nop_bai_Thi_TN As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents BarButtonItem11 As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents Print_DanhSachPhongThiThucHanh As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents Print_DanhsachDuKT_het_mon As DevExpress.XtraBars.BarButtonItem
 End Class

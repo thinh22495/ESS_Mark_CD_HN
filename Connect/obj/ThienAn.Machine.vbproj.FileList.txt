@@ -1,0 +1,7 @@
+bin\ThienAn.Machine.dll
+bin\ThienAn.Machine.pdb
+bin\Union.Machine.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ThienAn.Machine.dll
+obj\Debug\Union.Machine.xml
+obj\Debug\ThienAn.Machine.pdb

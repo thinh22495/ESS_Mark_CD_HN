@@ -1,0 +1,606 @@
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\bin\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\bin\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\obj\Debug\ESS.Library.dll
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\obj\Debug\ESS.xml
+E:\Project\Company\Thien An ESS\ProjectsNews\EducationSolutionSoft\2008\ESS_NC\Library\obj\Debug\ESS.Library.pdb
+E:\Project\Company\Working\ESS_NC\Library\bin\Debug\ESS.Library.dll
+E:\Project\Company\Working\ESS_NC\Library\bin\Debug\ESS.Library.pdb
+E:\Project\Company\Working\ESS_NC\Library\bin\Debug\ESS.xml
+E:\Project\Company\Working\ESS_NC\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Project\Company\Working\ESS_NC\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Company\Working\ESS_NC\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\Project\Company\Working\ESS_NC\Library\obj\Debug\ESS.Library.Resources.resources
+E:\Project\Company\Working\ESS_NC\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+E:\Project\Company\Working\ESS_NC\Library\obj\Debug\ESS.Library.dll
+E:\Project\Company\Working\ESS_NC\Library\obj\Debug\ESS.xml
+E:\Project\Company\Working\ESS_NC\Library\obj\Debug\ESS.Library.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\bin\Debug\ESS.Library.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\bin\Debug\ESS.Library.pdb
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\bin\Debug\ESS.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.Resources.resources
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.dll
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.xml
+E:\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\ESS_NienChe\Library\obj\Debug\ESS.Library.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\ESS.Library.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\ESS.Library.pdb
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\ESS.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.dll
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.xml
+D:\Project\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\ESS.Library.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\ESS.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.dll
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.xml
+D:\My Work\ThienAn\ESS_Diem_NC_Full\ESS_NienChe\Library\obj\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\bin\Debug\ESS.Library.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\bin\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\bin\Debug\ESS.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\obj\Debug\ESS.Library.dll
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\obj\Debug\ESS.xml
+D:\My Work\ThienAn\KTKT\ESS_NienChe\Library\obj\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\bin\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\bin\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\bin\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\obj\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_NienChe\Library\obj\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD Cong Dong HP\Ban sua_050712\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\My Work\ThienAn\CD_Nghe_CNCHN\Ban_sua_1608\ESSMark\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\My_CongTy\DuAn_ThienAn\CD Nghe Cong nghe cao HN\28042013_Tungnk\CDN CNC HN\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\27052013\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\ESS.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.xml
+E:\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\bin\Debug\ESS.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\obj\Debug\ESS.xml
+E:\DuAn_NamViet\CDN VietNam HanQuoc QuangNgai\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\ESS.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\bin\Debug\ESS.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\obj\Debug\ESS.xml
+E:\DuAn_NamViet\CaoDangNghe_CoDienThuyLoi_HungYen\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.xml
+F:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\ESS.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ResolveAssemblyReference.cache
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.xml
+E:\OneDriver\OneDrive\NAMVIETJSC\HUNG YEN\ESS_Mark_Hai\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ESS.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.Data.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.Utils.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\Interop.Excel.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\System.Data.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\System.Deployment.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\System.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\System.Drawing.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\System.Windows.Forms.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\System.Xml.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.Data.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.Utils.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\obj\Debug\ESS_Library.vbprojResolveAssemblyReference.cache
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\obj\Debug\ESS.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ESS.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\Interop.Excel.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\System.Data.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\System.Deployment.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\System.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\System.Drawing.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\System.Windows.Forms.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\System.Xml.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\obj\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\Library\obj\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ESS.xml
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\System.Data.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\System.Deployment.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\System.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\System.Drawing.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\System.Xml.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Project\ESS_Mark_CND_NLDB\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Project\ESS_Mark_CND_NLDB\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Project\ESS_Mark_CND_NLDB\Library\obj\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_CND_NLDB\Library\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_CND_NLDB\Library\obj\Debug\ESS.Library.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ESS.Library.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ESS.Library.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ESS.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\System.Data.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\System.Deployment.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\System.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\System.Drawing.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\System.Windows.Forms.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\System.Xml.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.Resources.resources
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ESS.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\System.Data.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\System.Deployment.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\System.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\System.Drawing.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\System.Xml.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS_Library.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.Resources.resources
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.xml
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\Library\obj\Debug\ESS_Library.vbproj.CoreCompileInputs.cache
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ESS.Library.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ESS.Library.pdb
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ESS.xml
+D:\ESS_Mark_CD_HN\Library\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.Data.v15.1.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\System.Data.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\System.Deployment.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\System.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\System.Drawing.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\System.Windows.Forms.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\System.Xml.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.Data.v15.1.xml
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\ESS_Mark_CD_HN\Library\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\ESS_Mark_CD_HN\Library\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\Library\obj\Debug\ESS_Library.vbprojResolveAssemblyReference.cache
+D:\ESS_Mark_CD_HN\Library\obj\Debug\ESS.Library.frmTrangThai.resources
+D:\ESS_Mark_CD_HN\Library\obj\Debug\ESS.Library.Resources.resources
+D:\ESS_Mark_CD_HN\Library\obj\Debug\ESS_Library.vbproj.GenerateResource.Cache
+D:\ESS_Mark_CD_HN\Library\obj\Debug\ESS.Library.dll
+D:\ESS_Mark_CD_HN\Library\obj\Debug\ESS.xml
+D:\ESS_Mark_CD_HN\Library\obj\Debug\ESS.Library.pdb

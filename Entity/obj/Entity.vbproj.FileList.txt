@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\ESS.Entity.dll
+bin\ESS.Entity.pdb
+bin\ESS.xml
+obj\Debug\ESS.Entity.dll
+obj\Debug\ESS.xml
+obj\Debug\ESS.Entity.pdb

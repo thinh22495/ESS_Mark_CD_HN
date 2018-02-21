@@ -166,8 +166,11 @@ Public Class frmESS_XetLenLop
     Private Sub btnExcel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnExcel.Click
         Me.Cursor = Cursors.WaitCursor
         Try
-            Dim clsExcel As New ExportToExcel
-            clsExcel.ExportFromDataGridViewToExcel(grvSinh_vien)
+            'Dim clsExcel As New ExportToExcel
+            'clsExcel.ExportFromDataGridViewToExcel(grvSinh_vien)
+            Dim dt As DataTable
+            dt = grvSinh_vien.DataSource
+            ExportToExcel(dt.DefaultView)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try

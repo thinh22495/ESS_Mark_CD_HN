@@ -31,11 +31,11 @@ Namespace Business
         Sub New()
 
         End Sub
-        Sub New(ByVal ID_he As Integer, ByVal ID_dv As String, ByVal Hoc_ky As Integer, ByVal Nam_hoc As String, ByVal ID_mon As Integer, ByVal dsID_lop As String, ByVal dtDanhSachSinhVien As DataTable, Optional ByVal PhongThi As Boolean = False, Optional ByVal Chon_mac_dinh_tp As Boolean = False, Optional ByVal Lan_hoc As Integer = 1)
+        Sub New(ByVal ID_he As Integer, ByVal ID_dv As String, ByVal Hoc_ky As Integer, ByVal Nam_hoc As String, ByVal ID_mon As Integer, ByVal dsID_lop As String, ByVal dtDanhSachSinhVien As DataTable, Optional ByVal PhongThi As Boolean = False, Optional ByVal Chon_mac_dinh_tp As Boolean = False, Optional ByVal Lan_hoc As Integer = 1, Optional ByVal ID_dt As Integer = 0)
             mID_dv = ID_dv
             mdtDanhSachSinhVien = dtDanhSachSinhVien
             'Khởi tạo quy chế
-            QC = New QuyCheDaoTao(ID_he)
+            QC = New QuyCheDaoTao(ID_he, ID_dt)
             'Load các thành phần
             Load_ThanhPhanMon(ID_dv, ID_he, 0, "", ID_mon, dsID_lop, Chon_mac_dinh_tp, Lan_hoc)
             'Load_ThanhPhanMon(ID_dv, ID_he, 0, "", ID_mon, dsID_lop, Chon_mac_dinh_tp)
@@ -62,7 +62,7 @@ Namespace Business
             mID_dv = ID_dv
             mdtDanhSachSinhVien = dtDanhSachSinhVien
             'Khởi tạo quy chế
-            QC = New QuyCheDaoTao(ID_he)
+            QC = New QuyCheDaoTao(ID_he, dsID_dt)
             'Load môn thành phần
             Load_ThanhPhanMon(ID_dv, ID_he, Hoc_ky, Nam_hoc, 0, dsID_lop, False)
             'Load xếp loại học tập
@@ -80,7 +80,7 @@ Namespace Business
             mID_dv = ID_dv
             mdtDanhSachSinhVien = dtDanhSachSinhVien
             'Khởi tạo quy chế
-            QC = New QuyCheDaoTao(ID_he)
+            QC = New QuyCheDaoTao(ID_he, dsID_dt)
             'Load môn thành phần
             Load_ThanhPhanMon(ID_dv, ID_he, Hoc_ky, Nam_hoc, 0, dsID_lop, False)
             'Load xếp loại học tập
@@ -96,7 +96,7 @@ Namespace Business
         Sub New(ByVal ID_he As Integer, ByVal ID_dv As String, ByVal ID_sv As Integer, ByVal ID_dt As Integer, Optional ByVal Hoc_ky As Integer = 0, Optional ByVal Nam_hoc As String = "")
             mID_dv = ID_dv
             'Khởi tạo quy chế
-            QC = New QuyCheDaoTao(ID_he)
+            QC = New QuyCheDaoTao(ID_he, ID_dt)
             'Load xếp loại học tập
             Load_XepLoaiHocTap()
             'Load xếp hạng tốt nghiệp
@@ -1942,6 +1942,7 @@ Add_diem:
                 For i As Integer = 0 To dsMonHoc.Count - 1
                     ID_mon = dsMonHoc.ChuongTrinhDaoTaoChiTiet(i).ID_mon
                     'Tim diem cua sinh vien nay
+                    Dim ID_sv1 As Integer = dr("ID_sv")
                     idx_diem = Tim_idx(dr("ID_sv"), ID_mon, dr("ID_dt"))
                     'idx_diem = Tim_idx(4995, ID_mon)
                     'Nếu sinh viên có điểm môn học này thì tính điểm
@@ -2039,6 +2040,8 @@ Add_diem:
                         If Diem_thi1 >= 0 And (Diem_thi1 < QC.Diem_hoc_phan_dat) Then
                             So_trinh_thi_lai = (So_trinh_thi_lai + Me.dsMonHoc.ChuongTrinhDaoTaoChiTiet(i).So_hoc_trinh)
                         End If
+                    Else
+                        'dr.Item(("M" & ID_mon.ToString)) = 0
                     End If
                 Next
                 'Tính điểm TBCHT và xếp loại
@@ -2446,6 +2449,11 @@ Add_diem:
                 Tong_DVHT_MonLT_Nghe = 0
                 Tong_DVHT_MonTH_Nghe = 0
 
+                If dr("ID_sv") = 7282 Then
+                    dr("ID_sv") = 7282
+        
+                End If
+
                 ID_dt = dr.Item("ID_dt")
                 Dim So_TC_ThiLai As Double = 0
                 Dim So_Mon_duoi45_5 As Integer = 0
@@ -2477,6 +2485,11 @@ Add_diem:
                     ID_mon = dsMonHoc.ChuongTrinhDaoTaoChiTiet(i).ID_mon
                     'Tim diem cua sinh vien nay
                     idx_diem = Tim_idx(dr("ID_sv"), ID_mon, dr("ID_dt"))
+                    If dr("ID_sv") = 7285 And ID_mon = 603 Then
+                        dr("ID_sv") = 7285
+                        ID_mon = 603
+                    End If
+
                     'idx_diem = Tim_idx(14, ID_mon)
                     'Nếu sinh viên có điểm môn học này thì tính điểm
                     If idx_diem >= 0 Then
@@ -2523,7 +2536,7 @@ Add_diem:
                                 '----------------------------
                             End If
                         End If
-                        If Diem_thi_max < 5 Then
+                        If Diem_thi_max >= 0 And Diem_thi_max < 5 Then
                             If dsMonHoc.ChuongTrinhDaoTaoChiTiet(i).Mon_thi_TN = True Then
                                 '<5 nhung >=4.5 voi 1 mon thi van tot nghiep
                                 'If TBCHP >= 4.5 Then
@@ -2542,6 +2555,12 @@ Add_diem:
                                 Else
                                     LyDo_no_mon_thuong += ", " & dsMonHoc.ChuongTrinhDaoTaoChiTiet(i).Ten_mon & ":" & Math.Round(Diem_thi_max, QC.TBCHP_lam_tron)
                                 End If
+                            End If
+                        ElseIf Diem_thi_max < 0 Then
+                            If LyDo_no_mon_thuong.Trim = "" Then
+                                LyDo_no_mon_thuong = dsMonHoc.ChuongTrinhDaoTaoChiTiet(i).Ten_mon
+                            Else
+                                LyDo_no_mon_thuong += ", " & dsMonHoc.ChuongTrinhDaoTaoChiTiet(i).Ten_mon
                             End If
                         End If
                     End If
@@ -2569,7 +2588,7 @@ Add_diem:
                     'Xử lý điểm TBCHT theo các quy chế
                     Dim TBCHT_ToanKHoa As Double = QC.XuLy_Diem_TBCTK_TotNghiep(TBCHT_Ky, Tong_Diem_CacMon, Tong_DVHT_CacMon, Tong_Diem_Mon_Thuong, Tong_DVHT_Mon_Thuong, Tong_Diem_Mon_TN, Tong_DVHT_MonTN, So_Mon_duoi45_5, LyDo_TBCHT_CacMonTN, Tong_DVHT_MonLT_Nghe, Tong_Diem_Mon_LT_Nghe, Tong_DVHT_MonTH_Nghe, Tong_Diem_Mon_TH_Nghe)
 
-                    dr("LyDo_no_mon") = LyDo_no_mon_TN
+                    dr("LyDo_no_mon") = LyDo_no_mon_thuong
                     dr("LyDo_mon_batbuoc") = LyDo_mon_batbuoc
                     If TBCHT_ToanKHoa < 5 Then dr("LyDo_TBCHT_TL") = "TBCHT: " & TBCHT_ToanKHoa & " <5"
                     dr("TBCHT") = TBCHT_ToanKHoa

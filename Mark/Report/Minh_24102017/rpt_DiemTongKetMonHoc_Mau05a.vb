@@ -14,7 +14,7 @@
         'Me.Ten_lop.Text = Ten_lop
         'Me.Tieu_de_chuc_danh1.Text = gTieu_de_chuc_danh1
         'Me.Tieu_de_nguoi_ky1.Text = gTieu_de_nguoi_ki1
-        'Tieu_de_noi_ky.Text = gTieu_de_noi_ki & " Ngày " & DateTime.Now.Day.ToString() & "/" & DateTime.Now.Month.ToString() & "/" & DateTime.Now.Year
+        Tieu_de_noi_ky.Text = gTieu_de_noi_ki & " Ngày " & DateTime.Now.Day.ToString() & "/" & DateTime.Now.Month.ToString() & "/" & DateTime.Now.Year
         ' Add any initialization after the InitializeComponent() call.
         Binding()
     End Sub

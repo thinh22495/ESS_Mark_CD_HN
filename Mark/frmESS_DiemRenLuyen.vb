@@ -334,8 +334,9 @@ QUIT:   Beep()
                 Thongbao("Không có dữ liệu !")
                 Exit Sub
             End If
-            Dim clsEx As New ESS.Library.ExportToExcel
-            clsEx.ExportFromDataGridViewToExcel(grdDanhSachSinhVien)
+            Dim dt As DataTable
+            dt = grdDanhSachSinhVien.DataSource
+            ExportToExcel(dt.DefaultView)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try

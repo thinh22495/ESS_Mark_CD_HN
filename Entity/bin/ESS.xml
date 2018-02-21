@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ESS.Entity
+</name>
+</assembly>
+<members>
+<member name="M:ESS.Entity.DiemThiChiTiet.ConvertFrom(System.Data.DataRow)">
+	<summary>
+ Convert từ datarow sang object
+ </summary>
+	<param name="dr"></param>
+	<remarks></remarks>
+</member><member name="M:ESS.Entity.ThanhPhanThi.ConvertFrom(System.Data.DataRow)">
+	<summary>
+ Convert từ datarow thành object thành phần thi
+ </summary>
+	<param name="dr">Datarow</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

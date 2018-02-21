@@ -843,4 +843,114 @@ Number:
             Case "10.0" : Return "Mười"
         End Select
     End Function
+
+    Public Sub ExportToExcel(ByVal gridView As Views.Grid.GridView)
+        Dim dv As DataView = gridView.DataSource
+        Dim dt As DataTable = dv.ToTable
+        Dim listVisableColumn As New Generic.List(Of String)
+        Dim listOfCaption As New Generic.List(Of String)
+        '' lấy những cột đang visable tại gridcontrol
+        For Each gcol As DevExpress.XtraGrid.Columns.GridColumn In gridView.Columns
+            If gcol.Visible Then
+                listVisableColumn.Add(gcol.FieldName)
+            End If
+        Next
+        '' bỏ những cột unvisable khỏi datasource
+        For Each col As DataColumn In dt.Copy.Columns
+            If Not listVisableColumn.Contains(col.ColumnName) Then
+                dt.Columns.Remove(col.ColumnName)
+            Else
+                listOfCaption.Add(gridView.Columns(col.ColumnName).Caption)
+            End If
+        Next
+        '' tạo report tương ứng
+        Dim report As New rptExcel(dt, listOfCaption)
+        '
+        For i As Integer = 0 To 20
+            Dim fullPath As String = Application.StartupPath & "\temp" & i.ToString & ".xls"
+            Try
+                report.ExportToXls(fullPath)
+                Process.Start(fullPath)
+                Exit For
+            Catch ex As Exception
+            End Try
+        Next
+        '
+    End Sub
+    Public Sub ExportToExcel(ByVal gridControl As DevExpress.XtraGrid.GridControl)
+        Dim gridView As New DevExpress.XtraGrid.Views.Grid.GridView
+        gridView = gridControl.ViewCollection(0)
+        Dim dv As DataView = gridView.DataSource
+        Dim dt As DataTable = dv.ToTable
+        Dim listVisableColumn As New Generic.List(Of String)
+        Dim listOfCaption As New Generic.List(Of String)
+        '' lấy những cột đang visable tại gridcontrol
+        For Each gcol As DevExpress.XtraGrid.Columns.GridColumn In gridView.Columns
+            If gcol.Visible Then
+                listVisableColumn.Add(gcol.FieldName)
+            End If
+        Next
+        '' bỏ những cột unvisable khỏi datasource
+        For Each col As DataColumn In dt.Copy.Columns
+            If Not listVisableColumn.Contains(col.ColumnName) Then
+                dt.Columns.Remove(col.ColumnName)
+            Else
+                listOfCaption.Add(gridView.Columns(col.ColumnName).Caption)
+            End If
+        Next
+        '' tạo report tương ứng
+        Dim report As New rptExcel(dt, listOfCaption)
+        '
+        For i As Integer = 0 To 20
+            Dim fullPath As String = Application.StartupPath & "\temp" & i.ToString & ".xls"
+            Try
+                report.ExportToXls(fullPath)
+                Process.Start(fullPath)
+                Exit For
+            Catch ex As Exception
+            End Try
+        Next
+        '
+    End Sub
+    Public Sub ExportToExcel(ByVal dv As DataView)
+        Dim dt As DataTable = dv.ToTable
+        Dim listVisableColumn As New Generic.List(Of String)
+        Dim listOfCaption As New Generic.List(Of String)
+        '' lấy những cột đang visable tại gridcontrol
+        '' tạo report tương ứng
+        For Each col As DataColumn In dt.Copy.Columns
+            listOfCaption.Add(col.ColumnName)
+        Next
+        Dim report As New rptExcel(dt, listOfCaption)
+        '
+        For i As Integer = 0 To 20
+            Dim fullPath As String = Application.StartupPath & "\temp" & i.ToString & ".xls"
+            Try
+                report.ExportToXls(fullPath)
+                Process.Start(fullPath)
+                Exit For
+            Catch ex As Exception
+            End Try
+        Next
+        '
+    End Sub
+    '''''''''''''''
+    Public Function DeleteTempData() As Integer
+        Try
+            For i As Integer = 0 To 20
+                Dim fullPath As String = Application.StartupPath & "\temp" & i.ToString & ".xls"
+                Try
+                    If System.IO.File.Exists(fullPath) Then
+                        System.IO.File.Delete(fullPath)
+                    End If
+                Catch ex As Exception
+                    Throw
+                End Try
+            Next
+            Return 0
+        Catch ex As Exception
+            Return 0
+        End Try
+    End Function
+
 End Module

@@ -24,7 +24,7 @@ Namespace Business
                 mID_dv = ID_dv
                 mdsID_lop = dsID_lop
                 mID_dt = ID_dt
-                QC = New QuyCheDaoTao(ID_he)
+                QC = New QuyCheDaoTao(ID_he, ID_dt)
 
                 Dim obj As DanhSachXetLenLop_DAL = New DanhSachXetLenLop_DAL
                 Dim dt As DataTable = obj.Load_DanhSachXetLenLop_List(mdsID_lop, ID_he, Khoa_hoc, ID_khoa, Hoc_ky, Nam_hoc)

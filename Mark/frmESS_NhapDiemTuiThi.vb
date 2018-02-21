@@ -425,9 +425,12 @@ Public Class frmESS_NhapDiemTuiThi
     Private Sub btnExcel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnExcel.Click
         Me.Cursor = Cursors.WaitCursor
         Try
-            Dim clsExcel As New ExportToExcel
-            Dim Tieu_de As String = ""
-            clsExcel.ExportFromDataGridViewToExcel(grdViewDiem, Nothing)
+            'Dim clsExcel As New ExportToExcel
+            'Dim Tieu_de As String = ""
+            'clsExcel.ExportFromDataGridViewToExcel(grdViewDiem, Nothing)
+            Dim dt As DataTable
+            dt = grdViewDiem.DataSource
+            ExportToExcel(dt.DefaultView)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try

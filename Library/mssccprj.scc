@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[UniLibrary.vbproj]
+SCC_Aux_Path = "\\thienan\Thienan_SourceSafe_New"
+SCC_Project_Name = "$/UNISOFT_CDCD_HaiPhong/UniLibrary", LJGCAAAA
+
+[ESS_Library.vbproj]
+SCC_Aux_Path = "\\thienan\SourceSafe_ESS"
+SCC_Project_Name = "$/ESS_NGHE_CNC_HN/Library", TGEAAAAA

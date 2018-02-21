@@ -19,60 +19,63 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
-        Me.TabControl1 = New System.Windows.Forms.TabControl
-        Me.TabLuanVan = New System.Windows.Forms.TabPage
-        Me.grcViewLuanVan = New DevExpress.XtraGrid.GridControl
-        Me.grdViewLuanVan = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.GridColumn8 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn9 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn10 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn11 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn12 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn13 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn14 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.TrvLop_ChuanHoa = New ESS_Mark.TrvLop_ChuanHoa
-        Me.labSo_sv = New System.Windows.Forms.Label
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.txtTBCHT = New System.Windows.Forms.TextBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.TabThiTotNghiep = New System.Windows.Forms.TabPage
-        Me.grcThiTotNghiep = New DevExpress.XtraGrid.GridControl
-        Me.grdViewThiTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.colChon = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn2 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn3 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn4 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn5 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn7 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.GridColumn6 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.TrvLop_ChuanHoa_ThiTN = New ESS_Mark.TrvLop_ChuanHoa
-        Me.lblSV_Thi = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.TabNoThiTotNghiep = New System.Windows.Forms.TabPage
-        Me.grcDanhSach = New DevExpress.XtraGrid.GridControl
-        Me.grdViewNoThiTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView
-        Me.GridColumn1 = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colHo_ten = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colNgay_sinh = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTen_lop = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colLy_do = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.colTBCHT = New DevExpress.XtraGrid.Columns.GridColumn
-        Me.TrvLop_ChuanHoa_NoThi = New ESS_Mark.TrvLop_ChuanHoa
-        Me.lblNoThi = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
+        Me.components = New System.ComponentModel.Container()
+        Me.TabControl1 = New System.Windows.Forms.TabControl()
+        Me.TabLuanVan = New System.Windows.Forms.TabPage()
+        Me.grcViewLuanVan = New DevExpress.XtraGrid.GridControl()
+        Me.grdViewLuanVan = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.GridColumn8 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn9 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn10 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn11 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn12 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn13 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn14 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.TrvLop_ChuanHoa = New ESS_Mark.TrvLop_ChuanHoa()
+        Me.labSo_sv = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.txtTBCHT = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.TabThiTotNghiep = New System.Windows.Forms.TabPage()
+        Me.grcThiTotNghiep = New DevExpress.XtraGrid.GridControl()
+        Me.grdViewThiTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.colChon = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn2 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn3 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn4 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn5 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn7 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.GridColumn6 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.TrvLop_ChuanHoa_ThiTN = New ESS_Mark.TrvLop_ChuanHoa()
+        Me.lblSV_Thi = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.TabNoThiTotNghiep = New System.Windows.Forms.TabPage()
+        Me.grcDanhSach = New DevExpress.XtraGrid.GridControl()
+        Me.grdViewNoThiTotNghiep = New DevExpress.XtraGrid.Views.Grid.GridView()
+        Me.GridColumn1 = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colHo_ten = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colNgay_sinh = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTen_lop = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colLy_do = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.colTBCHT = New DevExpress.XtraGrid.Columns.GridColumn()
+        Me.TrvLop_ChuanHoa_NoThi = New ESS_Mark.TrvLop_ChuanHoa()
+        Me.lblNoThi = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
         Me.ErrorProvider1 = New System.Windows.Forms.ErrorProvider(Me.components)
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Button1 = New System.Windows.Forms.Button
-        Me.btnxet = New System.Windows.Forms.Button
-        Me.Button8 = New System.Windows.Forms.Button
-        Me.btnThiTN = New System.Windows.Forms.Button
-        Me.btnLV = New System.Windows.Forms.Button
-        Me.cmbLan_xet = New System.Windows.Forms.ComboBox
-        Me.Label11 = New System.Windows.Forms.Label
-        Me.cmbLan_xet_chuyen = New System.Windows.Forms.ComboBox
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.cmdChuyenLanXet = New System.Windows.Forms.Button
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.btnxet = New System.Windows.Forms.Button()
+        Me.Button8 = New System.Windows.Forms.Button()
+        Me.btnThiTN = New System.Windows.Forms.Button()
+        Me.btnLV = New System.Windows.Forms.Button()
+        Me.cmbLan_xet = New System.Windows.Forms.ComboBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.cmbLan_xet_chuyen = New System.Windows.Forms.ComboBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.cmdChuyenLanXet = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.txtMon_tot_nghiep = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.TabControl1.SuspendLayout()
         Me.TabLuanVan.SuspendLayout()
         CType(Me.grcViewLuanVan, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -89,8 +92,8 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'TabControl1
         '
         Me.TabControl1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TabControl1.Controls.Add(Me.TabLuanVan)
         Me.TabControl1.Controls.Add(Me.TabThiTotNghiep)
         Me.TabControl1.Controls.Add(Me.TabNoThiTotNghiep)
@@ -119,12 +122,12 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'grcViewLuanVan
         '
         Me.grcViewLuanVan.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grcViewLuanVan.Location = New System.Drawing.Point(261, 36)
         Me.grcViewLuanVan.MainView = Me.grdViewLuanVan
         Me.grcViewLuanVan.Name = "grcViewLuanVan"
-        Me.grcViewLuanVan.Size = New System.Drawing.Size(520, 381)
+        Me.grcViewLuanVan.Size = New System.Drawing.Size(520, 363)
         Me.grcViewLuanVan.TabIndex = 254
         Me.grcViewLuanVan.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.grdViewLuanVan})
         '
@@ -213,14 +216,14 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'TrvLop_ChuanHoa
         '
         Me.TrvLop_ChuanHoa.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.TrvLop_ChuanHoa.BackColor = System.Drawing.Color.Transparent
         Me.TrvLop_ChuanHoa.dtLop = Nothing
         Me.TrvLop_ChuanHoa.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TrvLop_ChuanHoa.Location = New System.Drawing.Point(0, 0)
         Me.TrvLop_ChuanHoa.Margin = New System.Windows.Forms.Padding(4)
         Me.TrvLop_ChuanHoa.Name = "TrvLop_ChuanHoa"
-        Me.TrvLop_ChuanHoa.Size = New System.Drawing.Size(255, 417)
+        Me.TrvLop_ChuanHoa.Size = New System.Drawing.Size(255, 399)
         Me.TrvLop_ChuanHoa.TabIndex = 108
         '
         'labSo_sv
@@ -279,8 +282,8 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'grcThiTotNghiep
         '
         Me.grcThiTotNghiep.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grcThiTotNghiep.Location = New System.Drawing.Point(261, 28)
         Me.grcThiTotNghiep.MainView = Me.grdViewThiTotNghiep
         Me.grcThiTotNghiep.Name = "grcThiTotNghiep"
@@ -373,7 +376,7 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'TrvLop_ChuanHoa_ThiTN
         '
         Me.TrvLop_ChuanHoa_ThiTN.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.TrvLop_ChuanHoa_ThiTN.BackColor = System.Drawing.Color.Transparent
         Me.TrvLop_ChuanHoa_ThiTN.dtLop = Nothing
         Me.TrvLop_ChuanHoa_ThiTN.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -422,8 +425,8 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'grcDanhSach
         '
         Me.grcDanhSach.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grcDanhSach.Location = New System.Drawing.Point(261, 28)
         Me.grcDanhSach.MainView = Me.grdViewNoThiTotNghiep
         Me.grcDanhSach.Name = "grcDanhSach"
@@ -506,7 +509,7 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'TrvLop_ChuanHoa_NoThi
         '
         Me.TrvLop_ChuanHoa_NoThi.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.TrvLop_ChuanHoa_NoThi.BackColor = System.Drawing.Color.Transparent
         Me.TrvLop_ChuanHoa_NoThi.dtLop = Nothing
         Me.TrvLop_ChuanHoa_NoThi.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -546,7 +549,7 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         'Label2
         '
         Me.Label2.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label2.BackColor = System.Drawing.Color.Transparent
         Me.Label2.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(99, 0)
@@ -649,7 +652,7 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         '
         Me.cmbLan_xet_chuyen.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmbLan_xet_chuyen.Items.AddRange(New Object() {"1", "2", "3", "4", "5"})
-        Me.cmbLan_xet_chuyen.Location = New System.Drawing.Point(559, 18)
+        Me.cmbLan_xet_chuyen.Location = New System.Drawing.Point(375, 21)
         Me.cmbLan_xet_chuyen.Name = "cmbLan_xet_chuyen"
         Me.cmbLan_xet_chuyen.Size = New System.Drawing.Size(50, 27)
         Me.cmbLan_xet_chuyen.TabIndex = 254
@@ -658,7 +661,7 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         '
         Me.Label7.BackColor = System.Drawing.Color.Transparent
         Me.Label7.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(407, 21)
+        Me.Label7.Location = New System.Drawing.Point(223, 24)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(153, 23)
         Me.Label7.TabIndex = 255
@@ -679,10 +682,47 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         Me.cmdChuyenLanXet.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.cmdChuyenLanXet.UseVisualStyleBackColor = True
         '
+        'Button2
+        '
+        Me.Button2.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Button2.Image = Global.ESS_Mark.My.Resources.Resources.RangBuocMonHoc
+        Me.Button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Button2.Location = New System.Drawing.Point(22, 536)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(107, 28)
+        Me.Button2.TabIndex = 255
+        Me.Button2.Text = "In danh sách"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'txtMon_tot_nghiep
+        '
+        Me.txtMon_tot_nghiep.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtMon_tot_nghiep.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.txtMon_tot_nghiep.Location = New System.Drawing.Point(501, 21)
+        Me.txtMon_tot_nghiep.Name = "txtMon_tot_nghiep"
+        Me.txtMon_tot_nghiep.Size = New System.Drawing.Size(283, 26)
+        Me.txtMon_tot_nghiep.TabIndex = 257
+        '
+        'Label5
+        '
+        Me.Label5.BackColor = System.Drawing.Color.Transparent
+        Me.Label5.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.Location = New System.Drawing.Point(439, 23)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(60, 23)
+        Me.Label5.TabIndex = 258
+        Me.Label5.Text = "Tiêu đề:"
+        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        '
         'frmESS_XetLuanVanThiTotNghiep
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit
         Me.ClientSize = New System.Drawing.Size(792, 566)
+        Me.Controls.Add(Me.Label5)
+        Me.Controls.Add(Me.txtMon_tot_nghiep)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.cmdChuyenLanXet)
         Me.Controls.Add(Me.cmbLan_xet_chuyen)
         Me.Controls.Add(Me.Label7)
@@ -713,6 +753,7 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
         CType(Me.grdViewNoThiTotNghiep, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.ErrorProvider1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents TabControl1 As System.Windows.Forms.TabControl
@@ -768,4 +809,7 @@ Partial Class frmESS_XetLuanVanThiTotNghiep
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents cmbLan_xet As System.Windows.Forms.ComboBox
     Friend WithEvents Label11 As System.Windows.Forms.Label
+    Friend WithEvents Button2 As System.Windows.Forms.Button
+    Friend WithEvents txtMon_tot_nghiep As System.Windows.Forms.TextBox
+    Friend WithEvents Label5 As System.Windows.Forms.Label
 End Class

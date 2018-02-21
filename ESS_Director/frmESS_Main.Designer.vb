@@ -4,57 +4,57 @@ Partial Public Class frmESS_Main
 
 #Region "Designer generated code"
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmESS_Main))
-        Dim SuperToolTip7 As DevExpress.Utils.SuperToolTip = New DevExpress.Utils.SuperToolTip
-        Dim ToolTipTitleItem7 As DevExpress.Utils.ToolTipTitleItem = New DevExpress.Utils.ToolTipTitleItem
-        Dim SuperToolTip8 As DevExpress.Utils.SuperToolTip = New DevExpress.Utils.SuperToolTip
-        Dim ToolTipTitleItem8 As DevExpress.Utils.ToolTipTitleItem = New DevExpress.Utils.ToolTipTitleItem
-        Me.repositoryItemSpinEdit1 = New DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit
+        Dim SuperToolTip1 As DevExpress.Utils.SuperToolTip = New DevExpress.Utils.SuperToolTip()
+        Dim ToolTipTitleItem1 As DevExpress.Utils.ToolTipTitleItem = New DevExpress.Utils.ToolTipTitleItem()
+        Dim SuperToolTip2 As DevExpress.Utils.SuperToolTip = New DevExpress.Utils.SuperToolTip()
+        Dim ToolTipTitleItem2 As DevExpress.Utils.ToolTipTitleItem = New DevExpress.Utils.ToolTipTitleItem()
+        Me.repositoryItemSpinEdit1 = New DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit()
         Me.popupControlContainer1 = New DevExpress.XtraBars.PopupControlContainer(Me.components)
-        Me.RibMain = New DevExpress.XtraBars.Ribbon.RibbonControl
+        Me.RibMain = New DevExpress.XtraBars.Ribbon.RibbonControl()
         Me.pmAppMain = New DevExpress.XtraBars.Ribbon.ApplicationMenu(Me.components)
         Me.imageCollection1 = New DevExpress.Utils.ImageCollection(Me.components)
-        Me.mnuPainStyle = New DevExpress.XtraBars.BarSubItem
-        Me.biStyle = New DevExpress.XtraBars.BarEditItem
-        Me.riicStyle = New DevExpress.XtraEditors.Repository.RepositoryItemImageComboBox
-        Me.mnuChuongTrinhDaoTao = New DevExpress.XtraBars.BarSubItem
-        Me.mnuToChucThi = New DevExpress.XtraBars.BarSubItem
-        Me.mnuQuaTrinhDiem = New DevExpress.XtraBars.BarSubItem
-        Me.mnuTongHopBaoCao = New DevExpress.XtraBars.BarSubItem
-        Me.mnuXetDuyet = New DevExpress.XtraBars.BarSubItem
-        Me.mnuTimKiem = New DevExpress.XtraBars.BarSubItem
-        Me.mnuDanhMuc = New DevExpress.XtraBars.BarSubItem
-        Me.mnuHeThong = New DevExpress.XtraBars.BarSubItem
+        Me.mnuPainStyle = New DevExpress.XtraBars.BarSubItem()
+        Me.biStyle = New DevExpress.XtraBars.BarEditItem()
+        Me.riicStyle = New DevExpress.XtraEditors.Repository.RepositoryItemImageComboBox()
+        Me.mnuChuongTrinhDaoTao = New DevExpress.XtraBars.BarSubItem()
+        Me.mnuToChucThi = New DevExpress.XtraBars.BarSubItem()
+        Me.mnuQuaTrinhDiem = New DevExpress.XtraBars.BarSubItem()
+        Me.mnuTongHopBaoCao = New DevExpress.XtraBars.BarSubItem()
+        Me.mnuXetDuyet = New DevExpress.XtraBars.BarSubItem()
+        Me.mnuTimKiem = New DevExpress.XtraBars.BarSubItem()
+        Me.mnuDanhMuc = New DevExpress.XtraBars.BarSubItem()
+        Me.mnuHeThong = New DevExpress.XtraBars.BarSubItem()
         Me.imageCollection2 = New DevExpress.Utils.ImageCollection(Me.components)
-        Me.ribbonPageCategory1 = New DevExpress.XtraBars.Ribbon.RibbonPageCategory
-        Me.ribbonPage4 = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribChuongTrinhDaoTao = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgChuongTrinhDaoTao = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RibToChucThi = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgToChucThi = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RibQuaTrinhDiem = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgQuaTrinhDiem = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RibTongHopBaoCao = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgTongHop = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RibXetDuyet = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgXetDuyet = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RibTimKiem = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgTimKiem = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RibDanhMuc = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgDanhMuc = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RibHeThong = New DevExpress.XtraBars.Ribbon.RibbonPage
-        Me.ribgHeThong = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.RepositoryItemPictureEdit1 = New DevExpress.XtraEditors.Repository.RepositoryItemPictureEdit
-        Me.ribbonStatusBar1 = New DevExpress.XtraBars.Ribbon.RibbonStatusBar
+        Me.ribbonPageCategory1 = New DevExpress.XtraBars.Ribbon.RibbonPageCategory()
+        Me.ribbonPage4 = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribChuongTrinhDaoTao = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgChuongTrinhDaoTao = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RibToChucThi = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgToChucThi = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RibQuaTrinhDiem = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgQuaTrinhDiem = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RibTongHopBaoCao = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgTongHop = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RibXetDuyet = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgXetDuyet = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RibTimKiem = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgTimKiem = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RibDanhMuc = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgDanhMuc = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RibHeThong = New DevExpress.XtraBars.Ribbon.RibbonPage()
+        Me.ribgHeThong = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.RepositoryItemPictureEdit1 = New DevExpress.XtraEditors.Repository.RepositoryItemPictureEdit()
+        Me.ribbonStatusBar1 = New DevExpress.XtraBars.Ribbon.RibbonStatusBar()
         Me.imageCollection3 = New DevExpress.Utils.ImageCollection(Me.components)
-        Me.pcAppMenuFileLabels = New DevExpress.XtraEditors.PanelControl
-        Me.labelControl1 = New DevExpress.XtraEditors.LabelControl
-        Me.panelControl1 = New DevExpress.XtraEditors.PanelControl
+        Me.pcAppMenuFileLabels = New DevExpress.XtraEditors.PanelControl()
+        Me.labelControl1 = New DevExpress.XtraEditors.LabelControl()
+        Me.panelControl1 = New DevExpress.XtraEditors.PanelControl()
         Me.defaultLookAndFeel1 = New DevExpress.LookAndFeel.DefaultLookAndFeel(Me.components)
         Me.xtraTabbedMdiManager1 = New DevExpress.XtraTabbedMdi.XtraTabbedMdiManager(Me.components)
-        Me.ribgQuanLyDiem = New DevExpress.XtraBars.Ribbon.RibbonPageGroup
-        Me.BarSubItem1 = New DevExpress.XtraBars.BarSubItem
+        Me.ribgQuanLyDiem = New DevExpress.XtraBars.Ribbon.RibbonPageGroup()
+        Me.BarSubItem1 = New DevExpress.XtraBars.BarSubItem()
         CType(Me.repositoryItemSpinEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.popupControlContainer1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.RibMain, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -72,7 +72,7 @@ Partial Public Class frmESS_Main
         'repositoryItemSpinEdit1
         '
         Me.repositoryItemSpinEdit1.AutoHeight = False
-        Me.repositoryItemSpinEdit1.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton})
+        Me.repositoryItemSpinEdit1.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton()})
         Me.repositoryItemSpinEdit1.IsFloatValue = False
         Me.repositoryItemSpinEdit1.Mask.EditMask = "N00"
         Me.repositoryItemSpinEdit1.MaxValue = New Decimal(New Integer() {50, 0, 0, 0})
@@ -93,12 +93,7 @@ Partial Public Class frmESS_Main
         Me.RibMain.ApplicationButtonDropDownControl = Me.pmAppMain
         Me.RibMain.ApplicationButtonText = Nothing
         Me.RibMain.Categories.AddRange(New DevExpress.XtraBars.BarManagerCategory() {New DevExpress.XtraBars.BarManagerCategory("File", New System.Guid("4b511317-d784-42ba-b4ed-0d2a746d6c1f")), New DevExpress.XtraBars.BarManagerCategory("Edit", New System.Guid("7c2486e1-92ea-4293-ad55-b819f61ff7f1")), New DevExpress.XtraBars.BarManagerCategory("Format", New System.Guid("d3052f28-4b3e-4bae-b581-b3bb1c432258")), New DevExpress.XtraBars.BarManagerCategory("Help", New System.Guid("e07a4c24-66ac-4de6-bbcb-c0b6cfa7798b")), New DevExpress.XtraBars.BarManagerCategory("Status", New System.Guid("77795bb7-9bc5-4dd2-a297-cc758682e23d"))})
-        '
-        '
-        '
         Me.RibMain.ExpandCollapseItem.Id = 0
-        Me.RibMain.ExpandCollapseItem.Name = ""
-        Me.RibMain.ExpandCollapseItem.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.SmallWithoutText
         Me.RibMain.Font = New System.Drawing.Font("Tahoma", 10.0!, System.Drawing.FontStyle.Bold)
         Me.RibMain.Images = Me.imageCollection1
         Me.RibMain.Items.AddRange(New DevExpress.XtraBars.BarItem() {Me.RibMain.ExpandCollapseItem, Me.mnuPainStyle, Me.biStyle, Me.mnuChuongTrinhDaoTao, Me.mnuToChucThi, Me.mnuQuaTrinhDiem, Me.mnuTongHopBaoCao, Me.mnuXetDuyet, Me.mnuTimKiem, Me.mnuDanhMuc, Me.mnuHeThong})
@@ -112,9 +107,8 @@ Partial Public Class frmESS_Main
         Me.RibMain.Pages.AddRange(New DevExpress.XtraBars.Ribbon.RibbonPage() {Me.ribChuongTrinhDaoTao, Me.RibToChucThi, Me.RibQuaTrinhDiem, Me.RibTongHopBaoCao, Me.RibXetDuyet, Me.RibTimKiem, Me.RibDanhMuc, Me.RibHeThong})
         Me.RibMain.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.repositoryItemSpinEdit1, Me.RepositoryItemPictureEdit1, Me.riicStyle})
         Me.RibMain.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonControlStyle.Office2010
-        Me.RibMain.SelectedPage = Me.RibHeThong
         Me.RibMain.ShowToolbarCustomizeItem = False
-        Me.RibMain.Size = New System.Drawing.Size(1093, 148)
+        Me.RibMain.Size = New System.Drawing.Size(1093, 143)
         Me.RibMain.StatusBar = Me.ribbonStatusBar1
         Me.RibMain.Toolbar.ItemLinks.Add(Me.mnuChuongTrinhDaoTao)
         Me.RibMain.Toolbar.ItemLinks.Add(Me.mnuToChucThi)
@@ -129,52 +123,14 @@ Partial Public Class frmESS_Main
         '
         'pmAppMain
         '
-        Me.pmAppMain.BottomPaneControlContainer = Nothing
         Me.pmAppMain.Name = "pmAppMain"
         Me.pmAppMain.Ribbon = Me.RibMain
-        Me.pmAppMain.RightPaneControlContainer = Nothing
         Me.pmAppMain.ShowRightPane = True
         '
         'imageCollection1
         '
         Me.imageCollection1.ImageSize = New System.Drawing.Size(32, 32)
         Me.imageCollection1.ImageStream = CType(resources.GetObject("imageCollection1.ImageStream"), DevExpress.Utils.ImageCollectionStreamer)
-        Me.imageCollection1.Images.SetKeyName(0, "M1.png")
-        Me.imageCollection1.Images.SetKeyName(1, "M2.png")
-        Me.imageCollection1.Images.SetKeyName(2, "M3.png")
-        Me.imageCollection1.Images.SetKeyName(3, "M4.png")
-        Me.imageCollection1.Images.SetKeyName(4, "1 (1).png")
-        Me.imageCollection1.Images.SetKeyName(5, "1 (2).png")
-        Me.imageCollection1.Images.SetKeyName(6, "1 (3).png")
-        Me.imageCollection1.Images.SetKeyName(7, "1 (4).png")
-        Me.imageCollection1.Images.SetKeyName(8, "1 (5).png")
-        Me.imageCollection1.Images.SetKeyName(9, "1 (6).png")
-        Me.imageCollection1.Images.SetKeyName(10, "1 (7).png")
-        Me.imageCollection1.Images.SetKeyName(11, "1 (8).png")
-        Me.imageCollection1.Images.SetKeyName(12, "1 (9).png")
-        Me.imageCollection1.Images.SetKeyName(13, "1 (10).png")
-        Me.imageCollection1.Images.SetKeyName(14, "1 (11).png")
-        Me.imageCollection1.Images.SetKeyName(15, "1 (23).png")
-        Me.imageCollection1.Images.SetKeyName(16, "1 (12).png")
-        Me.imageCollection1.Images.SetKeyName(17, "1 (13).png")
-        Me.imageCollection1.Images.SetKeyName(18, "1 (14).png")
-        Me.imageCollection1.Images.SetKeyName(19, "1 (24).png")
-        Me.imageCollection1.Images.SetKeyName(20, "1 (25).png")
-        Me.imageCollection1.Images.SetKeyName(21, "1 (15).png")
-        Me.imageCollection1.Images.SetKeyName(22, "1 (16).png")
-        Me.imageCollection1.Images.SetKeyName(23, "1 (17).png")
-        Me.imageCollection1.Images.SetKeyName(24, "1 (30).png")
-        Me.imageCollection1.Images.SetKeyName(25, "1 (18).png")
-        Me.imageCollection1.Images.SetKeyName(26, "1 (19).png")
-        Me.imageCollection1.Images.SetKeyName(27, "1 (20).png")
-        Me.imageCollection1.Images.SetKeyName(28, "1 (21).png")
-        Me.imageCollection1.Images.SetKeyName(29, "1 (22).png")
-        Me.imageCollection1.Images.SetKeyName(30, "1 (26).png")
-        Me.imageCollection1.Images.SetKeyName(31, "1 (27).png")
-        Me.imageCollection1.Images.SetKeyName(32, "1 (28).png")
-        Me.imageCollection1.Images.SetKeyName(33, "1 (29).png")
-        Me.imageCollection1.Images.SetKeyName(34, "1 (31).png")
-        Me.imageCollection1.Images.SetKeyName(35, "1 (32).png")
         '
         'mnuPainStyle
         '
@@ -277,10 +233,6 @@ Partial Public Class frmESS_Main
         'imageCollection2
         '
         Me.imageCollection2.ImageStream = CType(resources.GetObject("imageCollection2.ImageStream"), DevExpress.Utils.ImageCollectionStreamer)
-        Me.imageCollection2.Images.SetKeyName(0, "M1.png")
-        Me.imageCollection2.Images.SetKeyName(1, "M2.png")
-        Me.imageCollection2.Images.SetKeyName(2, "M3.png")
-        Me.imageCollection2.Images.SetKeyName(3, "M4.png")
         '
         'ribbonPageCategory1
         '
@@ -302,9 +254,9 @@ Partial Public Class frmESS_Main
         'ribgChuongTrinhDaoTao
         '
         Me.ribgChuongTrinhDaoTao.Name = "ribgChuongTrinhDaoTao"
-        ToolTipTitleItem7.Text = "HỆ THỐNG"
-        SuperToolTip7.Items.Add(ToolTipTitleItem7)
-        Me.ribgChuongTrinhDaoTao.SuperTip = SuperToolTip7
+        ToolTipTitleItem1.Text = "HỆ THỐNG"
+        SuperToolTip1.Items.Add(ToolTipTitleItem1)
+        Me.ribgChuongTrinhDaoTao.SuperTip = SuperToolTip1
         Me.ribgChuongTrinhDaoTao.Text = "Chương trình đào tạo"
         '
         'RibToChucThi
@@ -392,19 +344,15 @@ Partial Public Class frmESS_Main
         '
         'ribbonStatusBar1
         '
-        Me.ribbonStatusBar1.Location = New System.Drawing.Point(0, 560)
+        Me.ribbonStatusBar1.Location = New System.Drawing.Point(0, 552)
         Me.ribbonStatusBar1.Name = "ribbonStatusBar1"
         Me.ribbonStatusBar1.Ribbon = Me.RibMain
-        Me.ribbonStatusBar1.Size = New System.Drawing.Size(1093, 23)
+        Me.ribbonStatusBar1.Size = New System.Drawing.Size(1093, 31)
         '
         'imageCollection3
         '
         Me.imageCollection3.ImageSize = New System.Drawing.Size(15, 15)
         Me.imageCollection3.ImageStream = CType(resources.GetObject("imageCollection3.ImageStream"), DevExpress.Utils.ImageCollectionStreamer)
-        Me.imageCollection3.Images.SetKeyName(0, "M1.png")
-        Me.imageCollection3.Images.SetKeyName(1, "M2.png")
-        Me.imageCollection3.Images.SetKeyName(2, "M3.png")
-        Me.imageCollection3.Images.SetKeyName(3, "M4.png")
         '
         'pcAppMenuFileLabels
         '
@@ -418,7 +366,6 @@ Partial Public Class frmESS_Main
         'labelControl1
         '
         Me.labelControl1.Appearance.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.labelControl1.Appearance.Options.UseFont = True
         Me.labelControl1.AutoSizeMode = DevExpress.XtraEditors.LabelAutoSizeMode.None
         Me.labelControl1.Dock = System.Windows.Forms.DockStyle.Top
         Me.labelControl1.LineLocation = DevExpress.XtraEditors.LineLocation.Bottom
@@ -451,9 +398,9 @@ Partial Public Class frmESS_Main
         'ribgQuanLyDiem
         '
         Me.ribgQuanLyDiem.Name = "ribgQuanLyDiem"
-        ToolTipTitleItem8.Text = "TỔNG HỢP"
-        SuperToolTip8.Items.Add(ToolTipTitleItem8)
-        Me.ribgQuanLyDiem.SuperTip = SuperToolTip8
+        ToolTipTitleItem2.Text = "TỔNG HỢP"
+        SuperToolTip2.Items.Add(ToolTipTitleItem2)
+        Me.ribgQuanLyDiem.SuperTip = SuperToolTip2
         '
         'BarSubItem1
         '
@@ -470,7 +417,6 @@ Partial Public Class frmESS_Main
         Me.ClientSize = New System.Drawing.Size(1093, 583)
         Me.Controls.Add(Me.ribbonStatusBar1)
         Me.Controls.Add(Me.RibMain)
-        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.IsMdiContainer = True
         Me.Name = "frmESS_Main"
         Me.Ribbon = Me.RibMain
@@ -491,6 +437,7 @@ Partial Public Class frmESS_Main
         CType(Me.panelControl1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.xtraTabbedMdiManager1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 

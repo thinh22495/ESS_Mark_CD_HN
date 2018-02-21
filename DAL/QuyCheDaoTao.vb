@@ -62,6 +62,13 @@ Namespace DBManager
                 Throw ex
             End Try
         End Function
+        Public Function Load_quy_che_ID_dt(ByVal ID_dt As Integer) As DataTable
+            Try
+                Return UDB.SelectTable("SELECT Ap_dung_quy_che FROM PLAN_ChuongTrinhDaoTao WHERE ID_dt = " & ID_dt)
+            Catch ex As Exception
+                Throw ex
+            End Try
+        End Function
         Public Function Update_ThamSoQuyChe(ByVal ID_tham_so_qc As Integer, ByVal Gia_tri As Double) As Integer
             Try
                 If gDBType = DatabaseType.SQLServer Then

@@ -1,0 +1,99 @@
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\bin\Debug\ThienAn.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\obj\Debug\ThienAn.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\bin\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\obj\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\bin\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\obj\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\bin\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\obj\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\bin\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\obj\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\bin\Debug\ThienAn.UniLibrary.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\bin\Debug\ThienAn.UniLibrary.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\bin\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\obj\Debug\ThienAn.UniLibrary.frmTrangThai.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\obj\Debug\ThienAn.UniLibrary.Resources.resources
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\obj\Debug\UniLibrary.vbproj.GenerateResource.Cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\obj\Debug\ThienAn.UniLibrary.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\obj\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\UniLibrary\obj\Debug\ThienAn.UniLibrary.pdb

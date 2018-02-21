@@ -489,8 +489,11 @@ Public Class frmESS_TongHopHocToanKhoa
         Me.Cursor = Cursors.WaitCursor
         Try
             Dim clsExcel As New ExportToExcel
-            Dim Tieu_de As String = ""
-            clsExcel.ExportFromC1flexgridToExcel(fgTongHopToanKhoa)
+            'Dim Tieu_de As String = ""
+            'clsExcel.ExportFromC1flexgridToExcel(fgTongHopToanKhoa).
+            Dim dt As DataTable
+            dt = fgTongHopToanKhoa.DataSource
+            ExportToExcel(dt.DefaultView)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try

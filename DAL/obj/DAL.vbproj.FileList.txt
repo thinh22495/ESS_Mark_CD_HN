@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\ESS.DAL.dll.config
+bin\ESS.DAL.dll
+bin\ESS.DAL.pdb
+bin\ESS.xml
+bin\ESS.Machine.dll
+bin\ESS.Machine.pdb
+obj\Debug\ESS.DAL.dll
+obj\Debug\ESS.xml
+obj\Debug\ESS.DAL.pdb

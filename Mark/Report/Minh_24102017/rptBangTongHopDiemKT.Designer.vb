@@ -60,6 +60,7 @@ Partial Public Class rptBangTongHopDiemKT
         Me.Tieu_de_noi_ky = New DevExpress.XtraReports.UI.XRLabel()
         Me.Tieu_de_chuc_danh1 = New DevExpress.XtraReports.UI.XRLabel()
         Me.Tieu_de_nguoi_ky1 = New DevExpress.XtraReports.UI.XRLabel()
+        Me.XrLine1 = New DevExpress.XtraReports.UI.XRLine()
         CType(Me.XrTable2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.XrTable1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -77,7 +78,7 @@ Partial Public Class rptBangTongHopDiemKT
         Me.XrTable2.Borders = CType(((DevExpress.XtraPrinting.BorderSide.Left Or DevExpress.XtraPrinting.BorderSide.Right) _
             Or DevExpress.XtraPrinting.BorderSide.Bottom), DevExpress.XtraPrinting.BorderSide)
         Me.XrTable2.Font = New System.Drawing.Font("Times New Roman", 12.0!)
-        Me.XrTable2.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 0.0!)
+        Me.XrTable2.LocationFloat = New DevExpress.Utils.PointFloat(0!, 0!)
         Me.XrTable2.Name = "XrTable2"
         Me.XrTable2.Rows.AddRange(New DevExpress.XtraReports.UI.XRTableRow() {Me.rowtable2})
         Me.XrTable2.SizeF = New System.Drawing.SizeF(782.0001!, 28.66665!)
@@ -156,7 +157,7 @@ Partial Public Class rptBangTongHopDiemKT
         '
         'ReportHeader
         '
-        Me.ReportHeader.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.XrTable1, Me.XrLabel9, Me.XrLabel10, Me.XrLabel7, Me.lbl_Lop, Me.lbl_Ten_mon_hoc, Me.XrLabel1, Me.XrLine2, Me.Tieu_de_ten_truong, Me.Tieu_de_ten_bo, Me.XrLabel3, Me.XrLabel4, Me.XrLabel6})
+        Me.ReportHeader.Controls.AddRange(New DevExpress.XtraReports.UI.XRControl() {Me.XrLine1, Me.XrTable1, Me.XrLabel9, Me.XrLabel10, Me.XrLabel7, Me.lbl_Lop, Me.lbl_Ten_mon_hoc, Me.XrLabel1, Me.XrLine2, Me.Tieu_de_ten_truong, Me.Tieu_de_ten_bo, Me.XrLabel3, Me.XrLabel4, Me.XrLabel6})
         Me.ReportHeader.HeightF = 287.9167!
         Me.ReportHeader.Name = "ReportHeader"
         '
@@ -166,7 +167,7 @@ Partial Public Class rptBangTongHopDiemKT
             Or DevExpress.XtraPrinting.BorderSide.Right) _
             Or DevExpress.XtraPrinting.BorderSide.Bottom), DevExpress.XtraPrinting.BorderSide)
         Me.XrTable1.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold)
-        Me.XrTable1.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 238.4167!)
+        Me.XrTable1.LocationFloat = New DevExpress.Utils.PointFloat(0!, 238.4167!)
         Me.XrTable1.Name = "XrTable1"
         Me.XrTable1.Rows.AddRange(New DevExpress.XtraReports.UI.XRTableRow() {Me.XrTableRow1})
         Me.XrTable1.SizeF = New System.Drawing.SizeF(782.0001!, 49.49998!)
@@ -261,7 +262,7 @@ Partial Public Class rptBangTongHopDiemKT
         Me.lbl_Lop.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.lbl_Lop.SizeF = New System.Drawing.SizeF(454.1667!, 23.0!)
         Me.lbl_Lop.StylePriority.UseFont = False
-        Me.lbl_Lop.Text = "................................................................................." & _
+        Me.lbl_Lop.Text = "................................................................................." &
     ".................."
         '
         'lbl_Ten_mon_hoc
@@ -286,7 +287,6 @@ Partial Public Class rptBangTongHopDiemKT
         '
         'XrLine2
         '
-        Me.XrLine2.LineStyle = System.Drawing.Drawing2D.DashStyle.Dot
         Me.XrLine2.LocationFloat = New DevExpress.Utils.PointFloat(505.4585!, 46.29167!)
         Me.XrLine2.Name = "XrLine2"
         Me.XrLine2.SizeF = New System.Drawing.SizeF(160.0833!, 2.083332!)
@@ -295,22 +295,22 @@ Partial Public Class rptBangTongHopDiemKT
         'Tieu_de_ten_truong
         '
         Me.Tieu_de_ten_truong.Font = New System.Drawing.Font("Times New Roman", 11.0!, System.Drawing.FontStyle.Bold)
-        Me.Tieu_de_ten_truong.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 22.99999!)
+        Me.Tieu_de_ten_truong.LocationFloat = New DevExpress.Utils.PointFloat(0!, 22.99999!)
         Me.Tieu_de_ten_truong.Name = "Tieu_de_ten_truong"
         Me.Tieu_de_ten_truong.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
-        Me.Tieu_de_ten_truong.SizeF = New System.Drawing.SizeF(356.25!, 37.50002!)
+        Me.Tieu_de_ten_truong.SizeF = New System.Drawing.SizeF(376.0417!, 23.0!)
         Me.Tieu_de_ten_truong.StylePriority.UseFont = False
         Me.Tieu_de_ten_truong.StylePriority.UseTextAlignment = False
-        Me.Tieu_de_ten_truong.Text = "TRƯỜNG CAO ĐẲNG CÔNG NGHỆ VÀ NÔNG LÂM ĐÔNG BẮC"
+        Me.Tieu_de_ten_truong.Text = "TRƯỜNG CAO ĐẲNG CÔNG NGHỆ VÀ NÔNG"
         Me.Tieu_de_ten_truong.TextAlignment = DevExpress.XtraPrinting.TextAlignment.MiddleCenter
         '
         'Tieu_de_ten_bo
         '
         Me.Tieu_de_ten_bo.Font = New System.Drawing.Font("Times New Roman", 11.0!)
-        Me.Tieu_de_ten_bo.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 0.0!)
+        Me.Tieu_de_ten_bo.LocationFloat = New DevExpress.Utils.PointFloat(0!, 0!)
         Me.Tieu_de_ten_bo.Name = "Tieu_de_ten_bo"
         Me.Tieu_de_ten_bo.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
-        Me.Tieu_de_ten_bo.SizeF = New System.Drawing.SizeF(356.25!, 23.0!)
+        Me.Tieu_de_ten_bo.SizeF = New System.Drawing.SizeF(376.0417!, 23.0!)
         Me.Tieu_de_ten_bo.StylePriority.UseFont = False
         Me.Tieu_de_ten_bo.StylePriority.UseTextAlignment = False
         Me.Tieu_de_ten_bo.Text = "BỘ NÔNG NGHIỆP VÀ PTNT"
@@ -319,7 +319,7 @@ Partial Public Class rptBangTongHopDiemKT
         'XrLabel3
         '
         Me.XrLabel3.Font = New System.Drawing.Font("Times New Roman", 11.0!, System.Drawing.FontStyle.Bold)
-        Me.XrLabel3.LocationFloat = New DevExpress.Utils.PointFloat(403.7501!, 0.0!)
+        Me.XrLabel3.LocationFloat = New DevExpress.Utils.PointFloat(403.7501!, 0!)
         Me.XrLabel3.Name = "XrLabel3"
         Me.XrLabel3.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.XrLabel3.SizeF = New System.Drawing.SizeF(373.25!, 23.0!)
@@ -343,7 +343,7 @@ Partial Public Class rptBangTongHopDiemKT
         'XrLabel6
         '
         Me.XrLabel6.Font = New System.Drawing.Font("Times New Roman", 14.0!, System.Drawing.FontStyle.Bold)
-        Me.XrLabel6.LocationFloat = New DevExpress.Utils.PointFloat(0.0!, 89.66666!)
+        Me.XrLabel6.LocationFloat = New DevExpress.Utils.PointFloat(0!, 89.66666!)
         Me.XrLabel6.Name = "XrLabel6"
         Me.XrLabel6.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.XrLabel6.SizeF = New System.Drawing.SizeF(780.0001!, 55.70833!)
@@ -385,7 +385,7 @@ Partial Public Class rptBangTongHopDiemKT
         'Tieu_de_noi_ky
         '
         Me.Tieu_de_noi_ky.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Italic)
-        Me.Tieu_de_noi_ky.LocationFloat = New DevExpress.Utils.PointFloat(450.7857!, 0.0!)
+        Me.Tieu_de_noi_ky.LocationFloat = New DevExpress.Utils.PointFloat(450.7857!, 0!)
         Me.Tieu_de_noi_ky.Name = "Tieu_de_noi_ky"
         Me.Tieu_de_noi_ky.Padding = New DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100.0!)
         Me.Tieu_de_noi_ky.SizeF = New System.Drawing.SizeF(257.0001!, 22.99999!)
@@ -417,6 +417,13 @@ Partial Public Class rptBangTongHopDiemKT
         Me.Tieu_de_nguoi_ky1.StylePriority.UseTextAlignment = False
         Me.Tieu_de_nguoi_ky1.Text = "KHOA/TRƯỞNG BỘ MÔN"
         Me.Tieu_de_nguoi_ky1.TextAlignment = DevExpress.XtraPrinting.TextAlignment.MiddleCenter
+        '
+        'XrLine1
+        '
+        Me.XrLine1.LocationFloat = New DevExpress.Utils.PointFloat(118.75!, 46.29167!)
+        Me.XrLine1.Name = "XrLine1"
+        Me.XrLine1.SizeF = New System.Drawing.SizeF(157.2916!, 2.0!)
+        Me.XrLine1.StylePriority.UseBorderWidth = False
         '
         'rptBangTongHopDiemKT
         '
@@ -469,4 +476,5 @@ Partial Public Class rptBangTongHopDiemKT
     Friend WithEvents Tieu_de_noi_ky As DevExpress.XtraReports.UI.XRLabel
     Friend WithEvents Tieu_de_chuc_danh1 As DevExpress.XtraReports.UI.XRLabel
     Friend WithEvents Tieu_de_nguoi_ky1 As DevExpress.XtraReports.UI.XRLabel
+    Friend WithEvents XrLine1 As DevExpress.XtraReports.UI.XRLine
 End Class

@@ -63,6 +63,7 @@ Partial Class frmESS_NhapDiemThanhPhanLop
         Me.btnDanh_sach_du_thi = New DevExpress.XtraBars.BarButtonItem()
         Me.cmdPhieuKiemTra = New DevExpress.XtraBars.BarButtonItem()
         Me.btnHocBu = New DevExpress.XtraBars.BarButtonItem()
+        Me.BarButtonItem6 = New DevExpress.XtraBars.BarButtonItem()
         Me.BarManager1 = New DevExpress.XtraBars.BarManager(Me.components)
         Me.BarDockControl1 = New DevExpress.XtraBars.BarDockControl()
         Me.BarDockControl2 = New DevExpress.XtraBars.BarDockControl()
@@ -89,7 +90,7 @@ Partial Class frmESS_NhapDiemThanhPhanLop
         Me.cmdPrint = New DevExpress.XtraEditors.DropDownButton()
         Me.cb_Diem_la0 = New System.Windows.Forms.CheckBox()
         Me.optAll_Lop = New System.Windows.Forms.CheckBox()
-        Me.BarButtonItem6 = New DevExpress.XtraBars.BarButtonItem()
+        Me.chk_ds_day_du = New System.Windows.Forms.CheckBox()
         CType(Me.grdViewDiem, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
         CType(Me.PopupMenu3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -523,6 +524,12 @@ Partial Class frmESS_NhapDiemThanhPhanLop
         Me.btnHocBu.Id = 4
         Me.btnHocBu.Name = "btnHocBu"
         '
+        'BarButtonItem6
+        '
+        Me.BarButtonItem6.Caption = "Bảng tổng hợp điểm KTTX, ĐK"
+        Me.BarButtonItem6.Id = 5
+        Me.BarButtonItem6.Name = "BarButtonItem6"
+        '
         'BarManager1
         '
         Me.BarManager1.Categories.AddRange(New DevExpress.XtraBars.BarManagerCategory() {New DevExpress.XtraBars.BarManagerCategory("PopupMenu", New System.Guid("e259ec3f-8673-4306-bb4f-94322df1890e"))})
@@ -674,7 +681,7 @@ Partial Class frmESS_NhapDiemThanhPhanLop
         Me.cb_Diem_la0.BackColor = System.Drawing.Color.Transparent
         Me.cb_Diem_la0.Location = New System.Drawing.Point(348, 142)
         Me.cb_Diem_la0.Name = "cb_Diem_la0"
-        Me.cb_Diem_la0.Size = New System.Drawing.Size(773, 24)
+        Me.cb_Diem_la0.Size = New System.Drawing.Size(180, 24)
         Me.cb_Diem_la0.TabIndex = 229
         Me.cb_Diem_la0.Text = "Tự cập nhập điểm 0"
         Me.cb_Diem_la0.UseVisualStyleBackColor = False
@@ -690,16 +697,23 @@ Partial Class frmESS_NhapDiemThanhPhanLop
         Me.optAll_Lop.UseVisualStyleBackColor = True
         Me.optAll_Lop.Visible = False
         '
-        'BarButtonItem6
+        'chk_ds_day_du
         '
-        Me.BarButtonItem6.Caption = "Bảng tổng hợp điểm KTTX, ĐK"
-        Me.BarButtonItem6.Id = 5
-        Me.BarButtonItem6.Name = "BarButtonItem6"
+        Me.chk_ds_day_du.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.chk_ds_day_du.BackColor = System.Drawing.Color.Transparent
+        Me.chk_ds_day_du.Location = New System.Drawing.Point(582, 142)
+        Me.chk_ds_day_du.Name = "chk_ds_day_du"
+        Me.chk_ds_day_du.Size = New System.Drawing.Size(180, 24)
+        Me.chk_ds_day_du.TabIndex = 251
+        Me.chk_ds_day_du.Text = "Danh sách đầy đủ"
+        Me.chk_ds_day_du.UseVisualStyleBackColor = False
         '
         'frmESS_NhapDiemThanhPhanLop
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit
         Me.ClientSize = New System.Drawing.Size(1160, 566)
+        Me.Controls.Add(Me.chk_ds_day_du)
         Me.Controls.Add(Me.optAll_Lop)
         Me.Controls.Add(Me.cb_Diem_la0)
         Me.Controls.Add(Me.cmdPrint)
@@ -811,4 +825,5 @@ Partial Class frmESS_NhapDiemThanhPhanLop
     Friend WithEvents cmdPhieuKiemTra As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents btnHocBu As DevExpress.XtraBars.BarButtonItem
     Friend WithEvents BarButtonItem6 As DevExpress.XtraBars.BarButtonItem
+    Friend WithEvents chk_ds_day_du As System.Windows.Forms.CheckBox
 End Class

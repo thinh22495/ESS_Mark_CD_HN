@@ -98,12 +98,14 @@ Public Class frmESS_DMHeDaoTao
         txtTen.Text = ValueTen
         txtTenEn.Text = ValueTenEn
         txtQuy_che.Text = Value_QC
+        cmbQuyChe.SelectedValue = Value_QC
     End Sub
     Private Sub GetValueFromUI()
         ValueMa = txtMa.Text
         ValueTen = txtTen.Text
         ValueTenEn = txtTenEn.Text
-        Value_QC = txtQuy_che.Text
+        ''Value_QC = txtQuy_che.Text
+        Value_QC = cmbQuyChe.SelectedValue
     End Sub
     Private Function ValidForm() As Boolean
         Dim msgValid As String = ""
@@ -152,6 +154,7 @@ Public Class frmESS_DMHeDaoTao
         txtTen.Enabled = status
         txtTenEn.Enabled = status
         txtQuy_che.Enabled = status
+        cmbQuyChe.Enabled = status
     End Sub
     Private Sub ReloadDataGridView()
         DataGridViewDM.DataSource = cls.CatalogueLoad(TableName).DefaultView
@@ -161,19 +164,24 @@ Public Class frmESS_DMHeDaoTao
         SetValueFromUI()
     End Sub
     Private Function CheckSelectedGridView() As Boolean
-        Dim rowCurr As DataGridViewRow = DataGridViewDM.CurrentRow
-        If Not rowCurr Is Nothing Then
-            ValueID = rowCurr.Cells(FieldID).Value
-            ValueMa = rowCurr.Cells(FieldMa).Value
-            ValueTen = rowCurr.Cells(FieldTen).Value
-            ValueTenEn = rowCurr.Cells(FieldTenEn).Value
-            Value_QC = rowCurr.Cells(FieldTen_QC).Value
-            SetValueFromUI()
-            Return True
-        Else
-            Thongbao("Bạn chưa chọn bản ghi nào !", MsgBoxStyle.OkOnly)
-            Return False
-        End If
+        Try
+            Dim rowCurr As DataGridViewRow = DataGridViewDM.CurrentRow
+            If Not rowCurr Is Nothing Then
+                ValueID = rowCurr.Cells(FieldID).Value
+                ValueMa = rowCurr.Cells(FieldMa).Value
+                ValueTen = rowCurr.Cells(FieldTen).Value
+                ValueTenEn = IIf(IsDBNull(rowCurr.Cells(FieldTenEn).Value), "", rowCurr.Cells(FieldTenEn).Value)
+                Value_QC = rowCurr.Cells(FieldTen_QC).Value
+                SetValueFromUI()
+                Return True
+            Else
+                Thongbao("Bạn chưa chọn bản ghi nào !", MsgBoxStyle.OkOnly)
+                Return False
+            End If
+        Catch ex As Exception
+
+        End Try
+
     End Function
     Private Function CheckExist(ByVal Ma As String) As Boolean
         If cls.CheckExist_Ma(TableName, FieldMa, Ma) Then
@@ -191,8 +199,12 @@ Public Class frmESS_DMHeDaoTao
     End Sub
 #End Region
 #Region "Form Event"
+
     Private Sub frmESS_DM_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Try
+            Dim dt As DataTable
+            dt = ESS.Machine.UDB.SelectTable("SELECT DISTINCT Quy_che, N'Quy chế ' + CONVERT(nvarchar(10),Quy_che) Ten_quy_che FROM MARK_ThamSoQuyChe")
+            FillCombo(cmbQuyChe, dt)
             ShowCaption()
             FormatDataGridView()
             ReloadDataGridView()

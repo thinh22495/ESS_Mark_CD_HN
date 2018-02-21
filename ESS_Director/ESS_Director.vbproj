@@ -282,6 +282,9 @@
       <DependentUpon>frmESS_Login.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmESS_Main.resx">
+      <DependentUpon>frmESS_Main.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmESS_MsgBox.resx">
       <DependentUpon>frmESS_MsgBox.vb</DependentUpon>
       <SubType>Designer</SubType>
@@ -290,6 +293,7 @@
       <DependentUpon>frmESS_ServerChange.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>

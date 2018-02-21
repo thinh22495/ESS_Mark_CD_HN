@@ -59,8 +59,11 @@ Public Class frmTongHopSinhVienThiLai
     Private Sub cmdExcel_Mon_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdExcel_Mon.Click
         Me.Cursor = Cursors.WaitCursor
         Try
-            Dim clsExcel As New ExportToExcel
-            clsExcel.ExportFromDataGridViewToExcel(grdViewDanhSachMon)
+            'Dim clsExcel As New ExportToExcel
+            'clsExcel.ExportFromDataGridViewToExcel(grdViewDanhSachMon)
+            Dim dt As DataTable
+            dt = grdViewDanhSachMon.DataSource
+            ExportToExcel(dt.DefaultView)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try
@@ -69,8 +72,12 @@ Public Class frmTongHopSinhVienThiLai
     Private Sub cmdExcel_Chitiet_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdExcel_Chitiet.Click
         Me.Cursor = Cursors.WaitCursor
         Try
-            Dim clsExcel As New ExportToExcel
-            clsExcel.ExportFromDataGridViewToExcel(grdViewDanhsachChitiet)
+            'Dim clsExcel As New ExportToExcel
+            'clsExcel.ExportFromDataGridViewToExcel(grdViewDanhsachChitiet)
+            'clsExcel.ExportFromDataGridViewToExcel(grdViewDiem, Nothing)
+            Dim dt As DataTable
+            dt = grdViewDanhsachChitiet.DataSource
+            ExportToExcel(dt.DefaultView)
         Catch ex As Exception
             Thongbao(ex.Message)
         End Try

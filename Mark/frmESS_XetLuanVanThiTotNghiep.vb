@@ -1,6 +1,8 @@
 ﻿Imports System.Drawing.Drawing2D
 Imports ESS.BLL.Business
 Imports ESS.Entity.Entity
+Imports DevExpress.XtraReports.UI
+
 Public Class frmESS_XetLuanVanThiTotNghiep
     Dim dt_ds_lv, dt_ds_thi As DataTable
     Dim clsXet As DanhSachLuanVanThiNoTotNghiep_BLL
@@ -313,5 +315,15 @@ Public Class frmESS_XetLuanVanThiTotNghiep
 
     Private Sub cmbLan_xet_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbLan_xet.SelectedIndexChanged
 
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Try
+            Dim report As New rptDanhSachSinhVienDuDienKienThi(txtMon_tot_nghiep.Text, "", "", "")
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+        Catch ex As Exception
+
+        End Try
     End Sub
 End Class

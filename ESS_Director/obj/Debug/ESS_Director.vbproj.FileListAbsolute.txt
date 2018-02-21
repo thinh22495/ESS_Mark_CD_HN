@@ -1,0 +1,1302 @@
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Working\NamVietJSC\CDN CNC Ha Noi\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN Nha Trang\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\Cao dang nghe Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN VietHan Bac Giang\ESSOFT\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Working\NamVietJSC\CDN KT Cong nghe HCM\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+F:\WORK\WIN_FORM\QUANG NGAI\MARK\ESS_Mark_QN\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe.config
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ADODB.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Data.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Data.DataSetExtensions.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Data.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Deployment.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Drawing.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Management.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Windows.Forms.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Xml.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\System.Xml.Linq.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Data.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbprojResolveAssemblyReference.cache
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+F:\DuAn_NamViet\CaoDangNghe_NongLam_DongBac\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe.config
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.exe
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Director.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ADODB.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\C1.Common.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Data.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Deployment.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Drawing.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Management.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Windows.Forms.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Xml.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\System.Xml.Linq.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Project\ESS_Mark_NLDB\ESS_Mark\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ADODB.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\C1.Common.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Data.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Deployment.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Drawing.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Management.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Xml.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\System.Xml.Linq.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Project\ESS_Mark_CND_NLDB\ESS_Director\obj\Debug\ESS_Director.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.exe.config
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.exe
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ADODB.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Common.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.PrintUtil.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.BLL.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Catalogue.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.DAL.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Entity.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Library.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Machine.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Mark.exe
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Reports.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\HttpDownload.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Interop.Excel.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Interop.Scripting.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Data.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Deployment.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Drawing.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Management.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Windows.Forms.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Xml.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Xml.Linq.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.BLL.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Machine.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.DAL.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Entity.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Reports.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Reports.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Library.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Mark.pdb
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.vbprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.exe
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.xml
+C:\Users\Minh\Desktop\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.exe.config
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.exe
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Director.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ADODB.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Common.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Library.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\HttpDownload.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Data.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Deployment.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Drawing.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Management.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Windows.Forms.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Xml.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\System.Xml.Linq.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.vbprojResolveAssemblyReference.cache
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_Main.resources
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.exe
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.pdb
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.DataAccess.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS.DAL.dll.config
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ESS_Mark.exe.config
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.DataAccess.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\Project\ESS_Mark_CDN_HN\ESS_Director\obj\Debug\ESS_Director.vbproj.CoreCompileInputs.cache
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Director.exe.config
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Director.exe
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Director.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Director.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ADODB.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\C1.C1PrintDocument.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\C1.Common.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\C1.PrintUtil.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\C1.Win.C1PrintPreview.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\C1.Win.C1Report.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Data.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.BLL.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Catalogue.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.DAL.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Entity.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Library.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Machine.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Mark.exe
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Reports.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\HttpDownload.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\Interop.Excel.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\Interop.Scripting.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\Janus.Windows.Common.v2.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\Janus.Windows.UI.v2.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Data.DataSetExtensions.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Data.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Deployment.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Drawing.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Management.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Windows.Forms.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Xml.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\System.Xml.Linq.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.BLL.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Machine.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.DAL.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Catalogue.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Entity.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Reports.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Reports.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS.Library.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ESS_Mark.pdb
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Data.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.vbprojResolveAssemblyReference.cache
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_Login.resources
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_Main.resources
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_MsgBox.resources
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.frmESS_ServerChange.resources
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.Resources.resources
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.XtraForm1.resources
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.vbproj.GenerateResource.Cache
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.exe.licenses
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.exe
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.xml
+D:\ESS_Mark_CD_HN\ESS_Director\obj\Debug\ESS_Director.pdb

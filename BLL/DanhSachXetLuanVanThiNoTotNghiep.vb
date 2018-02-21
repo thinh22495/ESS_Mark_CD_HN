@@ -20,7 +20,7 @@ Namespace Business
 #Region "Constructor"
         Sub New(ByVal ID_he As Integer, ByVal ID_dv As String, ByVal ID_bomon As Integer, ByVal dsID_lop As String, ByVal ID_dt As Integer, ByVal DanhSachSinhVien As DataTable)
             Try
-                QC = New QuyCheDaoTao(ID_he)
+                QC = New QuyCheDaoTao(ID_he, ID_dt)
                 mdtDanhSachSinhVien = DanhSachSinhVien
                 mID_dv = ID_dv
                 mdsID_lop = dsID_lop

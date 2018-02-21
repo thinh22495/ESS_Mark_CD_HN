@@ -28,6 +28,7 @@ Namespace Entity
         Private mChuongTrinhDaoTaoLop As New ChuongTrinhDaoTaoLop
         Private mChuongTrinhDaoTaoRangBuoc As New ChuongTrinhDaoTaoMonHocRangBuoc
         Private mChuongTrinhDaoTaoNhomTuChon As New ChuongTrinhDaoTaoNhomTuChon
+        Private mQuy_che As String = ""
 #End Region
 
 #Region "Property"
@@ -133,6 +134,14 @@ Namespace Entity
             End Get
             Set(ByVal Value As String)
                 mChuyen_nganh = Value
+            End Set
+        End Property
+        Public Property Quy_che() As String
+            Get
+                Return mQuy_che
+            End Get
+            Set(ByVal Value As String)
+                mQuy_che = Value
             End Set
         End Property
         Public Property ChuongTrinhDaoTaoChiTiet() As ChuongTrinhDaoTaoChiTiet

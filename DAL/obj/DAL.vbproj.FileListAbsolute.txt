@@ -1,0 +1,90 @@
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\bin\ThienAn.DAL.dll.config
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\bin\ThienAn.DAL.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\bin\ThienAn.DAL.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\bin\ThienAn.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\bin\ThienAn.Machine.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\bin\ThienAn.Machine.pdb
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\obj\Debug\ThienAn.DAL.dll
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\obj\Debug\ThienAn.xml
+D:\TA Company\Nien Che\Unisoft_DaoTao_NienChe\DAL\obj\Debug\ThienAn.DAL.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\bin\ThienAn.DAL.dll.config
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\bin\ThienAn.DAL.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\bin\ThienAn.DAL.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\bin\ThienAn.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\bin\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\bin\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\obj\Debug\ThienAn.DAL.dll
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\obj\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Y Thanh Hoa\Unisoft_thanhhoa\DAL\obj\Debug\ThienAn.DAL.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\bin\ThienAn.DAL.dll.config
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\bin\ThienAn.DAL.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\bin\ThienAn.DAL.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\bin\ThienAn.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\bin\ThienAn.Machine.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\bin\ThienAn.Machine.pdb
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\obj\Debug\ThienAn.DAL.dll
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\obj\Debug\ThienAn.xml
+D:\TA Company\Cao Dang Cong Dong Hai Phong\Unisoft_HaiPhong\DAL\obj\Debug\ThienAn.DAL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\bin\ThienAn.DAL.dll.config
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\bin\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\bin\ThienAn.DAL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\bin\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\obj\Debug\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\obj\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\CD Cong Dong Hai Phong\UNISOFT_CDCD_HaiPhong\DAL\obj\Debug\ThienAn.DAL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.dll.config
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.Machine.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.Machine.pdb
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.DAL.dll
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.xml
+E:\Cong ty\UNISOFT_Project\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.DAL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.dll.config
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\bin\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.DAL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\DH_DaiNam\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.DAL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.dll.config
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\bin\ThienAn.DAL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\bin\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.DAL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa\DAL\obj\Debug\ThienAn.DAL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\bin\ThienAn.DAL.dll.config
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\bin\ThienAn.DAL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\bin\ThienAn.DAL.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\bin\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\bin\ThienAn.Machine.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\bin\ThienAn.Machine.pdb
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\obj\Debug\ThienAn.DAL.dll
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\obj\Debug\ThienAn.xml
+D:\Project_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109\DAL\obj\Debug\ThienAn.DAL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\bin\ThienAn.DAL.dll.config
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\bin\ThienAn.DAL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\bin\ThienAn.DAL.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\bin\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\bin\ThienAn.Machine.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\bin\ThienAn.Machine.pdb
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\obj\Debug\ThienAn.DAL.dll
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\obj\Debug\ThienAn.xml
+D:\PROJECT_UNISOFT\UNISOFT_NienChe\UNISOFT_ChuanHoa on 192.168.1.109 on 192.168.1.100\DAL\obj\Debug\ThienAn.DAL.pdb

@@ -1,0 +1,15 @@
+bin\Interop.Excel.dll
+bin\C1.Win.C1FlexGrid.dll
+obj\Debug\ResolveAssemblyReference.cache
+bin\ESS.BLL.dll
+bin\ESS.BLL.pdb
+bin\ESS.xml
+bin\ESS.DAL.dll
+bin\ESS.Machine.dll
+bin\ESS.Machine.pdb
+bin\ESS.DAL.pdb
+obj\Debug\ESS.BLL.dll
+obj\Debug\ESS.xml
+obj\Debug\ESS.BLL.pdb
+bin\ESS.Library.dll
+bin\ESS.Library.pdb

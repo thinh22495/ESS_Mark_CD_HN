@@ -23,15 +23,6 @@ Public Class frmESS_ToChucThi_DanhSach
     Private clsDiem As New Diem_BLL
     Private mdtDanhSachSinhVien As New DataTable
 #Region "Form Events"
-    Private Sub frmESS_ToChucThiList_Load(ByVal sender As Object, ByVal e As System.EventArgs)
-        Try
-            'SetUpDataGridView(grdViewDanhSachThi)
-            Loader = True
-            SetQuyenTruyCap(btnAdd_sv, btnToTucThi, btnXoa_TCT, btnDel_sv)
-        Catch ex As Exception
-            Thongbao(ex.Message)
-        End Try
-    End Sub
 
     Private Sub frmESS_ToChucThiList_Paint(ByVal sender As Object, ByVal e As System.Windows.Forms.PaintEventArgs)
         Dim brush As Brush = New LinearGradientBrush(New Rectangle(0, 0, Width, Height), gBgColor1, gBgColor2, 90.0F)
@@ -2152,6 +2143,63 @@ Public Class frmESS_ToChucThi_DanhSach
             If dtMonHoc.Rows.Count > 0 Then
                 Ten_mon = dtMonHoc.Rows(0)("Ten_mon")
             End If
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem11_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles BarButtonItem11.ItemClick
+        Try
+            Dim dv As DataView = grdViewDanhSachThi.DataSource
+            Dim dt As DataTable = ESS.Machine.UDB.SelectTable("SELECT * FROM MARK_TochucThi WHERE ID_thi = " & trvPhongThi.ID_thi)
+            Dim Ngay_thi As String = ""
+            If dt.Rows.Count > 0 Then
+                Ngay_thi = Convert.ToDateTime(dt.Rows(0)("Ngay_thi").ToString).ToString("dd/MM/yyyy").ToString
+            Else
+                Ngay_thi = "........................................."
+            End If
+            Dim report As New rptDanhSachPhongThiTotNghiep(dv, trvPhongThi.Ten_mon, Ngay_thi)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub frmESS_ToChucThi_DanhSach_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Try
+            'SetUpDataGridView(grdViewDanhSachThi)
+            Loader = True
+            SetQuyenTruyCap(btnAdd_sv, btnToTucThi, btnXoa_TCT, btnDel_sv)
+        Catch ex As Exception
+            Thongbao(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub Print_DanhSachPhongThiThucHanh_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles Print_DanhSachPhongThiThucHanh.ItemClick
+        Try
+            Dim dv As DataView = grdViewDanhSachThi.DataSource
+            Dim report As New rpt_DanhSachPhongThiThucHanh(dv)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
+        Catch ex As Exception
+
+        End Try
+    End Sub
+
+    Private Sub BarButtonItem12_ItemClick(sender As Object, e As DevExpress.XtraBars.ItemClickEventArgs) Handles Print_DanhsachDuKT_het_mon.ItemClick
+        Try
+            Dim dv As DataView = grdViewDanhSachThi.DataSource
+            Dim dt As DataTable = ESS.Machine.UDB.SelectTable("SELECT * FROM MARK_TochucThi WHERE ID_thi = " & trvPhongThi.ID_thi)
+            Dim Ngay_thi As String = ""
+            If dt.Rows.Count > 0 Then
+                Ngay_thi = Convert.ToDateTime(dt.Rows(0)("Ngay_thi").ToString).ToString("dd/MM/yyyy").ToString
+            Else
+                Ngay_thi = "........................................."
+            End If
+            Dim report As New rptDanhSachDuKiemTraHetMon(dv, trvPhongThi.Ten_mon, Ngay_thi)
+            Dim printTool As New ReportPrintTool(report)
+            printTool.ShowPreviewDialog()
         Catch ex As Exception
 
         End Try

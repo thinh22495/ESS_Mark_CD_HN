@@ -154,9 +154,12 @@ Public Class frmESS_NoKhacKhiXetTotNghiep
         Me.Cursor = Cursors.WaitCursor
         Try
             If Not grdViewNoKhacXetTotNghiep.DataSource Is Nothing Then
-                Dim clsExcel As New ExportToExcel
-                Dim Tieu_de As String = ""
-                clsExcel.ExportFromDataGridViewToExcel(grdViewNoKhacXetTotNghiep)
+                'Dim clsExcel As New ExportToExcel
+                'Dim Tieu_de As String = ""
+                'clsExcel.ExportFromDataGridViewToExcel(grdViewNoKhacXetTotNghiep)
+                Dim dt As DataTable
+                dt = grdViewNoKhacXetTotNghiep.DataSource
+                ExportToExcel(dt.DefaultView)
             Else
                 Thongbao("Chưa có dữ liệu !")
             End If
